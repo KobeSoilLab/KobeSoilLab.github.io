@@ -5,6 +5,8 @@ subtitle:
 #cover-img: /assets/img/
 ---
 
+2021年前期現在のメンバー
+
 ## 教授  
 **藤嶽　暢英　Nobuhide Fujitake**  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
@@ -15,9 +17,7 @@ subtitle:
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**
 
-**木田　森丸　Morimaru Kida**  
-
-![image](https://user-images.githubusercontent.com/85348576/122506745-e5ad8680-d039-11eb-9055-474105da8cd2.png)  
+**木田　森丸　Morimaru Kida**    
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
 [こちらをどうぞ](https://morimarukida.github.io/)  
   
