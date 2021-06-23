@@ -11,7 +11,8 @@ cover-img: /assets/img/2021member.jpg
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
 野外調査と室内実験のギャップを楽しんでいる？  
 力持ちで意外と器用です。趣味は。。。  
-[こちらや](https://weebee1212.com/interview/content.php?id=1)　[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)　[こちらもどうぞ](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)　[そして、こちらもどうぞ（出演はこの内10分だけです）](https://audee.jp/voice/show/27806)
+[こちらや](https://weebee1212.com/interview/content.php?id=1)　[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)　[こちらもどうぞ](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)　[そして、こちらもどうぞ（出演はこの内10分だけです）](https://audee.jp/voice/show/27806)  
+***
 
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**  
@@ -21,6 +22,7 @@ cover-img: /assets/img/2021member.jpg
 <img src="/assets/img/kida.jpg" alt="image" width="300" height="300">  
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
 [こちらをどうぞ](https://morimarukida.github.io/)  
+***
 
 ## 博士後期課程（ドクターコース）
  
@@ -34,6 +36,7 @@ cover-img: /assets/img/2021member.jpg
 テーマ：スコットランド西岸域のピート土壌の特性解析  
 一言：現在エジンバラに長期出張してます。  
   
+***
 
 ## 博士前期課程（マスターコース）2年
 
@@ -65,6 +68,7 @@ cover-img: /assets/img/2021member.jpg
 趣味：旅行  
 一言：日本語を一生懸命勉強しています！
 
+***
 
 ## 博士前期課程（マスターコース）1年
  
@@ -109,6 +113,7 @@ cover-img: /assets/img/2021member.jpg
 趣味：スポーツ  
 一言： You’ll see more with your eyes closed.
 
+***
 
 ## 学部4年
 
@@ -146,6 +151,7 @@ cover-img: /assets/img/2021member.jpg
 趣味：お笑い見ること  
 一言：運転結構できるタイプです。
 
+***
 ## 研究生  
 **雪　俐　Li Xue**  
 出身地：中国 内モンゴル  
