@@ -20,7 +20,7 @@ subtitle:
 **木田　森丸　Morimaru Kida**    
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
 [こちらをどうぞ](https://morimarukida.github.io/)  
-![image]( /assets/img/kida.jpg)
+######![image]( /assets/img/kida.jpg)
 
 ## 博士後期課程（ドクターコース）
  
