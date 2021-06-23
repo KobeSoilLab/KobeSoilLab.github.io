@@ -2,7 +2,7 @@
 layout: page
 title: MEMBER
 subtitle: 
-#cover-img: /assets/img/
+cover-img: /assets/img/2021member.jpg
 ---
 
 
