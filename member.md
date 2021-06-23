@@ -5,7 +5,6 @@ subtitle:
 #cover-img: /assets/img/
 ---
 
-2021年前期現在のメンバー
 
 ## 教授  
 **藤嶽　暢英　Nobuhide Fujitake**  
@@ -16,11 +15,12 @@ subtitle:
 
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**
+![image](/assets/img/istock_000021529689large.jpg)
 
 **木田　森丸　Morimaru Kida**    
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
 [こちらをどうぞ](https://morimarukida.github.io/)  
-  
+![image]( /assets/img/kida.jpg)
 
 ## 博士後期課程（ドクターコース）
  
