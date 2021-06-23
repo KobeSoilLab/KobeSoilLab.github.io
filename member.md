@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Join Us!
-subtitle: Find out how you can join our group
+title: MEMBER
+subtitle: 
 cover-img: /assets/img/
 ---
 
