@@ -1,3 +1,10 @@
+---
+layout: page
+title: Join Us!
+subtitle: Find out how you can join our group
+cover-img: /assets/img/
+---
+
 ## 教授  
 **藤嶽　暢英　Nobuhide Fujitake**  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
