@@ -15,7 +15,7 @@ subtitle:
 
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**
-![image](/assets/img/istock_000021529689large.jpg)
+<img src="***/assets/img/istock_000021529689large.jpg***" width="***320px***">
 
 **木田　森丸　Morimaru Kida**    
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
