@@ -3,6 +3,7 @@ layout: page
 title: ABOUT
 subtitle: 
 cover-img: 
+---
 
 # 土壌学とは。。。  
 土壌学とは，その文字通り「土」を研究する学問分野です。
