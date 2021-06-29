@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/homewide.png
+cover-img: /assets/img/soulofsoil.png
 ---
 ***
 _posted on 21 June 2021_
