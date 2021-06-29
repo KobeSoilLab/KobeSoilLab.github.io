@@ -1,3 +1,9 @@
+---
+layout: page
+title: PUBLICATIONS
+subtitle: 
+cover-img: 
+---
 # 過去10年の投稿論文  
 ### 2020
 * [Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., Kida, M., Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., Fujitake, N. (2020) Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation. Forests, 2020年11月](https://www.mdpi.com/1999-4907/11/10/1041)
