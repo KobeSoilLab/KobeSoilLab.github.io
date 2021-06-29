@@ -1,6 +1,6 @@
 ---
 layout: home
-cover-img: /assets/img/sign023.png
+cover-img: /assets/img/sign023wide.png
 ---
 ***
 _posted on 21 June 2021_
