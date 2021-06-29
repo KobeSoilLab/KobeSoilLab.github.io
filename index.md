@@ -1,7 +1,5 @@
 ---
 layout: home
-title: #### 神戸大学土壌学研究室
-subtitle: ようこそ!
 cover-img: /assets/img/sign023.png
 ---
 ***
