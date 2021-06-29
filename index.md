@@ -1,6 +1,6 @@
 ---
 layout: home
-cover-img: /assets/img/.png
+cover-img: /assets/img/home.png
 ---
 ***
 _posted on 21 June 2021_
