@@ -2,7 +2,7 @@
 layout: home
 title: 神戸大学土壌学研究室
 subtitle: ようこそ!
-cover-img: /assets/img/DSCF8546.jpg
+cover-img: /assets/img/horider_ani.gif
 ---
 ***
 _posted on 21 June 2021_
