@@ -90,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "神戸大,土壌研,土壌学研究室,土壌有機物,溶存有機物,土壌,藤嶽"
