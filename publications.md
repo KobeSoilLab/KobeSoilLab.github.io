@@ -6,7 +6,7 @@ cover-img:
 ---
 # 過去10年の投稿論文  
 ### 2021
-* Kida, M., Fujitake, N., Kojima, T., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
+* **Kida, M.**, **Fujitake, N**., **Kojima, T**., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
 
 ### 2020
 * [Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., Kida, M., Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., Fujitake, N. (2020) Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation. Forests.](https://www.mdpi.com/1999-4907/11/10/1041)
