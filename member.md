@@ -15,7 +15,7 @@ subtitle:
 
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**  
-<img src="/assets/img/istock_000021529689large.jpg" alt="image" width="200" height="200">
+<img src="/assets/img/istock_000021529689large.jpg" alt="image" width="200" height="200">  
 主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。
 
 **木田　森丸　Morimaru Kida**  
