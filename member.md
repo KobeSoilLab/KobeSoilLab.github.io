@@ -9,21 +9,21 @@ subtitle:
 ## 教授  
 **藤嶽　暢英　Nobuhide Fujitake**  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
-野外調査と室内実験のギャップを楽しんでいる？  
-力持ちで意外と器用です。趣味は。。。  
-[こちらや](https://weebee1212.com/interview/content.php?id=1)　[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)　[こちらもどうぞ](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)　[そして、こちらもどうぞ（出演はこの内10分だけです）](https://audee.jp/voice/show/27806)  
+野外調査と室内実験のギャップを楽しんでいる？力持ちで意外と器用です。趣味は。。。  
+[こちらや](https://weebee1212.com/interview/content.php?id=1)、[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)、[こちらもどうぞ](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)。[そして、こちらもどうぞ（出演はこの内10分だけです）](https://audee.jp/voice/show/27806)  
 ***
 
 ## 助教  
 **鈴木　武志　Takeshi Suzuki**  
 <img src="/assets/img/istock_000021529689large.jpg" alt="image" width="200" height="200">
+主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。
 
 **木田　森丸　Morimaru Kida**  
 <img src="/assets/img/kida.jpg" alt="image" width="200" height="200">  
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
-[こちらをどうぞ](https://morimarukida.github.io/)  
-***
+[グループHP](https://morimarukida.github.io/)
 
+***
 ## 博士後期課程（ドクターコース）
  
 **豊田(堂本) 晶子 (D4) Akiko Toyoda-Domoto**  
