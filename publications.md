@@ -5,7 +5,7 @@ subtitle:
 cover-img: 
 ---
 # 過去10年の投稿論文  
-### 2020
+### 2021
 Kida, M., Fujitake, N., Kojima, T., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
 
 ### 2020
@@ -54,6 +54,9 @@ Kida, M., Fujitake, N., Kojima, T., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar,
 * Saito, T., Terashima, M., Aoyagi, N., Nagao, S., Fujitake, N., Ohnuki, T. (2015) Physicochemical and ion-binding properties of highly aliphatic humic substances extracted from deep sedimentary groundwater. Environ. Sci. Process. Impacts, 17,1386-1395.
 * 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, 藤嶽 暢英, 田中 仁志 (2015) 琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価. 日水処理生物会誌, 51, 105-114.
 
+### 2014
+
+
 ### 2013
 * Kawahigashi, M., Ono, K., Iimura, Y., Fujitake, N., (2013) Investigations of environmental changes based on chemical analyses of humic substances. Humic Subst. Res., 10, 1-9.
 * 川東 正幸, 高橋 正, 藤井 一至, 高橋 正通, 三浦 覚, 石塚 成宏, 金子 真司, 白戸 康人, 矢ヶ崎 泰海, 高田 裕介, 和頴 朗太, 岸本 文紅, 米村 正一郎, 平舘 俊太郎, 渡邊 眞紀子, 泉 岳樹, 藤嶽 暢英, 飯村 康夫 (2013) 日本の土壌炭素賦存量を量・質の両面から考える. 土肥誌. 84, 224-229.
@@ -69,14 +72,6 @@ Kida, M., Fujitake, N., Kojima, T., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar,
 * Tani, M., Shinjo, H., Fujitake, N., Sumida, H., Kosaki, T. (2012) Features and properties of Chernozemic soils and humic substances in eastern Ukraine. Pedologist, 56, 47-57.
 * Nishimura, S., Fujitake, N., Hiradate, S., Shindo, H. (2012) Physicochemical and spectroscopic characteristics of charred plant fragments in Japanese volcanic ash soils. Soil Sci., 177, 695-700.
 
-### 2011
-* 藤嶽 暢英(2011)シンポジウム −黒ボク土における腐植の集積とメカニズム.ペドロジスト,55,99-102.
-* Nagao, S., Kodama, H., Aramaki, T., Fujitake, N., Uchida, M., Shibata, Y. (2011) Carbon isotope composition of dissolved humic acid and fulvic acids in the Tokachi River system. Radiat. Prot. Dosim., 146, 322-325.
-* 谷 昌幸, 李 香珍, 加藤 拓, 宮竹 史仁, 藤嶽 暢英, 小池 正徳 (2011) 大規模堆肥化処理方式が牛ふん尿堆肥の腐熟度と腐植化に及ぼす影響. 農業施設, 42, 8-17.
-* Asakawa, D., Iimura, Y., Kiyota, T., Yanagi, Y., Fujitake, N. (2011) Molecular size fractionation of soil humic acids using preparative high-performance size-exclusion chromatography. J. Chromatogr. A, 1218, 6448-6453.
-* Kawahigashi, M., Fujitake, N., Yajima, H., Sumida, H. (2011) Particle sizes of standard humic substances calculated as radii of gyration, maximum diameter and hydrodynamic radii. Humic Subst. Res., 8, 13-18.
-* Yanagi, Y., Kitayama, K., Tahara, H., Fujitake, N. (2011) Decolorization of soil fulvic acids by laccases from Trametes versicolor and Trametes villosa. Humic Subst. Res., 8, 7-11.
-* Dai, Q., Ae, N., Suzuki, T., Rajkumara, M., Fukunaga, S., Fujitake, N. (2011) Assessment of potentially reactive pools of aluminum in andisols using a five-step sequential extraction. Soil Sci. Plant Nutri., 57, 500-507.　　
 ## 著書  
 * 川東 正幸, 藤嶽 暢英(2017)第11章 地球を支える土壌の機能,「土壌サイエンス入門　第２版」木村 眞人・南條 正巳 編 文英堂,pp.227-237.(全pp.333)ISBN: 978-4-8300-4135-8  
 * 藤嶽 暢英 (2015) 2-4 土の生成に及ぼす気候（温度・水分状態）の影響, 「土のひみつー食料・環境・生命」 日本土壌肥料学会「土のひみつ」編集グループ 編,朝倉書店 pp.42-45. (全pp.212)  
