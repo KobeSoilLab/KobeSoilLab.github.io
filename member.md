@@ -4,7 +4,7 @@ title: MEMBER
 subtitle: 
 #cover-img: /assets/img/2021member.jpg
 ---
-<img src="/assets/img/2021member.jpg" alt="image" width="800" height="550">  
+<img src="/assets/img/2021member.jpg" alt="image" width="800" height="525">  
 
 ***  
 **藤嶽　暢英　Nobuhide Fujitake**  
