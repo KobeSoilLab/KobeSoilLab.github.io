@@ -51,7 +51,14 @@ cover-img:
 * Katsumi, N., Yonebayashi, K., **Fujitake, N.**, Okazaki, M. (2015) Relationship between stable carbon and nitrogen isotope ratios of humic acids extracted from Andisols and non-Andisols. Catena, 127, 241-221.
 * **Kida, M.**, **Maki, K.**, **Takata, A.**, **Tsuda, K.**, Hayakawa, K., Sugiyama, Y., **Fujitake, N.** (2015) Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations. Org. Geochem.,  153-157.
 * Saito, T., Terashima, M., Aoyagi, N., Nagao, S., **Fujitake, N.**, Ohnuki, T. (2015) Physicochemical and ion-binding properties of highly aliphatic humic substances extracted from deep sedimentary groundwater. Environ. Sci. Process. Impacts, 17,1386-1395.
-* 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, **藤嶽 暢英**, 田中 仁志 (2015) 琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価. 日水処理生物会誌, 51, 105-114.
+* 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, **藤嶽 暢英**, 田中 仁志 (2015) 琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価. 日水処理生物会誌, 51, 105-114.  
+* Suzuki, M, Kubo, K, **Suzuki, T**, Sawada, Y, Kawabata, T.(2015) Effect of Different Exposure Conditions on Mechanical Properties of Biodegradable Resin Concrete. IDRE Journal I_19 - I_24.  
+
+### 2014
+* 鈴木麻里子, **鈴木武志**, 河端俊典 (2014) 環境に配慮した生分解性樹脂コンクリートの力学的アプローチによる一考察 
+コンクリート工学論文集 Vol.25 119 - 124  
+* Michio Kanechi, Shinya Fujiwara, Naoki Shintani, **Takeshi Suzuki**, Yuichi Uno. (2014) Performance of herbaceous Evolvulus pilosus on urban green roof in relation to substrate and irrigation URBAN FORESTRY & URBAN GREENING 13(1) 184 - 191.
+ 
 
 ### 2013
 * Kawahigashi, M., Ono, K., Iimura, Y., **Fujitake, N.**, (2013) Investigations of environmental changes based on chemical analyses of humic substances. Humic Subst. Res., 10, 1-9.
@@ -69,10 +76,13 @@ cover-img:
 * Nishimura, S., **Fujitake, N.**, Hiradate, S., Shindo, H. (2012) Physicochemical and spectroscopic characteristics of charred plant fragments in Japanese volcanic ash soils. Soil Sci., 177, 695-700.
 
 ## 著書  
+* **鈴木 武志** (2018) 地域固有性の発言による農業・農村の創造（中塚雅也 編), 筑波書房  
 * 川東 正幸, **藤嶽 暢英**(2017)第11章 地球を支える土壌の機能,「土壌サイエンス入門　第２版」木村 眞人・南條 正巳 編 文英堂,pp.227-237.(全pp.333)ISBN: 978-4-8300-4135-8  
 * **藤嶽 暢英** (2015) 2-4 土の生成に及ぼす気候（温度・水分状態）の影響, 「土のひみつー食料・環境・生命」 日本土壌肥料学会「土のひみつ」編集グループ 編,朝倉書店 pp.42-45. (全pp.212)  
 ISBN: 978-4-254-40023-6
-* 浅川 大地, **藤嶽 暢英** (2011) 第2章 構造特性から見た土壌から河川へのDOC流入経路.  「土壌―河川―海生態系における溶存有機炭素の動態と機能」, 日本土壌肥料学会 編, 博友社, pp.36-61. (全pp.168)   ISBN: 978-4-8268-0213-0
+* 浅川 大地, **藤嶽 暢英** (2011) 第2章 構造特性から見た土壌から河川へのDOC流入経路.  「土壌―河川―海生態系における溶存有機炭素の動態と機能」, 日本土壌肥料学会 編, 博友社, pp.36-61. (全pp.168)   ISBN: 978-4-8268-0213-0  
+* **鈴木 武志** (2011) 農村の土壌, 土壌の観察 農村で学ぶはじめの一歩 農村入門ガイドブック，中塚雅也編 昭和堂  
+* **鈴木 武志** (2009) 土をどう教えるか －現場で役立つ環境教育教材－ 土壌教育委員会編, 古今書院  
 * **藤嶽 暢英** (2008) 2.3.1, 3.7, 3.11 「環境中の腐植物質−その特徴と研究法」, 石渡 良志・米林 甲陽・宮島 徹 編,三共出版,pp.82-90, 141-148, 162-166. (全pp.291) ISBN: 978-4-7827-0577-3  
 * **藤嶽 暢英**, 柳 由貴子 (2008) 16.4 大地の微生物の営み. 「微生物増殖学の現在・未来」, 福井 作蔵・秦野 琢之 編,  地人書館, pp.455-463. (全pp.478) ISBN: 987-4-8052-0805-2  
 
