@@ -1,10 +1,9 @@
 ---
 layout: page
 title: PUBLICATIONS
-subtitle: 
+subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
-# 過去10年の投稿論文  
 ### 2021
 * **Kida, M.**, **Fujitake, N**., **Kojima, T**., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
 
@@ -23,8 +22,8 @@ cover-img:
 * **Minamino, Y.**, **Fujitake, N.**, **Suzuki, T.**, Yoshitake, S., Koizumi, H., Tomotsune, M. (2019) Effect of biochar addition on leaf-litter decomposition at soil surface during three years in a warm-temperate secondary deciduous forest, Japan. Scientific Reports, 9, 16961.  
 * **Kida, M.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Maie, N., **Fujitake, N.** (2019) Origin, distributions, and environmental significance of ubiquitous humic-like fluorophores in Antarctic lakes and stream. Water Research, 163, 114901.  
 * **Kida, M.**, **Tanabe, M**, Tomotsune, M., Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall. Estuarine, Coastal and Shelf Science, 223, 6-17.  
-* Sato, H, **Kida, M.**, **Yamano, S.**, **Sonoda, H**, **Fujitake, N.** (2019) Variable relationships between the hydrophobic fraction of dissolved organic matter and metals in Scottish freshwater before the estuarine mixing zone. Limnology, 20, 215-224.   
-* **Kida, M.**, Sato, H., **Okumura, A.**, Igarashi, H., **Fujitake, N.** (2019) Introduction of DEAE Sepharose for isolation of dissolved organic matter. Limnology, 20, 153-162.  
+* **Sato, H.**, **Kida, M.**, **Yamano, S.**, **Sonoda, H.**, **Fujitake, N.** (2019) Variable relationships between the hydrophobic fraction of dissolved organic matter and metals in Scottish freshwater before the estuarine mixing zone. Limnology, 20, 215-224.   
+* **Kida, M.**, **Sato, H.**, **Okumura, A.**, **Igarashi, H.**, **Fujitake, N.** (2019) Introduction of DEAE Sepharose for isolation of dissolved organic matter. Limnology, 20, 153-162.  
 * **Han, B.**, **Kitamura, K.**, Hirota, M., Shen, H, Tang, Y., **Suzuki, T.**, **Fujitake, N.** (2019) Humus composition and humification degree of humic acids of alpine meadow soils in the northeastern part of the Qinghai–Tibet Plateau. Soil Sci. Plant Nutri., 65, 11-17.  
 
 ### 2018  
@@ -32,7 +31,7 @@ cover-img:
 * Lin, P., Xu, C., Xing, W., Sun, L., Kaplan, D.I., **Fujitake, N.**, Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2018) Radionuclide uptake by colloidal and particulate humic acids obtained from 14 soils collected worldwide. Sci. Rep., 8, Article No. 4795.  
 * **Kida, M.**, **Fujitake, N.**, Suchewaboripont, V., Poungparn, S., Tomotsune, M., Kondo, M., Yoshitake, S., Iimura, Y., Kinjo, K. Maknual, C. and Ohtsuka, T. (2018) Contribution of humic substances to dissolved organic matter optical properties and iron mobilization. Aquat. Sci., 80, Article No. 26  
 * Tomotsune, M., Yoshitake, S., Iimura, Y., **Kida, M.**, **Fujitake, N.**, Koizumi, H., Ohtsuka, T. (2018) Effects of soil temperature and tidal condition on variation in CO2 flux from soil sediment in a subtropical mangrove forest. J. Trop. Ecol., 34, 268-275.    
-* 菊川裕幸, **木田森丸**, **圓増まどか**, 稲元友佳子, 岸本賢一, 加藤 拓, **藤嶽暢英** (2018) 乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響. 土肥誌, 89, 1-7.  
+* 菊川裕幸, **木田森丸**, 圓増まどか, 稲元友佳子, 岸本賢一, 加藤 拓, **藤嶽暢英** (2018) 乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響. 土肥誌, 89, 1-7.  
 
 ### 2017
 * Ide, J., Ohashi, M., Takahashi, K., Sugiyama, Y., Piirainen, S., Kortelainen, P., **Fujitake, N.**, Yamase, K., Ohte, N., Moritani, M., Hara, M., Finar, L. (2017) Spatial variations in the molecular diversity of dissolved organic matter in water moving through a boreal forest in eastern Finland. Sci. Rep., 7, Article No. 42102.
@@ -43,32 +42,29 @@ cover-img:
 * Lin, P., Xu, C., Zhang, S., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Sugiyama, Y., Schwehr, K.A., Santschi, P.H. (2017) Plutonium partitioning behavior to humic acids from widely varying soils is related to carboxyl-containing organic compounds. Environ. Sci. Technol., 51, 11742-11751.
 
 ### 2016
-* Tsuda, K., **Kida, M.**, Aso, S., Kato, T., **Fujitake, N.**, Maruo, M., Hayakawa, K., Hirota, M. (2016) Determination of aquatic humic substances in Japanese lakes and wetlands by the carbon concentration-based resin isolation technique. Limnology, 17, 1-6.
+* **Tsuda, K.**, **Kida, M.**, **Aso, S.**, Kato, T., **Fujitake, N.**, Maruo, M., Hayakawa, K., Hirota, M. (2016) Determination of aquatic humic substances in Japanese lakes and wetlands by the carbon concentration-based resin isolation technique. Limnology, 17, 1-6.
 * **Kida, M.**, Ohtsuka, T., **Suzuki, T.**, **Fujitake, N.** (2016) Evaluation of salinity effect on quantitative analysis of aquatic humic substances using nonionic DAX-8 resin. Chemosphere, 146, 129-132.
 * **藤嶽 暢英** (2016) 土・水環境に遍在するフミン物質の構造化学的特徴とその多様性. 学術の動向, 21, 49-53.
 * Xu, C., Zhang, S., Sugiyama, Y., Ohte, N., Yi-Fan, H., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2016) Role of natural organic matter on iodine and 239, 240Pu distribution and mobility in environmental samples from the northwestern Fukushima Prefecture, Japan. J. Environ. Radioactiv., 153, 156-166.
 
 ### 2015
 * Katsumi, N., Yonebayashi, K., **Fujitake, N.**, Okazaki, M. (2015) Relationship between stable carbon and nitrogen isotope ratios of humic acids extracted from Andisols and non-Andisols. Catena, 127, 241-221.
-* **Kida, M.**, **Maki, K.**, Takata, A., Tsuda, K., Hayakawa, K., Sugiyama, Y., **Fujitake, N.** (2015) Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations. Org. Geochem.,  153-157.
+* **Kida, M.**, **Maki, K.**, **Takata, A.**, **Tsuda, K.**, Hayakawa, K., Sugiyama, Y., **Fujitake, N.** (2015) Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations. Org. Geochem.,  153-157.
 * Saito, T., Terashima, M., Aoyagi, N., Nagao, S., **Fujitake, N.**, Ohnuki, T. (2015) Physicochemical and ion-binding properties of highly aliphatic humic substances extracted from deep sedimentary groundwater. Environ. Sci. Process. Impacts, 17,1386-1395.
 * 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, **藤嶽 暢英**, 田中 仁志 (2015) 琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価. 日水処理生物会誌, 51, 105-114.
-
-### 2014
-
 
 ### 2013
 * Kawahigashi, M., Ono, K., Iimura, Y., **Fujitake, N.**, (2013) Investigations of environmental changes based on chemical analyses of humic substances. Humic Subst. Res., 10, 1-9.
 * 川東 正幸, 高橋 正, 藤井 一至, 高橋 正通, 三浦 覚, 石塚 成宏, 金子 真司, 白戸 康人, 矢ヶ崎 泰海, 高田 裕介, 和頴 朗太, 岸本 文紅, 米村 正一郎, 平舘 俊太郎, 渡邊 眞紀子, 泉 岳樹, **藤嶽 暢英**, 飯村 康夫 (2013) 日本の土壌炭素賦存量を量・質の両面から考える. 土肥誌. 84, 224-229.
-* Iimura, Y., Fujimoto, M., Tamura, K., Higashi, T., Kondo, M., Uchida, M., Yonebayashi, K., **Fujitake, N.** (2013) Black humic acid dynamics during natural reforestation of Japanese pampas grass (Miscanthus sinensis). Soil Biol. Biochem., 57, 60-67.
+* **Iimura, Y.**, Fujimoto, M., Tamura, K., Higashi, T., Kondo, M., Uchida, M., Yonebayashi, K., **Fujitake, N.** (2013) Black humic acid dynamics during natural reforestation of Japanese pampas grass (Miscanthus sinensis). Soil Biol. Biochem., 57, 60-67.
 * Nagao, S., Aramaki, T., **Fujitake, N.**, Kodama, H., Tanaka, T., Ochiai, S., Uchida, M., Shibata, Y., Yamamoto, M. (2013) Variation of delta C-14 and delta C-13 values of dissolved humic and fulvic acids in the Tokachi river system in northern. Japan. Radiocarbon, 55, 1007-1016.
 
 ### 2012
-* Tsuda, K., Takata, A., Shirai, H., Kozaki, K., **Fujitake, N.** (2012) A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration. Anal. Sci., 28, 1017-1020
+* **Tsuda, K.**, **Takata, A.**, **Shirai, H.**, Kozaki, K., **Fujitake, N.** (2012) A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration. Anal. Sci., 28, 1017-1020
 * Terashima, M., Nagao, S., Iwatsuki, T., **Fujitake, N.**, Seida, Y., Iijima, K., Yoshikawa, H. (2012) Europium binding abilities of dissolved humic substances isolated from deep groundwater in Horonobe area, Hokkaido, Japan. J. Nuclear Sci. Technl., 49, 804-815.
 * **藤嶽 暢英**, 浅川 大地, 柳 由貴子 (2012) 13CNMRならびに高速サイズ排除クロマトグラフィー（HPSEC）による土壌腐植酸の特徴付け. 分析化学, 61, 287-294.
-* **Fujitake, N.**, Tsuda, K., Mori, H., Aso S., Kodama, H., Maruo, M., Yonebayashi, K. (2012) Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan. Limnology, 13, 45-53.
-* Iimura, Y.,  Ohtani, T.,  Chersich, S., Tani, M., **Fujitake, N.** (2012) Characterization of DAX-8 adsorbed soil fulvic acid fractions by various types of analyses. Soil Sci. Plant Nutr., 58, 404-415.
+* **Fujitake, N.**, **Tsuda, K**., Mori, H., Aso S., Kodama, H., Maruo, M., Yonebayashi, K. (2012) Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan. Limnology, 13, 45-53.
+* **Iimura**, Y.,  Ohtani, T.,  Chersich, S., Tani, M., **Fujitake, N.** (2012) Characterization of DAX-8 adsorbed soil fulvic acid fractions by various types of analyses. Soil Sci. Plant Nutr., 58, 404-415.
 * Tani, M., Shinjo, H., **Fujitake, N.**, Sumida, H., Kosaki, T. (2012) Features and properties of Chernozemic soils and humic substances in eastern Ukraine. Pedologist, 56, 47-57.
 * Nishimura, S., **Fujitake, N.**, Hiradate, S., Shindo, H. (2012) Physicochemical and spectroscopic characteristics of charred plant fragments in Japanese volcanic ash soils. Soil Sci., 177, 695-700.
 
