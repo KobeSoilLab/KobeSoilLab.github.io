@@ -18,7 +18,7 @@ navbar-links:
   #Home: "home"
   Member: "member"
   Publications: "publications" 
-  Study sites: "sites"
+  #Study sites: "sites"
   
 # --- Logo --- #
 
@@ -53,7 +53,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-telephone: +81-78-803-5847
+telephone: "+81-78-803-5847"
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -93,8 +93,7 @@ feed_show_tags: true
 post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "神戸大,土壌研,土壌学研究室,土壌有機物,溶存有機物,土壌,藤嶽"
-keywords: "Kobe,Soil,Soil science lab,soil organic matter,dissolved organic matter,SOM,DOM,natural organic matter,NOM,NMR,EEM,FT-ICR-MS"
+keywords: "神戸大,土壌研,土壌学研究室,土壌有機物,溶存有機物,土壌,藤嶽,Kobe,Soil,Soil science lab,soil organic matter,dissolved organic matter,SOM,DOM,natural organic matter,NOM,NMR,EEM,FT-ICR-MS"
 
 # --- Colours / background image --- #
 
