@@ -1,12 +1,13 @@
 ---
 layout: page
 title: MEMBER
-subtitle: 
+subtitle: 2021年度
 #cover-img: /assets/img/2021member.jpg
 ---
 <img src="/assets/img/2021member.jpg" alt="image" width="800" height="525">  
 
 ***  
+## 教授  
 **藤嶽　暢英　Nobuhide Fujitake**  
 <img src="/assets/img/fujitake.jpeg" alt="image" width="200" height="200">  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
