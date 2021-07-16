@@ -11,7 +11,7 @@ subtitle:
 <img src="/assets/img/fujitake.jpeg" alt="image" width="200" height="200">  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
 野外調査と室内実験のギャップを楽しんでいる？力持ちで意外と器用です。趣味は。。。  
-[こちらや](https://weebee1212.com/interview/content.php?id=1)、[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)、[こちらもどうぞ](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)。[そして、こちらもどうぞ（出演はこの内10分だけです）](https://audee.jp/voice/show/27806)  
+[こちら](https://weebee1212.com/interview/content.php?id=1)や、[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006829&OraSeq=50&ProId=WNA002&SerKbn=Z&SearchMod=6&Page=4&KeyWord=%E7%94%9F%E7%89%A9)、[こちら](https://yumenavi.info/lecture_sp.aspx?GNKCD=g006828&OraSeq=46&ProId=WNA002&SerKbn=Z&SearchMod=2&Page=1&KeyWord=%E5%85%89%E5%90%88%E6%88%90)もどうぞ。そして、[こちら](https://audee.jp/voice/show/27806) もどうぞ（出演はこの内10分だけです）
 
 ***  
 
