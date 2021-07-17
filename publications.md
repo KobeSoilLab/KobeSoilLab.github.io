@@ -66,7 +66,7 @@ cover-img:
 * Nagao, S., Aramaki, T., **Fujitake, N.**, Kodama, H., Tanaka, T., Ochiai, S., Uchida, M., Shibata, Y., Yamamoto, M. (2013) Variation of delta C-14 and delta C-13 values of dissolved humic and fulvic acids in the Tokachi river system in northern. Japan. Radiocarbon, 55, 1007-1016.
 
 ### 2012
-* **Tsuda, K.**, **Takata, A.**, **Shirai, H.**, Kozaki, K., **Fujitake, N.** (2012) A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration. Anal. Sci., 28, 1017-1020
+* **Tsuda, K.**, **Takata, A.**, **Shirai, H.**, **Kozaki, K.**, **Fujitake, N.** (2012) A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration. Anal. Sci., 28, 1017-1020
 * Terashima, M., Nagao, S., Iwatsuki, T., **Fujitake, N.**, Seida, Y., Iijima, K., Yoshikawa, H. (2012) Europium binding abilities of dissolved humic substances isolated from deep groundwater in Horonobe area, Hokkaido, Japan. J. Nuclear Sci. Technl., 49, 804-815.
 * **藤嶽 暢英**, 浅川 大地, 柳 由貴子 (2012) 13CNMRならびに高速サイズ排除クロマトグラフィー（HPSEC）による土壌腐植酸の特徴付け. 分析化学, 61, 287-294.
 * **Fujitake, N.**, **Tsuda, K**., Mori, H., Aso S., Kodama, H., Maruo, M., Yonebayashi, K. (2012) Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan. Limnology, 13, 45-53.
