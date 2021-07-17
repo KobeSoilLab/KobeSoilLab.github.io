@@ -2,7 +2,7 @@
 layout: page
 title: 調査地
 subtitle: どこでも行きます
-cover-img: /assets/img/globcover_poster_V2_H.jpg
+cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 ---
 科研費プロジェクトの詳細は[こちらのリンク](https://nrid.nii.ac.jp/ja/nrid/1000050243332/)をご覧ください。
 ## 継続中
