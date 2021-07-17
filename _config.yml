@@ -14,11 +14,12 @@ author: Kobe U. Soil Science Laboratory
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  紹介: "about"
   #Home: "home"
-  Member: "member"
-  Publications: "publications" 
-  Study sites: "sites"
+  メンバー: "member"
+  論文: "publications" 
+  調査地: "sites"
+  配属希望: "Kibou"
   
 # --- Logo --- #
 
