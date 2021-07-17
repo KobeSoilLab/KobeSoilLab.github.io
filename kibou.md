@@ -2,7 +2,7 @@
 layout: page
 title: 配属希望の学生へ
 subtitle:
-cover-img: /assets/img/
+cover-img: 
 ---
 神戸大学土壌学研究室は教授1名，助教2名で運営している講座制の研究室です。名前に土壌を冠していますが，土壌だけでなく河川・湖沼や堆積泥も重要な研究対象です。
 メインの学会は[日本土壌肥料学会](http://jssspn.jp/)ですが，[日本生態学会](https://www.esj.ne.jp/esj/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本分析化学会](https://www.jsac.jp/)，[日本陸水学会](http://www.jslim.jp/)，[日本有機地球化学会](http://ogeochem.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)でも研究発表をおこなっています。学部生から積極的に学会参加・発表をしてもらいます。
