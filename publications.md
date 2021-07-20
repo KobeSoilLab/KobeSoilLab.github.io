@@ -27,7 +27,7 @@ cover-img:
 * **Han, B.**, **Kitamura, K.**, Hirota, M., Shen, H, Tang, Y., **Suzuki, T.**, **Fujitake, N.** (2019) Humus composition and humification degree of humic acids of alpine meadow soils in the northeastern part of the Qinghai–Tibet Plateau. Soil Sci. Plant Nutri., 65, 11-17.  
 
 ### 2018  
-* **Kida, M.**, Myangan, O., Oyuntsetseg, B., Khakhinov, V., Kawahigashi, M, **Fujitake, N.** (2018)Dissolved organic matter distribution and its association with colloidal aluminum and iron in the Selenga River Basin from Ulaanbaatar to Lake Baikal.Environ. Sci. Pollut. Res. Int.,25,11948-11957.  
+* **Kida, M.**, Myangan, O., Oyuntsetseg, B., Khakhinov, V., Kawahigashi, M, **Fujitake, N.** (2018) Dissolved organic matter distribution and its association with colloidal aluminum and iron in the Selenga River Basin from Ulaanbaatar to Lake Baikal.Environ. Sci. Pollut. Res. Int.,25,11948-11957.  
 * Lin, P., Xu, C., Xing, W., Sun, L., Kaplan, D.I., **Fujitake, N.**, Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2018) Radionuclide uptake by colloidal and particulate humic acids obtained from 14 soils collected worldwide. Sci. Rep., 8, Article No. 4795.  
 * **Kida, M.**, **Fujitake, N.**, Suchewaboripont, V., Poungparn, S., **Tomotsune, M.**, Kondo, M., Yoshitake, S., Iimura, Y., Kinjo, K. Maknual, C. and Ohtsuka, T. (2018) Contribution of humic substances to dissolved organic matter optical properties and iron mobilization. Aquat. Sci., 80, Article No. 26  
 * Tomotsune, M., Yoshitake, S., Iimura, Y., **Kida, M.**, **Fujitake, N.**, Koizumi, H., Ohtsuka, T. (2018) Effects of soil temperature and tidal condition on variation in CO2 flux from soil sediment in a subtropical mangrove forest. J. Trop. Ecol., 34, 268-275.    
