@@ -5,7 +5,7 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2021
-* **Kida, M.**, **Fujitake, N**., **Kojima, T**., Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
+* **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
 
 ### 2020
 * [Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., **Kida, M.**, Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., **Fujitake, N.** (2020) Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation. Forests.](https://www.mdpi.com/1999-4907/11/10/1041)
@@ -21,7 +21,7 @@ cover-img:
 * **Wu, H.**, **Kida, M.**, **Domoto, A.**, Hara, A., Ashida, H., **Suzuki, T.**, **Fujitake, N.** (2019) The effects of fertilization treatments and cropping systems on long-term dynamics and spectroscopic characteristics of dissolved organic matter in paddy soil. Soil Science and Plat Nutrition, 65 (6), 557-565.  
 * **Minamino, Y.**, **Fujitake, N.**, **Suzuki, T.**, Yoshitake, S., Koizumi, H., Tomotsune, M. (2019) Effect of biochar addition on leaf-litter decomposition at soil surface during three years in a warm-temperate secondary deciduous forest, Japan. Scientific Reports, 9, 16961.  
 * **Kida, M.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Maie, N., **Fujitake, N.** (2019) Origin, distributions, and environmental significance of ubiquitous humic-like fluorophores in Antarctic lakes and stream. Water Research, 163, 114901.  
-* **Kida, M.**, **Tanabe, M**, **Tomotsune, M.**, Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall. Estuarine, Coastal and Shelf Science, 223, 6-17.  
+* **Kida, M.**, **Tanabe, M.**, **Tomotsune, M.**, Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall. Estuarine, Coastal and Shelf Science, 223, 6-17.  
 * **Sato, H.**, **Kida, M.**, **Yamano, S.**, **Sonoda, H.**, **Fujitake, N.** (2019) Variable relationships between the hydrophobic fraction of dissolved organic matter and metals in Scottish freshwater before the estuarine mixing zone. Limnology, 20, 215-224.   
 * **Kida, M.**, **Sato, H.**, **Okumura, A.**, **Igarashi, H.**, **Fujitake, N.** (2019) Introduction of DEAE Sepharose for isolation of dissolved organic matter. Limnology, 20, 153-162.  
 * **Han, B.**, **Kitamura, K.**, Hirota, M., Shen, H, Tang, Y., **Suzuki, T.**, **Fujitake, N.** (2019) Humus composition and humification degree of humic acids of alpine meadow soils in the northeastern part of the Qinghai–Tibet Plateau. Soil Sci. Plant Nutri., 65, 11-17.  
