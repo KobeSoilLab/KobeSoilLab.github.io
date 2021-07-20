@@ -16,12 +16,12 @@ cover-img:
 * [Tomotsune, M., Arai, H., Yoshitake, S., **Kida, M.**, **Fujitake, N.**, Kinjo, K., Ohtsuka, T. (2020) Effect of Crab Burrows on CO2 Flux from the Sediment Surface to the Atmosphere in a Subtropical Mangrove Forest on Ishigaki Island, Southwestern Japan. Estuaries and Coasts, 43 (1), 102-110.](https://link.springer.com/article/10.1007/s12237-019-00667-2)  
 
 ### 2019  
-* **Kida, M.**, Kondo, M., Tomotsune, M., Kinjo, K., Ohtsuka, T., **Fujitake, N.** (2019) Molecular composition and decomposition stages of organic matter in a mangrove mineral soil with time. Estuarine, Coastal and Shelf Science, 231, 106478.   
+* **Kida, M.**, Kondo, M., **Tomotsune, M.**, Kinjo, K., Ohtsuka, T., **Fujitake, N.** (2019) Molecular composition and decomposition stages of organic matter in a mangrove mineral soil with time. Estuarine, Coastal and Shelf Science, 231, 106478.   
 * Iimura, Y., Tabara, I., Izumitsu, K., **Fujitake, N.** (2019) Priming effect of the addition of maize to a Japanese volcanic ash soil and its temperature sensitivity: a short-term incubation study. Soil Science and Plat Nutrition, 65 (5), 444-450.  
 * **Wu, H.**, **Kida, M.**, **Domoto, A.**, Hara, A., Ashida, H., **Suzuki, T.**, **Fujitake, N.** (2019) The effects of fertilization treatments and cropping systems on long-term dynamics and spectroscopic characteristics of dissolved organic matter in paddy soil. Soil Science and Plat Nutrition, 65 (6), 557-565.  
 * **Minamino, Y.**, **Fujitake, N.**, **Suzuki, T.**, Yoshitake, S., Koizumi, H., Tomotsune, M. (2019) Effect of biochar addition on leaf-litter decomposition at soil surface during three years in a warm-temperate secondary deciduous forest, Japan. Scientific Reports, 9, 16961.  
 * **Kida, M.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Maie, N., **Fujitake, N.** (2019) Origin, distributions, and environmental significance of ubiquitous humic-like fluorophores in Antarctic lakes and stream. Water Research, 163, 114901.  
-* **Kida, M.**, **Tanabe, M**, Tomotsune, M., Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall. Estuarine, Coastal and Shelf Science, 223, 6-17.  
+* **Kida, M.**, **Tanabe, M**, **Tomotsune, M.**, Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall. Estuarine, Coastal and Shelf Science, 223, 6-17.  
 * **Sato, H.**, **Kida, M.**, **Yamano, S.**, **Sonoda, H.**, **Fujitake, N.** (2019) Variable relationships between the hydrophobic fraction of dissolved organic matter and metals in Scottish freshwater before the estuarine mixing zone. Limnology, 20, 215-224.   
 * **Kida, M.**, **Sato, H.**, **Okumura, A.**, **Igarashi, H.**, **Fujitake, N.** (2019) Introduction of DEAE Sepharose for isolation of dissolved organic matter. Limnology, 20, 153-162.  
 * **Han, B.**, **Kitamura, K.**, Hirota, M., Shen, H, Tang, Y., **Suzuki, T.**, **Fujitake, N.** (2019) Humus composition and humification degree of humic acids of alpine meadow soils in the northeastern part of the Qinghai–Tibet Plateau. Soil Sci. Plant Nutri., 65, 11-17.  
@@ -29,7 +29,7 @@ cover-img:
 ### 2018  
 * **Kida, M.**, Myangan, O., Oyuntsetseg, B., Khakhinov, V., Kawahigashi, M, **Fujitake, N.** (2018)Dissolved organic matter distribution and its association with colloidal aluminum and iron in the Selenga River Basin from Ulaanbaatar to Lake Baikal.Environ. Sci. Pollut. Res. Int.,25,11948-11957.  
 * Lin, P., Xu, C., Xing, W., Sun, L., Kaplan, D.I., **Fujitake, N.**, Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2018) Radionuclide uptake by colloidal and particulate humic acids obtained from 14 soils collected worldwide. Sci. Rep., 8, Article No. 4795.  
-* **Kida, M.**, **Fujitake, N.**, Suchewaboripont, V., Poungparn, S., Tomotsune, M., Kondo, M., Yoshitake, S., Iimura, Y., Kinjo, K. Maknual, C. and Ohtsuka, T. (2018) Contribution of humic substances to dissolved organic matter optical properties and iron mobilization. Aquat. Sci., 80, Article No. 26  
+* **Kida, M.**, **Fujitake, N.**, Suchewaboripont, V., Poungparn, S., **Tomotsune, M.**, Kondo, M., Yoshitake, S., Iimura, Y., Kinjo, K. Maknual, C. and Ohtsuka, T. (2018) Contribution of humic substances to dissolved organic matter optical properties and iron mobilization. Aquat. Sci., 80, Article No. 26  
 * Tomotsune, M., Yoshitake, S., Iimura, Y., **Kida, M.**, **Fujitake, N.**, Koizumi, H., Ohtsuka, T. (2018) Effects of soil temperature and tidal condition on variation in CO2 flux from soil sediment in a subtropical mangrove forest. J. Trop. Ecol., 34, 268-275.    
 * 菊川裕幸, **木田森丸**, 圓増まどか, 稲元友佳子, 岸本賢一, 加藤 拓, **藤嶽暢英** (2018) 乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響. 土肥誌, 89, 1-7.  
 
@@ -42,7 +42,7 @@ cover-img:
 * Lin, P., Xu, C., Zhang, S., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Sugiyama, Y., Schwehr, K.A., Santschi, P.H. (2017) Plutonium partitioning behavior to humic acids from widely varying soils is related to carboxyl-containing organic compounds. Environ. Sci. Technol., 51, 11742-11751.
 
 ### 2016
-* **Tsuda, K.**, **Kida, M.**, **Aso, S.**, Kato, T., **Fujitake, N.**, Maruo, M., Hayakawa, K., Hirota, M. (2016) Determination of aquatic humic substances in Japanese lakes and wetlands by the carbon concentration-based resin isolation technique. Limnology, 17, 1-6.
+* **Tsuda, K.**, **Kida, M.**, **Aso, S.**, **Kato, T.**, **Fujitake, N.**, Maruo, M., Hayakawa, K., Hirota, M. (2016) Determination of aquatic humic substances in Japanese lakes and wetlands by the carbon concentration-based resin isolation technique. Limnology, 17, 1-6.
 * **Kida, M.**, Ohtsuka, T., **Suzuki, T.**, **Fujitake, N.** (2016) Evaluation of salinity effect on quantitative analysis of aquatic humic substances using nonionic DAX-8 resin. Chemosphere, 146, 129-132.
 * **藤嶽 暢英** (2016) 土・水環境に遍在するフミン物質の構造化学的特徴とその多様性. 学術の動向, 21, 49-53.
 * Xu, C., Zhang, S., Sugiyama, Y., Ohte, N., Yi-Fan, H., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2016) Role of natural organic matter on iodine and 239, 240Pu distribution and mobility in environmental samples from the northwestern Fukushima Prefecture, Japan. J. Environ. Radioactiv., 153, 156-166.
@@ -68,8 +68,8 @@ cover-img:
 ### 2012
 * **Tsuda, K.**, **Takata, A.**, **Shirai, H.**, **Kozaki, K.**, **Fujitake, N.** (2012) A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration. Anal. Sci., 28, 1017-1020
 * Terashima, M., Nagao, S., Iwatsuki, T., **Fujitake, N.**, Seida, Y., Iijima, K., Yoshikawa, H. (2012) Europium binding abilities of dissolved humic substances isolated from deep groundwater in Horonobe area, Hokkaido, Japan. J. Nuclear Sci. Technl., 49, 804-815.
-* **藤嶽 暢英**, 浅川 大地, 柳 由貴子 (2012) 13CNMRならびに高速サイズ排除クロマトグラフィー（HPSEC）による土壌腐植酸の特徴付け. 分析化学, 61, 287-294.
-* **Fujitake, N.**, **Tsuda, K**., Mori, H., Aso S., Kodama, H., Maruo, M., Yonebayashi, K. (2012) Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan. Limnology, 13, 45-53.
+* **藤嶽 暢英**, **浅川 大地**, **柳 由貴子** (2012) 13CNMRならびに高速サイズ排除クロマトグラフィー（HPSEC）による土壌腐植酸の特徴付け. 分析化学, 61, 287-294.
+* **Fujitake, N.**, **Tsuda, K**., **Mori, H.**, **Aso S.**, Kodama, H., Maruo, M., Yonebayashi, K. (2012) Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan. Limnology, 13, 45-53.
 * **Iimura**, Y.,  Ohtani, T.,  Chersich, S., Tani, M., **Fujitake, N.** (2012) Characterization of DAX-8 adsorbed soil fulvic acid fractions by various types of analyses. Soil Sci. Plant Nutr., 58, 404-415.
 * Tani, M., Shinjo, H., **Fujitake, N.**, Sumida, H., Kosaki, T. (2012) Features and properties of Chernozemic soils and humic substances in eastern Ukraine. Pedologist, 56, 47-57.
 * Nishimura, S., **Fujitake, N.**, Hiradate, S., Shindo, H. (2012) Physicochemical and spectroscopic characteristics of charred plant fragments in Japanese volcanic ash soils. Soil Sci., 177, 695-700.
