@@ -13,7 +13,7 @@ cover-img:
 * **Kida, M.**, **Fujitake, N.** (2020) [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://www.mdpi.com/1999-4907/11/9/981). Forests, 11 (9), 981.  
 * Asaoka, S., Jadoon, W.A., Umehara, A. Takeda, K., Otani, S., Ohno, M., **Fujitake, N.**, Sakugawa, H., Okamura, H. (2020) [Organic matter degradation characteristics of coastal marine sediments collected from the Seto Inland Sea, Japan](https://www.sciencedirect.com/science/article/pii/S0304420320301080?via%3Dihub). Marine Chemistry, 225, 103854-103854.
 * Hayashi, K., Tanabe, Y., **Fujitake, N.**, **Kida, M.**, Wang, Y., Hayatsu, M., Kudoh, S. (2020) [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article). Microbes and Environments, 35 (1), 5p.
-* Tomotsune, M., Arai, H., Yoshitake, S., **Kida, M.**, **Fujitake, N.**, Kinjo, K., Ohtsuka, T. (2020) E[ffect of Crab Burrows on CO2 Flux from the Sediment Surface to the Atmosphere in a Subtropical Mangrove Forest on Ishigaki Island, Southwestern Japan](https://link.springer.com/article/10.1007/s12237-019-00667-2). Estuaries and Coasts, 43 (1), 102-110.
+* Tomotsune, M., Arai, H., Yoshitake, S., **Kida, M.**, **Fujitake, N.**, Kinjo, K., Ohtsuka, T. (2020) [Effect of Crab Burrows on CO2 Flux from the Sediment Surface to the Atmosphere in a Subtropical Mangrove Forest on Ishigaki Island, Southwestern Japan](https://link.springer.com/article/10.1007/s12237-019-00667-2). Estuaries and Coasts, 43 (1), 102-110.
 
 ### 2019  
 * **Kida, M.**, Kondo, M., **Tomotsune, M.**, Kinjo, K., Ohtsuka, T., **Fujitake, N.** (2019) [Molecular composition and decomposition stages of organic matter in a mangrove mineral soil with time](https://www.sciencedirect.com/science/article/pii/S0272771419300113). Estuarine, Coastal and Shelf Science, 231, 106478.   
@@ -56,7 +56,7 @@ cover-img:
 
 ### 2014
 * 鈴木麻里子, **鈴木武志**, 河端俊典 (2014) [環境に配慮した生分解性樹脂コンクリートの力学的アプローチによる一考察](https://www.jstage.jst.go.jp/article/crt/25/0/25_119/_article/-char/ja/). コンクリート工学論文集 Vol.25 119-124.
-* Kanechi, M., Fujiwara, S., Shintani, N., **Suzuki, T.**, Uno, Y. (2014) [Performance of herbaceous Evolvulus pilosus on urban green roof in relation to substrate and irrigation](https://www.sciencedirect.com/science/article/pii/S1618866713000903). Urban Forestry & Urban Greening, 13(1), 184-191.
+* Kanechi, M., Fujiwara, S., Shintani, N., **Suzuki, T.**, Uno, Y. (2014) [Performance of herbaceous *Evolvulus pilosus* on urban green roof in relation to substrate and irrigation](https://www.sciencedirect.com/science/article/pii/S1618866713000903). Urban Forestry & Urban Greening, 13(1), 184-191.
 
 ### 2013
 * Kawahigashi, M., Ono, K., Iimura, Y., **Fujitake, N.**, (2013) [Investigations of environmental changes based on chemical analyses of humic substances](http://www.research.kobe-u.ac.jp/ans-soil/jhss/_userdata/hsr10_rev1.pdf). Humic Subst. Res., 10, 1-9.
