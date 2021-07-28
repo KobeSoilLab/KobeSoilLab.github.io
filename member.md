@@ -24,8 +24,9 @@ subtitle: 2021年度
 **木田　森丸　Morimaru Kida**  
 <img src="/assets/img/kida.jpg" alt="image" width="200" height="200">  
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
-[グループHP](https://morimarukida.github.io/)
-
+[グループHP](https://morimarukida.github.io/)  
+所属学会  
+[日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)
 ***
 ## 博士後期課程（ドクターコース）
  
