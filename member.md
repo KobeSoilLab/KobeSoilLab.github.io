@@ -8,7 +8,7 @@ subtitle: 2021年度
 
 ***  
 ## 教授  
-**藤嶽　暢英　Nobuhide Fujitake**  
+**藤嶽　暢英　Prof. Nobuhide Fujitake**  
 <img src="/assets/img/fujitake.jpeg" alt="image" width="200" height="200">  
 専門は土壌化学（有機物）です。世界各地へ 出向いてフィールドでの調査と試料採取を行い，持ち帰った試料を 機器分析などにかけて化学構造情報を取り出します。  
 野外調査と室内実験のギャップを楽しんでいる？力持ちで意外と器用です。趣味は。。。  
@@ -17,16 +17,17 @@ subtitle: 2021年度
 ***  
 
 ## 助教  
-**鈴木　武志　Takeshi Suzuki**  
+**鈴木　武志　Assit. Prof. Takeshi Suzuki**  
 <img src="/assets/img/suzuki.jpeg" alt="image" width="200" height="200">  
 主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。
 
-**木田　森丸　Morimaru Kida**  
+**木田　森丸　Assit. Prof. Morimaru Kida**  
 <img src="/assets/img/kida.jpg" alt="image" width="200" height="200">  
 2021年に着任したばかりです。活力があり，面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
-[グループHP](https://morimarukida.github.io/)  
-所属学会  
+研究の詳細は[グループHP](https://morimarukida.github.io/)をご覧ください。  
+**所属学会**  
 [日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)
+
 ***
 ## 博士後期課程（ドクターコース）
  
