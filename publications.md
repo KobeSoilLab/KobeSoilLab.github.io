@@ -5,10 +5,12 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2021
-* **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol.
+* **Kida, M.**, **Watanabe, I.**, Kinjo, K., Kondo, M., Yoshitake, S., **Tomotsune, M.**, Iimura, Y., Umnouysin, S., Suchewaboripont, V., Poungparn, S., Ohtsuka, T., **Fujitake, N.**  [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574). 
+Science of The Total Environment, 149682.
+* **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol, 55, 14, 10175–10185.
 
 ### 2020
-* Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., **Kida, M.**, Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., **Fujitake, N.** (2020) [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041). Forests.
+* Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., **Kida, M.**, Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., **Fujitake, N.** (2020) [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041). Forests, 11(10), 1041.
 * **藤嶽暢英** (2020) [土壌の炭素循環と気候変動](https://www.jstage.jst.go.jp/article/jssm/74/2/74_54/_pdf/-char/en). 土と微生物, 74 (2), 54-59.
 * **Kida, M.**, **Fujitake, N.** (2020) [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://www.mdpi.com/1999-4907/11/9/981). Forests, 11 (9), 981.  
 * Asaoka, S., Jadoon, W.A., Umehara, A. Takeda, K., Otani, S., Ohno, M., **Fujitake, N.**, Sakugawa, H., Okamura, H. (2020) [Organic matter degradation characteristics of coastal marine sediments collected from the Seto Inland Sea, Japan](https://www.sciencedirect.com/science/article/pii/S0304420320301080?via%3Dihub). Marine Chemistry, 225, 103854-103854.
