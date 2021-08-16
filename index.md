@@ -3,6 +3,13 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 16 August 2021_
+## 論文アクセプト
+木田助教筆頭の論文が[*Science of the Total Environment*](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)に公開されました！
+タイの研究者と共同で，トラート川マングローブ林における生態系炭素貯留量を調査しました。3.5 m深までの土壌を採取することで，従来のタイにおける見積もりの約4倍もの炭素が貯留されていることを明らかにしました。
+さらに，炭素貯留量と有機物組成は土壌の粒径組成ではなく主にマングローブ根の寄与によって決まっていることを示しました。
+
+***
 _posted on 9 July 2021_
 ## 論文アクセプト
 木田助教筆頭の論文が[*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)に公開されました！
