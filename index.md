@@ -36,7 +36,7 @@ _posted on 1 February 2021_
 新しく木田森丸助教がスタッフとして着任されました。  
   
 ***
-_posted on 30 September 2021_  
+_posted on 30 September 2020_  
   
 藤嶽教授が第65回日本土壌肥料学会賞を受賞されました。
 
