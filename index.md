@@ -6,7 +6,7 @@ cover-img: /assets/img/soulofsoil.png
 ***
 _posted on 2 September 2021_  
   
-神戸大学土壌学研究室が少しだけ協力した、絵本「地球がうみだす土のはなし」が  
+神戸大学土壌学研究室が少しだけ協力した、[絵本「地球がうみだす土のはなし」](https://www.fukuinkan.co.jp/book/?id=6793#modal-content)が  
 第33回読書感想画中央コンクールにて低学年の部の指定図書に選書されました！
 
 ***
