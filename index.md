@@ -2,6 +2,10 @@
 layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
+***
+_posted on 5 October 2021_  
+  
+新3回生が6名配属されました！総勢27名の大所帯です。
 
 ***
 _posted on 2 September 2021_  
