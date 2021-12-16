@@ -7,7 +7,8 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 科研費プロジェクトの詳細は[こちらのリンク](https://nrid.nii.ac.jp/ja/nrid/1000050243332/)をご覧ください。
 ## 継続中
 * タイ王国 マングローブ林土壌と河川水調査（2016-現在）
-* 北極 ノルウェー・スバールバル諸島の国際共同基地にて湿地帯の調査（2015-現在）
+* 北極 ノルウェー・スバールバル諸島の国際共同基地にて湿地帯の調査（2015-現在）  
+<img src="/assets/img/hokkyoku1.jpg" alt="image" width="96" height="486"><img src="/assets/img/hokkyoku2.jpg" alt="image" width="96" height="486">
 * 早稲田大学本庄試験地 バイオチャーが森林生態系の土壌圏と生態系炭素隔離機能に及ぼす影響の調査（2015-現在）
 * 石垣島 マングローブ林土壌と河川水調査（2012-現在）
 * スコットランド ピート土壌と河川水の調査（-現在）
@@ -15,7 +16,6 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 ## 過去
 * 茅場 長野県小谷村の茅場土壌調査（2017-2019）
 * 南極大陸 第58次南極地域観測隊夏隊員として宗谷海岸露岩域を調査（2016.12-2017.03）  
-#<img src="/assets/img/nankyoku1.jpg" alt="image" width="96" height="486"><img src="/assets/img/nankyoku2.jpg" alt="image" width="96" height="486">
 * パプア・ニューギニア マングローブ林土壌調査（2016）
 * セレンゲ川流域 モンゴル・ロシアを跨ぐセレンゲ川の水質調査（2013-2015）
 * チベット高原 標高3000-5000mのチベット高原祁連山脈での土壌調査（2012-2015）
