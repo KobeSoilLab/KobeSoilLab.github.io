@@ -21,7 +21,7 @@ _posted on 23 December 2021_
 ***
 _posted on 2 December 2021_  
   
-[日本腐植物質学会 第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，[有機地球化学会 札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)に参加しました。
+日本腐植物質学会 [第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，日本有機地球化学会 [札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)に参加しました！
 
 ***
 _posted on 5 October 2021_  
@@ -29,9 +29,14 @@ _posted on 5 October 2021_
 新3回生が6名配属されました！総勢27名の大所帯です。
 
 ***
+_posted on 17 September 2021_  
+  
+日本土壌肥料学会 [北海道大会（オンライン）](https://www.jssspn.org/2021/)に参加しました！
+
+***
 _posted on 2 September 2021_  
   
-神戸大学土壌学研究室が少しだけ協力した、[絵本「地球がうみだす土のはなし」](https://www.fukuinkan.co.jp/book/?id=6793#modal-content)が  
+神戸大学土壌学研究室が少しだけ協力した、絵本[「地球がうみだす土のはなし」](https://www.fukuinkan.co.jp/book/?id=6793#modal-content)が  
 第33回読書感想画中央コンクールにて低学年の部の指定図書に選書されました！
 
 ***
