@@ -3,6 +3,27 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 25 March 2022_  
+  
+今日は卒業式・修了式です。本研究室からは4回生5名，修士2回生4名が旅立ちます。本当にお疲れ様でした。4回生のうち3名は院に進学して研究を続けてくれます！
+
+***
+_posted on 10 March 2022_  
+  
+環境研究総合推進費に新規採択されました！早稲田大学の[吉竹先生](https://wasedae2lab.wixsite.com/yoshitake)，岐阜大学の[大塚先生](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html)との共同研究で藤嶽教授が出していた，バイオチャーに関する研究です。今後3年間で，林地へのバイオチャー施用が森林生態系に与える影響について総合的な研究を展開します。本研究室は土壌有機物を担当します。  
+[「林地へのバイオ炭施用によるCO2 放出の削減と生態系サービスの強化に関する研究」](https://www.erca.go.jp/erca/pressrelease/pdf/20220310_1.pdf)  
+
+***
+_posted on 23 December 2021_  
+  
+木田助教が土壌肥料学会の後夜祭セミナーで「マングローブ林の土壌有機物の研究 これまでとこれから」というタイトルで招待講演を行いました。
+
+***
+_posted on 2 December 2021_  
+  
+[日本腐植物質学会 第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，[有機地球化学会 札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)に参加しました。
+
+***
 _posted on 5 October 2021_  
   
 新3回生が6名配属されました！総勢27名の大所帯です。
