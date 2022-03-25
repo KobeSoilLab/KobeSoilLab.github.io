@@ -4,8 +4,8 @@ title: 調査地
 subtitle: どこでも行きます
 cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 ---
-科研費プロジェクトの詳細は[こちらのリンク](https://nrid.nii.ac.jp/ja/nrid/1000050243332/)をご覧ください。
 ## 継続中
+* 琵琶湖 溶存有機物と微生物の相互作用（2022-現在）
 * タイ王国 マングローブ林土壌と河川水調査（2016-現在）
 * 北極 ノルウェー・スバールバル諸島の国際共同基地にて湿地帯の調査（2015-現在）  
 <img src="/assets/img/hokkyoku1.jpg" alt="image" width="96" height="486"><img src="/assets/img/hokkyoku2.jpg" alt="image" width="96" height="486">
