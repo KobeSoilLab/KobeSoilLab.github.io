@@ -1,5 +1,6 @@
 ---
 layout: page
+cover-img: /assets/img/DSCF0003.jpg
 title: 配属希望の学生へ
 subtitle:
 ---
