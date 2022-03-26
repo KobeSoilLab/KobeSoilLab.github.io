@@ -9,19 +9,19 @@ _posted on 25 March 2022_
 
 ***
 _posted on 10 March 2022_  
-  
+### 競争的資金
 環境研究総合推進費に新規採択されました！早稲田大学の[吉竹先生](https://wasedae2lab.wixsite.com/yoshitake)，岐阜大学の[大塚先生](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html)との共同研究で藤嶽教授が出していた，バイオチャーに関する研究です。今後3年間で，林地へのバイオチャー施用が森林生態系に与える影響について総合的な研究を展開します。本研究室は土壌有機物を担当します。  
 [「林地へのバイオ炭施用によるCO2 放出の削減と生態系サービスの強化に関する研究」](https://www.erca.go.jp/erca/pressrelease/pdf/20220310_1.pdf)  
 
 ***
 _posted on 23 December 2021_  
-  
+### 招待講演
 木田助教が土壌肥料学会の後夜祭セミナーで「マングローブ林の土壌有機物の研究 これまでとこれから」というタイトルで招待講演を行いました。
 
 ***
 _posted on 2 December 2021_  
-  
-日本腐植物質学会 [第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，日本有機地球化学会 [札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)に参加しました！
+### 学会発表
+日本腐植物質学会 [第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，日本有機地球化学会 [札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)で発表しました！
 
 ***
 _posted on 5 October 2021_  
@@ -30,8 +30,8 @@ _posted on 5 October 2021_
 
 ***
 _posted on 17 September 2021_  
-  
-日本土壌肥料学会 [北海道大会（オンライン）](https://www.jssspn.org/2021/)に参加しました！
+### 学会発表
+日本土壌肥料学会 [北海道大会（オンライン）](https://www.jssspn.org/2021/)で発表しました！
 
 ***
 _posted on 2 September 2021_  
@@ -41,14 +41,14 @@ _posted on 2 September 2021_
 
 ***
 _posted on 16 August 2021_
-## 論文アクセプト
+### 論文アクセプト
 木田助教筆頭の論文が[*Science of the Total Environment*](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)に公開されました！
 タイの研究者と共同で，トラート川マングローブ林における生態系炭素貯留量を調査しました。3.5 m深までの土壌を採取することで，従来のタイにおける見積もりの約4倍もの炭素が貯留されていることを明らかにしました。
 さらに，炭素貯留量と有機物組成は土壌の粒径組成ではなく主にマングローブ根の寄与によって決まっていることを示しました。
 
 ***
 _posted on 9 July 2021_
-## 論文アクセプト
+### 論文アクセプト
 木田助教筆頭の論文が[*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.1c03163)に公開されました！
 南極氷河河川の流下過程における溶存有機物の分子組成の変遷を蛍光分析，NMR分析，超高分解能質量分析を用いて解析したものです。
 (1)氷河溶解水の溶存有機物は微生物由来の易分解性の小分子に富むこと，(2)河川の流下過程でそうした小分子は選択的に分解・消費されること，
@@ -57,7 +57,7 @@ _posted on 9 July 2021_
 
 ***
 _posted on 21 June 2021_
-## 新ホームページ
+### 新ホームページ
 土壌研HPが新しく生まれ変わりました！調査や論文報告などはこのページでおこないます。  
   
 ***
