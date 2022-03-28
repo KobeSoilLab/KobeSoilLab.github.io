@@ -32,12 +32,15 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 * パプア・ニューギニア マングローブ林土壌調査（2016）  
 <img src="/assets/img/L1080535.jpg" alt="image">
 
-* セレンゲ川流域 モンゴル・ロシアを跨ぐセレンゲ川の水質調査（2013-2015）
+* セレンゲ川流域 モンゴル・ロシアを跨ぐセレンゲ川の水質調査（2013-2015）  
+<img src="/assets/img/13-08Mongol1 - 0232.jpg" alt="image">
+
 * チベット高原 標高3000-5000mのチベット高原祁連山脈での土壌調査（2012-2015）  
 <img src="/assets/img/DSC02774.jpg" alt="image">
 
 * 琵琶湖 難分解性溶存有機物の動態の調査（2010-2015）  
 <img src="/assets/img/DSC04416.jpg" alt="image">
 
-* フィンランド 森林の溶存有機物の構成種とその変動メカニズムの解明（2012）
+* フィンランド 森林の溶存有機物の構成種とその変動メカニズムの解明（2012）  
+<img src="/assets/img/08-Finland1-268.jpg" alt="image">
 
