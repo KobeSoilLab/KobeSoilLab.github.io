@@ -21,6 +21,7 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 * スコットランド ピート土壌と河川水の調査（-現在）  
 <img src="/assets/img/IMGP0857.jpg" alt="image">
 
+---
 ## 過去
 * 茅場 長野県小谷村の茅場土壌調査（2017-2019）  
 <img src="/assets/img/sign039.jpg" alt="image">
