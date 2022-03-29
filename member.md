@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MEMBER
-subtitle: 2021年度
+subtitle: 2022年度
 #cover-img: /assets/img/2021member.jpg
 ---
 <img src="/assets/img/2021member.jpg" alt="image" width="800" height="525">  
