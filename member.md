@@ -18,7 +18,7 @@ subtitle: 2022年度
 
 ## 助教  
 **鈴木　武志　Assit. Prof. Takeshi Suzuki**  
-<img src="/assets/img/suzuki.jpeg" alt="image" width="200" height="200">  
+<img src="/assets/img/KobeSoilLab.github.io" alt="image" width="200" height="200">  
 主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。
 
 **木田　森丸　Assit. Prof. Morimaru Kida**  
