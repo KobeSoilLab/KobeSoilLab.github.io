@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 調査ログ
-subtitle: 2022年度以降の調査の記録
+subtitle: 2022年度以降の野外調査の記録
 ---
 ***
 _18-20 April 2022_  
