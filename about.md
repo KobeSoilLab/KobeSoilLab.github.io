@@ -2,7 +2,7 @@
 layout: page
 title: ABOUT
 subtitle: 
-cover-img: /assets/img/horida.png
+cover-img: /assets/img/DSCF0003.jpg
 ---
 
 # 土壌学とは。。。  
