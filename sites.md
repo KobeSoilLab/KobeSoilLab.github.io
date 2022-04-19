@@ -25,11 +25,12 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 * **茅長野県小谷村** 茅場土壌調査（2017-2019）  
 <img src="/assets/img/sign039.jpg" alt="image">
 
-* **南極大陸** 第58次南極地域観測隊夏隊員として宗谷海岸露岩域を調査  
-（2016.12-2017.03）  
+* **南極大陸** 第58次南極地域観測隊夏隊員として宗谷海岸露岩域を調査（2016.12-2017.03）  
 <img src="/assets/img/pengin.jpg" alt="image" width="180" height="99"><img src="/assets/img/aderi.jpg" alt="image" width="180" height="99"><img src="/assets/img/enpera.jpg" alt="image" width="180" height="99"><img src="/assets/img/azarashi.jpg" alt="image" width="180" height="99"><img src="/assets/img/hinoiri.jpg" alt="image" width="180" height="99"><img src="/assets/img/orora.jpg" alt="image" width="180" height="99"><img src="/assets/img/fune.jpg" alt="image" width="180" height="99"><img src="/assets/img/yukidori.jpg" alt="image" width="180" height="99"><img src="/assets/img/kujira.jpg" alt="image" width="180" height="99">
+
 * **タイ王国・Trat** マングローブ林土壌と河川水調査（2016-2017）  
 <img src="/assets/img/L1070440.jpg" alt="image">
+
 * **パプア・ニューギニア** マングローブ林土壌調査（2016）  
 <img src="/assets/img/L1080535.jpg" alt="image">
 
