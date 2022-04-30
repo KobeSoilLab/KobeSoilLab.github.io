@@ -10,7 +10,7 @@ _posted on 6 April 2022_
 ***
 _posted on 1 April 2022_  
 ### 競争的資金
-木田助教代表の科研費基盤研究（B)が採択されました！「[溶存有機物の長期残存性を規定する分子複雑性とその規定要因の解明](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H03733/)」というテーマで，琵琶湖をモデルとして溶存有機物と微生物（植物プランクトン，バクテリア）との相互作用について研究します。琵琶湖環境科学研究センターの[山口さん](https://researchmap.jp/yasuhiko-t-yamaguchi)と京都大学化学研究所バイオインフォマティクスセンターの[岡崎さん](https://researchmap.jp/yokazaki)との共同研究です。  
+木田助教代表の科研費基盤研究（B）が採択されました！「[溶存有機物の長期残存性を規定する分子複雑性とその規定要因の解明](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H03733/)」というテーマで，琵琶湖をモデルとして溶存有機物と微生物（植物プランクトン，バクテリア）との相互作用について研究します。琵琶湖環境科学研究センターの[山口さん](https://researchmap.jp/yasuhiko-t-yamaguchi)と京都大学化学研究所バイオインフォマティクスセンターの[岡崎さん](https://researchmap.jp/yokazaki)との共同研究です。  
 
 ***
 _posted on 25 March 2022_  
