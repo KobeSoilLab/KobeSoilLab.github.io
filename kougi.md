@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-subtitle: 本研究室の担当講義
+title: 本研究室の担当講義
+subtitle:
 cover-img: 
 ---
 **学部
