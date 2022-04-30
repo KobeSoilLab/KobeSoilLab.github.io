@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 調査ログ
+title: EXCURSION LOG
 subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
