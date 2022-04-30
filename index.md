@@ -3,8 +3,18 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 6 April 2022_  
+### メンバー更新
+4名が修士に上がり（4年生3名，研究生1名），他コースからも1名が修士生として参加してくれました。これで4年生6名，修士1年5名，修士2年6名，博士2名となりました。この1年も研究を頑張っていきましょう！
+
+***
+_posted on 1 April 2022_  
+### 競争的資金
+木田助教代表の科研費基盤研究（B)が採択されました！「[溶存有機物の長期残存性を規定する分子複雑性とその規定要因の解明](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H03733/)」というテーマで，琵琶湖をモデルとして溶存有機物と微生物（植物プランクトン，バクテリア）との相互作用について研究します。琵琶湖環境科学研究センターの[山口さん](https://researchmap.jp/yasuhiko-t-yamaguchi)と京都大学化学研究所バイオインフォマティクスセンターの[岡崎さん](https://researchmap.jp/yokazaki)との共同研究です。  
+
+***
 _posted on 25 March 2022_  
-  
+### メンバー更新
 今日は卒業式・修了式です。本研究室からは4回生5名，修士2回生4名が旅立ちます。本当にお疲れ様でした。4回生のうち3名は院に進学して研究を続けてくれます！
 
 ***
@@ -22,6 +32,11 @@ _posted on 23 December 2021_
 _posted on 2 December 2021_  
 ### 学会発表
 日本腐植物質学会 [第37回講演会（オンライン）](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)，日本有機地球化学会 [札幌シンポジウム](https://sites.google.com/view/orggeochem2021/home)で発表しました！
+
+***
+_posted on 7 October 2021_  
+### 競争的資金
+岐阜大学の[大塚先生](https://www.green.gifu-u.ac.jp/~ohtsuka_lab/top.html)との共同研究で藤嶽教授と木田助教が出していた科研費国際共同研究強化（B）が採択されました！「[荒廃地へのマングローブの植林は生態系炭素貯留量をどのくらい増大させるか](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21KK0186/)」というテーマで，今後5年間でタイ王国のBang Puでマングローブの植林クロノシーケンスにおける土壌有機物動態について研究します。木田助教は若手研究者枠として本プロジェクトの中核を担います。
 
 ***
 _posted on 5 October 2021_  
@@ -59,7 +74,7 @@ _posted on 9 July 2021_
 _posted on 21 June 2021_
 ### 新ホームページ
 土壌研HPが新しく生まれ変わりました！学会発表や論文の報告などはこのページでおこないます。  
-  
+
 ***
 _posted on 1 February 2021_  
 ### 新メンバー  
