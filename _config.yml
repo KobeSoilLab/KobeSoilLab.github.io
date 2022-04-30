@@ -20,6 +20,7 @@ navbar-links:
   論文: "publications" 
   調査地: "sites"
   調査ログ: "sitelog"
+  担当講義: "kougi"
   配属希望: "kibou"
   
 # --- Logo --- #
