@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 調査地
+title: STUDY FIELD
 subtitle: どこでも行きます
 cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 ---
