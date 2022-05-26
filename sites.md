@@ -51,3 +51,5 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 * **フィンランド** 森林の溶存有機物の構成種とその変動メカニズムの解明（2012）  
 <img src="/assets/img/08-Finland1-268.jpg" alt="image">
 
+* **菅平高原** 植生遷移に伴う土壌有機物動態の解明（??-2013）  
+<img src="/assets/img/imag1797_15144836363_o.jpg" alt="image">
