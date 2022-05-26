@@ -6,8 +6,13 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 ---
 ## 継続中
 * **琵琶湖** 溶存有機物と微生物の相互作用（2022-現在）  
+<img src="/assets/img/IMG_20191212_140645.jpg" alt="image">
+
 * **タイ王国・Bang Pu** マングローブ林植林クロノシーケンスにおける土壌調査（2021-現在）  
+
 * **岐阜県位山と長野県八ヶ岳** 森林土壌の炭素賦存量推定に与える礫と樹木根の影響（2019-現在）  
+<img src="/assets/img/190802_八ヶ岳演習林_00024.jpg" alt="image">
+
 * **北極** ノルウェー・スバールバル諸島の国際共同基地にて湿地帯の調査（2015-現在）  
 <img src="/assets/img/北極-0936.jpg" alt="image">
 
@@ -26,7 +31,7 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 <img src="/assets/img/sign039.jpg" alt="image">
 
 * **南極大陸** 第58次南極地域観測隊夏隊員として宗谷海岸露岩域を調査（2016.12-2017.03）  
-<img src="/assets/img/pengin.jpg" alt="image" width="180" height="99"><img src="/assets/img/aderi.jpg" alt="image" width="180" height="99"><img src="/assets/img/enpera.jpg" alt="image" width="180" height="99"><img src="/assets/img/azarashi.jpg" alt="image" width="180" height="99"><img src="/assets/img/hinoiri.jpg" alt="image" width="180" height="99"><img src="/assets/img/orora.jpg" alt="image" width="180" height="99"><img src="/assets/img/fune.jpg" alt="image" width="180" height="99"><img src="/assets/img/yukidori.jpg" alt="image" width="180" height="99"><img src="/assets/img/kujira.jpg" alt="image" width="180" height="99">
+<img src="/assets/img/pengin.jpg" alt="image" width="180" height="99"><img src="/assets/img/enpera.jpg" alt="image" width="180" height="99"><img src="/assets/img/azarashi.jpg" alt="image" width="180" height="99"><img src="/assets/img/hinoiri.jpg" alt="image" width="180" height="99"><img src="/assets/img/orora.jpg" alt="image" width="180" height="99"><img src="/assets/img/fune.jpg" alt="image" width="180" height="99">
 
 * **タイ王国・Trat** マングローブ林土壌と河川水調査（2016-2017）  
 <img src="/assets/img/L1070440.jpg" alt="image">
