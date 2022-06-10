@@ -1,6 +1,6 @@
 ---
 layout: page
-title: アクセス
+title: access
 ---
 
 農学部のサイトをご覧ください（[クリック](http://www.ans.kobe-u.ac.jp/nougakubu/access.html)）。  
