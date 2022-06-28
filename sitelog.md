@@ -7,7 +7,8 @@ cover-img: /assets/img/horida.png
 ***
 _27 June-1 July 2022_  
   
-木田助教，M1濵田，M1大平，M1大下田：石垣島ガブルマタ川マングローブ林
+木田助教，M1濵田，M1大平，M1大下田：石垣島ガブルマタ川マングローブ林  
+<img src="/assets/img/DSCF5777.jpg" alt="image">  
 
 ***
 _20 June 2022_  
@@ -24,7 +25,7 @@ _17 June 2022_
 _13-18 June 2022_  
   
 藤嶽教授，木田助教，M2閻，M1雪，B4水本：位山調査（SUTプロジェクト）  
-<img src="/assets/img/190802_八ヶ岳演習林_00024.jpg" alt="image">  
+<img src="/assets/img/DSCF5770.jpg" alt="image">  
 
 ***
 _22-24 May 2022_  
