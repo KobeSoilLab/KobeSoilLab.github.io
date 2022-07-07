@@ -83,7 +83,7 @@ _posted on 21 June 2021_
 ***
 _posted on 1 February 2021_  
 ### 新メンバー  
-新しく木田森丸助教がスタッフとして着任されました。  
+新しく[木田森丸](https://morimarukida.github.io/)助教がスタッフとして着任されました。  
   
 ***
 _posted on 30 September 2020_  
