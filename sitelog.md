@@ -22,6 +22,12 @@ _17 June 2022_
 <img src="/assets/img/IMG_20220617_095335.jpg" alt="image">  
 
 ***
+_15-16 June 2022_  
+  
+M1藤崎：本庄調査（バイオチャープロジェクト）  
+<img src="/assets/img/IMG_6242.jpg" alt="image">  
+
+***
 _13-18 June 2022_  
   
 藤嶽教授，木田助教，M2閻，M1雪，B4水本：位山調査（SUTプロジェクト）  
