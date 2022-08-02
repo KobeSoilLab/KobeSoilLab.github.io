@@ -5,6 +5,12 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_28 July 2022_  
+  
+M1藤崎：本庄調査（バイオチャープロジェクト）  
+<img src="/assets/img/DSCF5777.jpg" alt="image">  
+
+***
 _3-22 July 2022_  
   
 藤嶽教授，M2阪上：北極（スヴァールバル諸島・ニーオルスン）  
@@ -30,7 +36,7 @@ _17 June 2022_
 _15-16 June 2022_  
   
 M1藤崎：本庄調査（バイオチャープロジェクト）  
-<img src="/assets/img/IMG_6242.jpg" alt="image">  
+<img src="/assets/img/S__47038508.jpg" alt="image">  
 
 ***
 _13-18 June 2022_  
