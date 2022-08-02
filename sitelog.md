@@ -8,7 +8,7 @@ cover-img: /assets/img/horida.png
 _28 July 2022_  
   
 M1藤崎：本庄調査（バイオチャープロジェクト）  
-<img src="/assets/img/DSCF5777.jpg" alt="image">  
+<img src="/assets/img/S__47038508.jpg" alt="image">  
 
 ***
 _3-22 July 2022_  
@@ -36,7 +36,7 @@ _17 June 2022_
 _15-16 June 2022_  
   
 M1藤崎：本庄調査（バイオチャープロジェクト）  
-<img src="/assets/img/S__47038508.jpg" alt="image">  
+<img src="/assets/img/IMG_6242.jpg" alt="image">  
 
 ***
 _13-18 June 2022_  
