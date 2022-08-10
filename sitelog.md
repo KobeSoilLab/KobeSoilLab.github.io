@@ -5,6 +5,11 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_3 August 2022_  
+  
+藤嶽教授，M1雪：枚方調査  
+
+***
 _28 July 2022_  
   
 M1藤崎：本庄調査（バイオチャープロジェクト）  
