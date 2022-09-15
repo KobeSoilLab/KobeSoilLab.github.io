@@ -3,7 +3,7 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
-_posted on 12-15 September 2022_  
+_posted on 15 September 2022_  
 ### 学会発表
 [日本土壌肥料学会2022年度東京大会](https://www.jssspn.org/2022/)で発表を行いました。3年ぶりの対面開催でした！  
 * 「鉱物結合型土壌有機物量を決定する要因の解析」M1 大平
