@@ -5,6 +5,11 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_26-28 September 2022_  
+  
+藤嶽教授，M2閻，B4仙波：位山調査（SUTプロジェクト）   
+
+***
 _3 August 2022_  
   
 藤嶽教授，M1雪：枚方調査  
