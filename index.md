@@ -3,7 +3,7 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
-_posted on 15 September 2022_  
+_posted on 4 October 2022_  
 ### 学会発表
 [2022年度生物地球化学研究会現地セッション](https://sites.google.com/site/biogeochemnet/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9)で発表を行いました。初参加でした！フィールド巡検も充実でまた参加したい研究会でした（次回は佐渡）。  
 * 「比重分画法によるマングローブ林の土壌有機物特性分析」M1 濵田
