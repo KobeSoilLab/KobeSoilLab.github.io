@@ -2,8 +2,9 @@
 layout: page
 title: MEMBER
 subtitle: 2022年度
-cover-img: /assets/img/IMG_0216 - コピー.jpg
+#cover-img: /assets/img/IMG_0216 - コピー.jpg
 ---
+<img src="/assets/img/IMG_0216 - コピー.jpg" alt="image">  
 
 ***  
 ## 教授  
