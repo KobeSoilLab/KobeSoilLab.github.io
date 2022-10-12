@@ -3,6 +3,13 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 12 October 2022_  
+### 研究室行事
+圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。年2回の恒例作業ですが，今回は気合の入り方が違ったような。不必要な樹木も伐採し，開墾し，圃場が広くなりました。  
+<img src="/assets/img/IMG20221012150727.jpg" alt="image"> <img src="/assets/img/IMG20221012160153.jpg" alt="image">  
+ 
+
+***
 _posted on 4 October 2022_  
 ### 学会発表
 [2022年度生物地球化学研究会現地セッション](https://sites.google.com/site/biogeochemnet/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AE%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9)で発表を行いました。初参加でした！フィールド巡検も充実でまた参加したい研究会でした（次回は佐渡）。  
@@ -108,7 +115,7 @@ _posted on 9 July 2021_
 ***
 _posted on 21 June 2021_
 ### 新ホームページ
-土壌研HPが新しく生まれ変わりました！学会発表や論文の報告などはこのページでおこないます。  
+土壌研HPが新しく生まれ変わりました！学会発表や論文の報告（主にラボメンバーが第一著者のもの）などはこのページでおこないます。  
 
 ***
 _posted on 1 February 2021_  
