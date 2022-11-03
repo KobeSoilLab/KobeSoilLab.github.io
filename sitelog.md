@@ -37,11 +37,6 @@ _27 June-1 July 2022_
 <img src="/assets/img/DSCF5777.jpg" alt="image">  
 
 ***
-_20 June 2022_  
-  
-木田助教，M1大平：京大生存圏研究所（FT-ICR-MS分析／DOM複雑多様性プロジェクト）　　
-
-***
 _17 June 2022_  
   
 木田助教，M1大平：琵琶湖調査（DOM複雑多様性プロジェクト）  
