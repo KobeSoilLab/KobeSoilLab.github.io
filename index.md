@@ -3,11 +3,15 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 30 November 2022_  
+### 研究室行事
+#### 今年度も農学部六甲山20キロマラソン大会は中止です。楽しみにされていた方は申し訳ありません。  
+
+***
 _posted on 12 October 2022_  
 ### 研究室行事
 圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。年2回の恒例作業ですが，今回は気合の入り方が違ったような。不必要な樹木も伐採し，開墾し，圃場が広くなりました。  
 <img src="/assets/img/IMG20221012150727.jpg" alt="image"> <img src="/assets/img/IMG20221012160153.jpg" alt="image">  
- 
 
 ***
 _posted on 4 October 2022_  
