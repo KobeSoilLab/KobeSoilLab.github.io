@@ -5,6 +5,11 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_5-8 December 2022_  
+  
+木田助教，M1濵田，B4小西，B3住岡：石垣島ガブルマタ川マングローブ林（マングローブプロジェクト）  
+
+***
 _17-20 November 2022_  
   
 木田助教：Bang Pu, Thailand（マングローブプロジェクト） 
