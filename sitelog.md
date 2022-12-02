@@ -23,6 +23,7 @@ _14-19 November 2022_
 _9 November 2022_  
   
 藤嶽教授，M1雪，M1藤崎：丹波圃場調査   
+<img src="/assets/img/c1b5cc4bb3201a5d96263b830a521ba.jpg" alt="image"> 
 
 ***
 _26-27 October 2022_  
