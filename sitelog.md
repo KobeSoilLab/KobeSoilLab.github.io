@@ -8,11 +8,13 @@ cover-img: /assets/img/horida.png
 _5-8 December 2022_  
   
 木田助教，M1濵田，B4小西，B3住岡：石垣島ガブルマタ川マングローブ林（マングローブプロジェクト）  
+<img src="/assets/img/IMG20221206110529.jpg" alt="image"> 
 
 ***
 _17-20 November 2022_  
   
-木田助教：Bang Pu, Thailand（マングローブプロジェクト） 
+木田助教：Bang Pu, Thailand（マングローブプロジェクト）  
+<img src="/assets/img/IMG20221118101727.jpg" alt="image"> 
 
 ***
 _14-19 November 2022_  
