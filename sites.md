@@ -9,6 +9,7 @@ cover-img: /assets/img/globcover_poster_V2_H_1400.jpg
 <img src="/assets/img/IMG_20191212_140645.jpg" alt="image">
 
 * **タイ王国・Bang Pu** マングローブ林植林クロノシーケンスにおける土壌調査（2021-現在）  
+<img src="/assets/img/IMG20221118101727.jpg" alt="image"> 
 
 * **岐阜県位山と長野県八ヶ岳** 森林土壌の炭素賦存量推定に与える礫と樹木根の影響（2019-現在）  
 <img src="/assets/img/190802_八ヶ岳演習林_00024.jpg" alt="image">
