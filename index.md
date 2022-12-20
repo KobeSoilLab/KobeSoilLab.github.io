@@ -2,8 +2,9 @@
 layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
+_posted on 20 December 2022_  
 ### 研究室行事
-大掃除しました！  
+今日は研究室の年末大掃除でした。学生部屋も各実験室もすっきりピカピカです。  
 <img src="/assets/img/IMG20221220180229.jpg" alt="image">
 
 ***
