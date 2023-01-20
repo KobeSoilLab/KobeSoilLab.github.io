@@ -29,6 +29,11 @@ subtitle: 2022年度
 [日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/home)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)
 
 ***
+## 研究員
+**近藤 美由紀 Miyuki Kondo**  
+テーマ：
+
+***
 ## 博士後期課程（ドクターコース）
  
 **豊田(堂本) 晶子 (D4) Akiko Toyoda-Domoto**  
