@@ -2,6 +2,11 @@
 layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
+_posted on 20 January 2023_  
+### 競争的資金
+木田助教が神戸大学[⾼等学術研究院のテニュアトラック教員⽀援制度](https://www.research.kobe-u.ac.jp/gksh-web/iar/about/)に採択されました。高等学術研究院は令和４年４月に設置されたばかりで，「学長の主導の下に神戸大学の特色及び強みを活かして、国際的に卓越した学術研究を推進するとともに、本学の研究力の一層の向上に資することを目的とします。」
+
+***
 _posted on 20 December 2022_  
 ### 研究室行事
 今日は研究室の年末大掃除でした。学生部屋も各実験室もすっきりピカピカです。  
