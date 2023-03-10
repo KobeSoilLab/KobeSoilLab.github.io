@@ -5,6 +5,12 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_23 February-8 March 2023_  
+  
+藤嶽教授，木田助教，B3住岡，B3渡辺：Bang Pu, Thailand（マングローブプロジェクト）  
+<img src="/assets/img/IMG20221206110529.jpg" alt="image"> 
+
+***
 _24-25 January 2023_  
   
 近藤さん，M1藤崎，B3内田：本庄調査（バイオチャープロジェクト）  
