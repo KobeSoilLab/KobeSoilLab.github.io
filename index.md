@@ -7,7 +7,7 @@ _24 March 2023_
 ### 論文アクセプト
 木田助教筆頭の論文が[*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.3c00249)に公開されました！オープンアクセスなので誰でも読めます。
 溶存有機物の分子組成の多様性を，超高分解能質量分析計と多変量解析を主軸に解析したものです。生態学で一般的に観察されるDistance-decay of similarity（サイト間距離が遠くなるほど群集組成の類似度が減衰）は観察されず，水質の違いによって溶存有機物の分子組成に差異が生まれることを初めて示しました。木田助教の海外学振先のThorsen Dittmar教授との共著です。  
-<img src="/assets/img/IMG20221012150727.jpg" alt="image">
+<img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image">
 
 ***
 _1 March 2023_  
