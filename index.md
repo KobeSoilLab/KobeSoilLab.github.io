@@ -3,6 +3,13 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_24 March 2023_
+### 論文アクセプト
+木田助教筆頭の論文が[*Environmental Science & Technology*](https://pubs.acs.org/doi/10.1021/acs.est.3c00249)に公開されました！オープンアクセスなので誰でも読めます。
+溶存有機物の分子組成の多様性を，超高分解能質量分析計と多変量解析を主軸に解析したものです。生態学で一般的に観察されるDistance-decay of similarity（サイト間距離が遠くなるほど群集組成の類似度が減衰）は観察されず，水質の違いによって溶存有機物の分子組成に差異が生まれることを初めて示しました。木田助教の海外学振先のThorsen Dittmar教授との共著です。  
+<img src="/assets/img/IMG20221012150727.jpg" alt="image">
+
+***
 _1 March 2023_  
 ### 招待講演
 木田助教が京都大学生存圏研究所の[第496回生存圏シンポジウム・第12回ADAMシンポジウム](https://www.rish.kyoto-u.ac.jp/events/symposium-0496/)で「FT-ICR MSと多変量解析による南極湖沼の溶存有機物の多様性とその影響要因の解明」というタイトルで招待講演を行いました（ZOOM配信@Chulalongkorn University）。
@@ -22,7 +29,7 @@ _posted on 20 December 2022_
 _posted on 18 December 2022_  
 ### 研究室行事
 「第1回関西3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました。9月の土肥学会で話し合ったアイディアがわずか3ヶ月で実現した突貫工事でしたが，専門分野も相補的で，どの大学の学生も良い刺激を受けていたようです。  
-<img src="/assets/img/IMG20221218091500.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
+<img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
 
 ***
 _posted on 2 December 2022_  
