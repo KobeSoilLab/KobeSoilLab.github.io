@@ -29,7 +29,7 @@ _posted on 20 December 2022_
 _posted on 18 December 2022_  
 ### 研究室行事
 「第1回関西3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました。9月の土肥学会で話し合ったアイディアがわずか3ヶ月で実現した突貫工事でしたが，専門分野も相補的で，どの大学の学生も良い刺激を受けていたようです。  
-<img src="/assets/img/images_large_es3c00249_0006.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
+<img src="/assets/img/IMG20221218091500.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
 
 ***
 _posted on 2 December 2022_  
@@ -154,7 +154,8 @@ _posted on 16 August 2021_
 ### 論文アクセプト
 木田助教筆頭の論文が[*Science of the Total Environment*](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574)に公開されました！
 タイの研究者と共同で，トラート川マングローブ林における生態系炭素貯留量を調査しました。3.5 m深までの土壌を採取することで，従来のタイにおける見積もりの約4倍もの炭素が貯留されていることを明らかにしました。
-さらに，炭素貯留量と有機物組成は土壌の粒径組成ではなく主にマングローブ根の寄与によって決まっていることを示しました。
+さらに，炭素貯留量と有機物組成は土壌の粒径組成ではなく主にマングローブ根の寄与によって決まっていることを示しました。  
+<img src="/assets/img/TratSOM.jpg" alt="image">
 
 ***
 _posted on 9 July 2021_
@@ -163,7 +164,8 @@ _posted on 9 July 2021_
 南極氷河河川の流下過程における溶存有機物の分子組成の変遷を蛍光分析，NMR分析，超高分解能質量分析を用いて解析したものです。
 (1)氷河溶解水の溶存有機物は微生物由来の易分解性の小分子に富むこと，(2)河川の流下過程でそうした小分子は選択的に分解・消費されること，
 (3)それと同時に高分子の分解も進み分子組成は全体的に均質化して多様度が減少することを明らかにしました。
-木田助教の海外学振先のThorsen Dittmar教授との共著です。
+木田助教の海外学振先のThorsen Dittmar教授との共著です。  
+<img src="/assets/img/Antarcticstream.jpg" alt="image">
 
 ***
 _posted on 21 June 2021_
