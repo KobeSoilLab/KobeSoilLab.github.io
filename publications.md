@@ -4,6 +4,10 @@ title: PUBLICATIONS
 subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
+### 2023
+
+* **Kida, M.**; Merder, J.; **Fujitake, N.**; Tanabe, Y.; Hayashi, K.; Sakae, K.; Dittmar, T. (2023) [Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249). Environ. Sci. Technol., 57, 13, 5464–5473.
+
 ### 2022
 
 * Ueda, S., Takashima, Y., Gotou, Y., Sasaki, R., Nakabayashi, R., **Suzuki, T.**, Sasazaki, S., Fukuda, I., Kebede, B., Kadowaki, Y., Tamura, M., Nakanishi, H., Shirai, Y. (2022) [Application of Mass Spectrometry for Determining the Geographic Production Area of Wagyu Beef](https://www.mdpi.com/2218-1989/12/9/777/htm). Metabolites, 12(9), 777.
@@ -12,7 +16,7 @@ cover-img:
 * Kinoshita, R., Kishimoto, A., Aiuchi, D., **Fujitake, N.**, Osaki, M., Clayton, M., Tani, M. (2021) [Soil properties and classification of a small-scale steep sloping field under traditional slash and burn cropping systems in sabah, Malaysia](https://pedology.jp/pedologist.html). Pedologist, 65(2), 66-75
 * **Kida, M.**, **Watanabe, I.**, Kinjo, K., Kondo, M., Yoshitake, S., **Tomotsune, M.**, Iimura, Y., Umnouysin, S., Suchewaboripont, V., Poungparn, S., Ohtsuka, T., **Fujitake, N.** (2021) [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574). 
 Science of The Total Environment, 149682.
-* **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. (2021) [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol, 55, 14, 10175–10185.
+* **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. (2021) [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol., 55, 14, 10175–10185.
 
 ### 2020
 * Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., **Kida, M.**, Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., **Fujitake, N.** (2020) [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041). Forests, 11(10), 1041.
