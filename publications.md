@@ -21,9 +21,10 @@ Science of The Total Environment, 149682.
 ### 2020
 * Ohtsuka, T., Onishi, T., Yoshitake, S., Tomotsune, M., **Kida, M.**, Iimura, Y., Kondo, M., Suchewaboripont, V., Cao, R., Kinjo, K., **Fujitake, N.** (2020) [Lateral Export of Dissolved Inorganic and Organic Carbon from a Small Mangrove Estuary with Tidal Fluctuation](https://www.mdpi.com/1999-4907/11/10/1041). Forests, 11(10), 1041.
 * **藤嶽暢英** (2020) [土壌の炭素循環と気候変動](https://www.jstage.jst.go.jp/article/jssm/74/2/74_54/_pdf/-char/en). 土と微生物, 74 (2), 54-59.
-* **Kida, M.**, **Fujitake, N.** (2020) [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://www.mdpi.com/1999-4907/11/9/981). Forests, 11 (9), 981.  
+* **Kida, M.**, **Fujitake, N.** (2020) [Organic Carbon Stabilization Mechanisms in Mangrove Soils: A Review](https://www.mdpi.com/1999-4907/11/9/981). Forests, 11 (9), 981.
 * Asaoka, S., Jadoon, W.A., Umehara, A. Takeda, K., Otani, S., Ohno, M., **Fujitake, N.**, Sakugawa, H., Okamura, H. (2020) [Organic matter degradation characteristics of coastal marine sediments collected from the Seto Inland Sea, Japan](https://www.sciencedirect.com/science/article/pii/S0304420320301080?via%3Dihub). Marine Chemistry, 225, 103854-103854.
 * Hayashi, K., Tanabe, Y., **Fujitake, N.**, **Kida, M.**, Wang, Y., Hayatsu, M., Kudoh, S. (2020) [Ammonia Oxidation Potentials and Ammonia Oxidizers of Lichen–Moss Vegetated Soils at Two Ice-free Areas in East Antarctica](https://www.jstage.jst.go.jp/article/jsme2/35/1/35_ME19126/_article). Microbes and Environments, 35 (1), 5p.
+* Iimura, Y., Tanaka, D., Nagao, S., **Fujitake, N.**, Ohtsuka, T. (2020) [The mineralization rate of black soil carbon in the deep layers of Japanese volcanic ash soil may be easily accelerated by labile carbon supply](https://www.tandfonline.com/doi/full/10.1080/00380768.2020.1753481). Soil Science and Plant Nutrition, 66, (3), 415-420.
 * Tomotsune, M., Arai, H., Yoshitake, S., **Kida, M.**, **Fujitake, N.**, Kinjo, K., Ohtsuka, T. (2020) [Effect of Crab Burrows on CO2 Flux from the Sediment Surface to the Atmosphere in a Subtropical Mangrove Forest on Ishigaki Island, Southwestern Japan](https://link.springer.com/article/10.1007/s12237-019-00667-2). Estuaries and Coasts, 43 (1), 102-110.
 
 ### 2019  
