@@ -76,15 +76,6 @@ Science of The Total Environment, 149682.
 * **Iimura, Y.**, Fujimoto, M., Tamura, K., Higashi, T., Kondo, M., Uchida, M., Yonebayashi, K., **Fujitake, N.** (2013) [Black humic acid dynamics during natural reforestation of Japanese pampas grass (*Miscanthus sinensis*)](https://www.sciencedirect.com/science/article/pii/S0038071712002866?via%3Dihub). Soil Biol. Biochem., 57, 60-67.
 * Nagao, S., Aramaki, T., **Fujitake, N.**, Kodama, H., Tanaka, T., Ochiai, S., Uchida, M., Shibata, Y., Yamamoto, M. (2013) [Variation of Δ14C and δ13C Values of Dissolved Humic and Fulvic Acids in the Tokachi River System in Northern Japan](https://www.cambridge.org/core/journals/radiocarbon/article/variation-of-14c-and-13c-values-of-dissolved-humic-and-fulvic-acids-in-the-tokachi-river-system-in-northern-japan/C777D4011D75C3CA9396412032FF84DF). Radiocarbon, 55, 1007-1016.
 
-### 2012
-* **Tsuda, K.**, **Takata, A.**, **Shirai, H.**, **Kozaki, K.**, **Fujitake, N.** (2012) [A Method for Quantitative Analysis of Aquatic Humic Substances in Clear Water Based on Carbon Concentration](https://www.jstage.jst.go.jp/article/analsci/28/10/28_1017/_article/-char/ja). Anal. Sci., 28, 1017-1020
-* Terashima, M., Nagao, S., Iwatsuki, T., **Fujitake, N.**, Seida, Y., Iijima, K., Yoshikawa, H. (2012) [Europium binding abilities of dissolved humic substances isolated from deep groundwater in Horonobe area, Hokkaido, Japan](https://www.tandfonline.com/doi/full/10.1080/00223131.2012.703944). J. Nuclear Sci. Technl., 49, 804-815.
-* **藤嶽 暢英**, **浅川 大地**, **柳 由貴子** (2012) [13CNMRならびに高速サイズ排除クロマトグラフィー（HPSEC）による土壌腐植酸の特徴付け](https://www.jstage.jst.go.jp/article/bunsekikagaku/61/4/61_4_287/_pdf). 分析化学, 61, 287-294.
-* **Fujitake, N.**, **Tsuda, K**., **Mori, H.**, **Aso S.**, Kodama, H., Maruo, M., Yonebayashi, K. (2012) [Seasonal characteristics of surface water fulvic acids from Lake Biwa and Lake Tankai in Japan](https://link.springer.com/article/10.1007/s10201-011-0354-4). Limnology, 13, 45-53.
-* **Iimura**, Y.,  Ohtani, T.,  Chersich, S., Tani, M., **Fujitake, N.** (2012) [Characterization of DAX-8 adsorbed soil fulvic acid fractions by various types of analyses](https://www.tandfonline.com/doi/full/10.1080/00380768.2012.708318). Soil Sci. Plant Nutr., 58, 404-415.
-* Tani, M., Shinjo, H., **Fujitake, N.**, Sumida, H., Kosaki, T. (2012) [Features and properties of Chernozemic soils and humic substances in eastern Ukraine](https://www.jstage.jst.go.jp/article/pedologist/56/2/56_47/_article/-char/ja/). Pedologist, 56, 47-57.
-* Nishimura, S., **Fujitake, N.**, Hiradate, S., Shindo, H. (2012) [Physicochemical and spectroscopic characteristics of charred plant fragments in Japanese volcanic ash soils](https://journals.lww.com/soilsci/Abstract/2012/12000/Physicochemical_and_Spectroscopic_Characteristics.2.aspx). Soil Sci., 177, 695-700.
-
 ## 著書  
 * (2019)「腐植物質分析ハンドブック 第2版: 標準試料を例にして」日本腐植物質学会 監修，渡邉 彰・**藤嶽 暢英**・長尾 誠也 編，農山漁村文化協会，(全pp.196)
 * **鈴木 武志** (2018) 第5章 土壌の地域固有性と人との関わり，第9章 地域伝統農法による持続可能な土作りの可能性，「地域固有性の発現による農業・農村の創造」中塚 雅也 編，筑波書房，pp.57-67，pp107-118(全pp. 208)． ISBN: 978-4-8119-0532-7
