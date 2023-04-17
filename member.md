@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MEMBER
-subtitle: 2022年度
+subtitle: 2023年度
 #cover-img: /assets/img/IMG_0216 - コピー.jpg
 ---
 <img src="/assets/img/IMG_0216 - コピー.jpg" alt="image">  
