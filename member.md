@@ -100,11 +100,11 @@ subtitle: 2023年度
 ## 博士前期課程（マスターコース）1年
 
 **Lorena Goretti**  
-テーマ：  
-出身地：ボリビア  
-出身大学：  
-趣味：  
-一言：  
+テーマ：Soil carbon sequestration (Provisional)  
+出身地：La Paz, Bolivia  
+出身大学：Universidad Mayor de San Andres (UMSA)  
+趣味：Drawing and listening to music. Enjoy any type of animation.  
+一言：“No adventure is fun if it’s too easy!”  
 
 **水本 沙也香 Sayaka Mizumoto**  
 テーマ：ピート土壌がピーティングプロセスに与える影響の評価（仮）  
