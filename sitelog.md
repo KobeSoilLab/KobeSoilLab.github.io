@@ -7,7 +7,7 @@ cover-img: /assets/img/horida.png
 ***
 _16-19 May 2023_  
   
-藤嶽教授，近藤，B1仙波，B1Lorena，B4内田：本庄調査（バイオチャープロジェクト）  
+藤嶽教授，近藤，M1仙波，M1Lorena，B4内田：本庄調査（バイオチャープロジェクト）  
 
 ***
 _26-29 April 2023_  
