@@ -3,6 +3,11 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_16 June 2023_
+## 受賞
+木田助教が神戸大学の2023年度の[優秀若手研究者賞](https://www.kobe-u.ac.jp/NEWS/info/2023_06_16_01.html)を受賞しました。
+
+***
 _12 June 2023_  
 ### 学会発表
 スペイン・マヨルカ島で開催された[ASLO 2023 Aquatic Sciences Meeting](https://www.aslo.org/palma-2023/)で木田助教が発表を行いました。3月にアクセプトされたばかりの論文の宣伝です。溶存有機物に関連したセッションが多数開催されており，大変充実したものでした。来年と再来年は[アメリカで開催](https://www.aslo.org/meetings/)です。
