@@ -3,6 +3,11 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_10 July 2023_
+## 受賞
+木田助教が神戸大学の2023年度の日本有機地球化学会研究奨励賞（田口賞）を受賞しました。
+
+***
 _16 June 2023_
 ## 受賞
 木田助教が神戸大学の2023年度の[優秀若手研究者賞](https://www.kobe-u.ac.jp/NEWS/info/2023_06_16_01.html)を受賞しました。
