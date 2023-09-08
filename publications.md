@@ -14,6 +14,7 @@ cover-img:
 
 ### 2021
 * Kinoshita, R., Kishimoto, A., Aiuchi, D., **Fujitake, N.**, Osaki, M., Clayton, M., Tani, M. (2021) [Soil properties and classification of a small-scale steep sloping field under traditional slash and burn cropping systems in sabah, Malaysia](https://pedology.jp/pedologist.html). Pedologist, 65(2), 66-75
+* Urík, M., Kolenčík, M., **Fujitake, N.**, Diviš, P., Zvěřina, O., Ramakanth, I., Šeda, M. (2021) [Effects of Natural Organic Matter on Bioavailability of Elements from Inorganic Nanomaterial](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119745884.ch7). Chapter 7 in Nanotechnology in Plant Growth Promotion and Protection: Recent Advances and Impacts.
 * **Kida, M.**, **Watanabe, I.**, Kinjo, K., Kondo, M., Yoshitake, S., **Tomotsune, M.**, Iimura, Y., Umnouysin, S., Suchewaboripont, V., Poungparn, S., Ohtsuka, T., **Fujitake, N.** (2021) [Organic carbon stock and composition in 3.5-m core mangrove soils (Trat, Thailand)](https://www.sciencedirect.com/science/article/abs/pii/S0048969721047574). 
 Science of The Total Environment, 149682.
 * **Kida, M.**, **Fujitake, N.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Dittmar, T. (2021) [Dissolved Organic Matter Processing in Pristine Antarctic Streams](https://pubs.acs.org/doi/10.1021/acs.est.1c03163). Environ. Sci. Technol., 55, 14, 10175–10185.
