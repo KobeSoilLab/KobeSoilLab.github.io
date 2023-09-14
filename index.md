@@ -22,7 +22,7 @@ _16 June 2023_
 ***
 _12 June 2023_  
 ### 学会発表
-スペイン・マヨルカ島で開催された[ASLO 2023 Aquatic Sciences Meeting](https://www.aslo.org/palma-2023/)で木田助教が発表を行いました。3月にアクセプトされたばかりの論文の宣伝です。溶存有機物に関連したセッションが多数開催されており，大変充実したものでした。来年と再来年は[アメリカで開催](https://www.aslo.org/meetings/)です。
+スペイン・マヨルカ島で開催された[ASLO 2023 Aquatic Sciences Meeting](https://www.aslo.org/palma-2023/)で木田助教が発表を行いました。3月にアクセプトされたばかりの論文の宣伝です。この発表は日本陸水学会の[国際交流奨励賞](https://www.jslim.jp/?page_id=446)の受賞対象です。溶存有機物に関連したセッションが多数開催されており，大変充実したものでした。来年と再来年は[アメリカで開催](https://www.aslo.org/meetings/)です。
 
 ***
 _4 April 2023_
