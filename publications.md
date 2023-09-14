@@ -7,6 +7,7 @@ cover-img:
 ### 2023
 
 * **Kida, M.**; Merder, J.; **Fujitake, N.**; Tanabe, Y.; Hayashi, K.; Sakae, K.; Dittmar, T. (2023) [Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249). Environ. Sci. Technol., 57, 13, 5464–5473.
+* **木田森丸**, 柴田 誠, 中尾 淳（2023）[第1回京神3大学土壌研合同セミナー「大学間交流で拓く土壌研究の最前線」開催報告](https://www.jstage.jst.go.jp/article/dojo/94/2/94_940210/_article/-char/ja/)．日本土壌肥料学雑誌，94，152-153．
 
 ### 2022
 
@@ -44,14 +45,14 @@ Science of The Total Environment, 149682.
 * Lin, P., Xu, C., Xing, W., Sun, L., Kaplan, D.I., **Fujitake, N.**, Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2018) [Radionuclide uptake by colloidal and particulate humic acids obtained from 14 soils collected worldwide](https://www.nature.com/articles/s41598-018-23270-0). Sci. Rep., 8, Article No. 4795.  
 * **Kida, M.**, **Fujitake, N.**, Suchewaboripont, V., Poungparn, S., **Tomotsune, M.**, Kondo, M., Yoshitake, S., Iimura, Y., Kinjo, K. Maknual, C. and Ohtsuka, T. (2018) [Contribution of humic substances to dissolved organic matter optical properties and iron mobilization](https://link.springer.com/article/10.1007/s00027-018-0578-z). Aquat. Sci., 80, Article No. 26  
 * Tomotsune, M., Yoshitake, S., Iimura, Y., **Kida, M.**, **Fujitake, N.**, Koizumi, H., Ohtsuka, T. (2018) [Effects of soil temperature and tidal condition on variation in CO2 flux from soil sediment in a subtropical mangrove forest](https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/effects-of-soil-temperature-and-tidal-condition-on-variation-in-carbon-dioxide-flux-from-soil-sediment-in-a-subtropical-mangrove-forest/7C7AE3E52F125033F3384302417F2E1D). J. Trop. Ecol., 34, 268-275.    
-* 菊川裕幸, **木田森丸**, 圓増まどか, 稲元友佳子, 岸本賢一, 加藤 拓, **藤嶽暢英** (2018) [乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響](https://www.jstage.jst.go.jp/article/dojo/89/4/89_890406/_article/-char/ja/). 土肥誌, 89, 1-7.  
+* 菊川裕幸, **木田森丸**, 圓増まどか, 稲元友佳子, 岸本賢一, 加藤 拓, **藤嶽暢英** (2018) [乾燥汚泥・竹チップ混和堆肥の熱水抽出液の特性評価と堆肥施用がダイズ（丹波黒大豆）の生育に及ぼす影響](https://www.jstage.jst.go.jp/article/dojo/89/4/89_890406/_article/-char/ja/). 日本土壌肥料学雑誌, 89, 1-7.  
 
 ### 2017
 * Ide, J., Ohashi, M., Takahashi, K., Sugiyama, Y., Piirainen, S., Kortelainen, P., **Fujitake, N.**, Yamase, K., Ohte, N., Moritani, M., Hara, M., Finar, L. (2017) [Spatial variations in the molecular diversity of dissolved organic matter in water moving through a boreal forest in eastern Finland](https://www.nature.com/articles/srep42102). Sci. Rep., 7, Article No. 42102.
 * **Kida, M.**, Tomotsune, M., Iimura, Y., Kinjo, K., Ohtsuka, T., **Fujitake, N.** (2017) [High salinity leads to accumulation of soil organic carbon in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0045653517302527). Chemosphere, 177, 51-55.
 * Myangan, O., Kawahigashi, M., Oyuntsetseg, B., **Fujitake, N.** (2017) [Impact of land uses on heavy metal distribution in the Selenga River system in Mongolia](https://link.springer.com/article/10.1007/s12665-017-6664-z). Environ. Earth Sci., 76, 346-361.
 * Yanagi, Y., Kitayama, K., **Fujitake, N.** (2017) [Transformation of soil fulvic acid by Immobilized laccase from Trametes villosa](http://www.research.kobe-u.ac.jp/ans-soil/jhss/_userdata/hsr13_pp1.pdf). Humic Subst. Res., 13, 5-12.
-* **木田 森丸**, 金城 和俊, 大塚 俊之, **藤嶽 暢英** (2017) [石垣島吹通川マングローブ林流域における溶存有機物の動態](https://www.jstage.jst.go.jp/article/seitai/67/2/67_85/_article/-char/ja/). 日生態会誌, 67, 85-93.
+* **木田 森丸**, 金城 和俊, 大塚 俊之, **藤嶽 暢英** (2017) [石垣島吹通川マングローブ林流域における溶存有機物の動態](https://www.jstage.jst.go.jp/article/seitai/67/2/67_85/_article/-char/ja/). 日本生態学会誌, 67, 85-93.
 * Lin, P., Xu, C., Zhang, S., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Sugiyama, Y., Schwehr, K.A., Santschi, P.H. (2017) [Plutonium partitioning behavior to humic acids from widely varying soils is related to carboxyl-containing organic compounds](https://pubs.acs.org/doi/10.1021/acs.est.7b03409). Environ. Sci. Technol., 51, 11742-11751.
 
 ### 2016
