@@ -8,7 +8,7 @@ cover-img: /assets/img/horida.png
 _20-27 September 2023_  
   
 藤嶽教授，木田助教，近藤研究員，M2濵田，B4住岡，B4渡辺：石垣島ガブルマタ川マングローブ林（マングローブプロジェクト）  
-<img src="/assets/img/.jpg" alt="image"> 
+<img src="/assets/img/IMG20230923093341.jpg" alt="image"> 
 
 ***
 _16-19 May 2023_  
