@@ -19,6 +19,7 @@ _16-19 May 2023_
 _26-29 April 2023_  
   
 藤嶽教授，近藤，B2藤崎，B4内田：本庄調査（バイオチャープロジェクト）  
+<img src="/assets/img/S__57860151.jpg" alt="image"> 
 
 ***
 _23 February-8 March 2023_  
