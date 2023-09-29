@@ -5,6 +5,12 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_20-27 September 2023_  
+  
+藤嶽教授，木田助教，近藤研究員，M2濵田，B4住岡，B4渡辺：石垣島ガブルマタ川マングローブ林（マングローブプロジェクト）  
+<img src="/assets/img/.jpg" alt="image"> 
+
+***
 _16-19 May 2023_  
   
 藤嶽教授，近藤，M1仙波，M1Lorena，B4内田：本庄調査（バイオチャープロジェクト）  
