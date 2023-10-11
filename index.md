@@ -6,7 +6,7 @@ cover-img: /assets/img/soulofsoil.png
 _posted on 11 October 2023_  
 ### 研究室行事
 圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。年2回の恒例作業（7月と10月）で，今回も気合が入っていました。圃場の数十年間埋まっていた溝を掘り起こしました。  
-<img src="/assets/img/.jpg" alt="image">
+<img src="/assets/img/IMG20231011144000.jpg" alt="image">
 
 ***
 _12-14 September 2023_  
