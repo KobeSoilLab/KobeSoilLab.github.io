@@ -3,6 +3,12 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 11 October 2023_  
+### 研究室行事
+圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。年2回の恒例作業（7月と10月）で，今回も気合が入っていました。圃場の数十年間埋まっていた溝を掘り起こしました。  
+<img src="/assets/img/.jpg" alt="image">
+
+***
 _12-14 September 2023_  
 ### 学会発表
 [日本土壌肥料学会2023年度愛媛大会](https://jssspn.jp/info/annual/2023-2-1.html)で発表を行いました。木田助教が若手口頭発表優秀賞を受賞しました。  
