@@ -5,7 +5,7 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2023
-
+* Kato, T.; **Kondo, M.**; Iimura, Y.; Ohshima, H.; Maeda, Y.; **Fujitake, N.** (2023) Livestock manure and compost affect the quality and quantity of humic substances in soil. Hum. Sub. Res., 19. 9-16.
 * **Kida, M.**; Merder, J.; **Fujitake, N.**; Tanabe, Y.; Hayashi, K.; Sakae, K.; Dittmar, T. (2023) [Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249). Environ. Sci. Technol., 57, 13, 5464–5473.
 * **木田森丸**, 柴田 誠, 中尾 淳（2023）[第1回京神3大学土壌研合同セミナー「大学間交流で拓く土壌研究の最前線」開催報告](https://www.jstage.jst.go.jp/article/dojo/94/2/94_940210/_article/-char/ja/)．日本土壌肥料学雑誌，94，152-153．
 
