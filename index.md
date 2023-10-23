@@ -3,13 +3,19 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_23 October 2023_  
+### 研究室行事
+網室・ガラス室周りの年代物（40年くらい？）の素焼き鉢（不燃ごみ80袋分）の除去と整地をしました。最近，土壌研が農学部の美化に貢献するところ大です。  
+<img src="/assets/img/IMG_8162.jpg" alt="image"><img src="/assets/img/IMG_4516.jpg" alt="image">
+
+***
 _14-15 October 2023_  
 ### 学会発表
 [日本陸水学会第87回大会（大分）](https://sites.google.com/view/jslim87/)で発表を行いました。陸水学会の参加は2018年以来でした。  
 * 「南極湖沼における微生物由来溶存有機物の分子的多様性の支配要因」木田助教
 
 ***
-_posted on 11 October 2023_  
+_11 October 2023_  
 ### 研究室行事
 圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。年2回の恒例作業（7月と10月）で，今回も気合が入っていました。圃場の数十年間埋まっていた溝を掘り起こしました。  
 <img src="/assets/img/IMG20231011144000.jpg" alt="image">
