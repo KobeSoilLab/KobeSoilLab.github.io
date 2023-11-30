@@ -26,7 +26,7 @@ subtitle: 2023年度
 2021年に着任したばかりです。活力があり面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
 研究の詳細は[グループHP](https://morimarukida.github.io/)をご覧ください。  
 **所属学会**  
-[日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/%E6%A6%82%E8%A6%81)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)
+[日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/%E6%A6%82%E8%A6%81)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)，[欧州地球科学連合](https://www.egu.eu/)
 
 ***
 ## 研究員
@@ -197,3 +197,24 @@ subtitle: 2023年度
 出身高校：京都大谷高校  
 趣味：ドラマ鑑賞と甘い物を食べる事  
 一言：インドアです。早起きは得意です。  
+
+**西川 綾香 Ayaka Nishikawa**  
+テーマ：  
+出身地:大阪府  
+出身高校:天王寺高校  
+趣味:ドラマ鑑賞  
+一言:国内旅行も好きです  
+
+**下谷 将大 Masahiro Shimotani**  
+テーマ：  
+出身地：石川県  
+出身高校：金沢泉丘高校  
+趣味：運動、温泉巡り  
+一言：天然パーマですがパーマをあてています。  
+
+**井上 岳 Gaku Inoue**  
+テーマ：  
+出身地：大阪府  
+出身高校:泉陽高校  
+趣味：野球観戦  
+一言：早起きは苦手です。  
