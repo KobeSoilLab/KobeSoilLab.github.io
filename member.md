@@ -29,12 +29,6 @@ subtitle: 2023年度
 [日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/%E6%A6%82%E8%A6%81)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)，[欧州地球科学連合](https://www.egu.eu/)
 
 ***
-## 研究員
-**近藤 美由紀 Miyuki Kondo**  
-所属：国立環境研究所（環境リスク・健康領域（計測化学研究室）／主任研究員）  
-テーマ：同位体分析に向けた土壌・河川有機物質の分画法の最適化
-
-***
 ## 博士後期課程（ドクターコース）
  
 **谷仲 真太郎 (D6) Shintaro Yanaka**  
