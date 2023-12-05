@@ -3,6 +3,11 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_5 December 2023_  
+### 研究室行事
+#### 今年度も農学部六甲山20キロマラソン大会は中止です。  
+
+***
 _11-12 November 2023_  
 ### 学会発表
 [日本腐植物質学会2023年度第39回講演会](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)で発表を行いました。水本さんは初学会発表でした。  
