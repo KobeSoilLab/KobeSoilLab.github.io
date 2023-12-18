@@ -3,6 +3,11 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_15 December 2023_
+### 受賞
+木田助教が神戸大学の[優秀若手研究者賞授賞式及び研究発表会](https://www.kobe-u.ac.jp/research_at_kobe/NEWS/award/2023_12_15_01.html)に参加し，藤澤学長より表彰されました。「天然有機物の「運命」の決定要因」という広範なタイトルで自身の研究を総括しました。
+
+***
 _7 December 2023_  
 ### 学会発表
 [2023年度日本土壌肥料学会関西支部講演会](https://jssspn.jp/info/branch/2023-4.html)を神戸大学で開催し，6名が発表を行いました。  
