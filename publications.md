@@ -4,6 +4,10 @@ title: PUBLICATIONS
 subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
+### 2024
+* **Hamada, K.**; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2024) [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761). Soil Science and Plant Nutrition.
+* Knoke, M.; Dittmar, T.; Zielinski, O.; **Kida, M.**; Asp, N.; Eduardo de Rezende, C.; Schnetger, B.; Seidel, M. (2024) [Outwelling of reduced porewater drives the biogeochemistry of dissolved organic matter and trace metals in a major mangrove-fringed estuary in Amazonia](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12473). Limnology & Oceanography. 9999, 1-17.
+
 ### 2023
 * Kato, T.; **Kondo, M.**; Iimura, Y.; Ohshima, H.; Maeda, Y.; **Fujitake, N.** (2023) Livestock manure and compost affect the quality and quantity of humic substances in soil. Hum. Sub. Res., 19. 9-16.
 * **Kida, M.**; Merder, J.; **Fujitake, N.**; Tanabe, Y.; Hayashi, K.; Sakae, K.; Dittmar, T. (2023) [Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249). Environ. Sci. Technol., 57, 13, 5464–5473.
@@ -31,8 +35,8 @@ Science of The Total Environment, 149682.
 
 ### 2019  
 * **Kida, M.**, Kondo, M., **Tomotsune, M.**, Kinjo, K., Ohtsuka, T., **Fujitake, N.** (2019) [Molecular composition and decomposition stages of organic matter in a mangrove mineral soil with time](https://www.sciencedirect.com/science/article/pii/S0272771419300113). Estuarine, Coastal and Shelf Science, 231, 106478.   
-* Iimura, Y., Tabara, I., Izumitsu, K., **Fujitake, N.** (2019) [Priming effect of the addition of maize to a Japanese volcanic ash soil and its temperature sensitivity: a short-term incubation study](https://www.tandfonline.com/doi/abs/10.1080/00380768.2019.1665969). Soil Science and Plat Nutrition, 65 (5), 444-450.  
-* **Wu, H.**, **Kida, M.**, **Domoto, A.**, Hara, A., Ashida, H., **Suzuki, T.**, **Fujitake, N.** (2019) [The effects of fertilization treatments and cropping systems on long-term dynamics and spectroscopic characteristics of dissolved organic matter in paddy soil](https://www.tandfonline.com/doi/abs/10.1080/00380768.2019.1689794?journalCode=tssp20). Soil Science and Plat Nutrition, 65 (6), 557-565.  
+* Iimura, Y., Tabara, I., Izumitsu, K., **Fujitake, N.** (2019) [Priming effect of the addition of maize to a Japanese volcanic ash soil and its temperature sensitivity: a short-term incubation study](https://www.tandfonline.com/doi/abs/10.1080/00380768.2019.1665969). Soil Science and Plant Nutrition, 65 (5), 444-450.  
+* **Wu, H.**, **Kida, M.**, **Domoto, A.**, Hara, A., Ashida, H., **Suzuki, T.**, **Fujitake, N.** (2019) [The effects of fertilization treatments and cropping systems on long-term dynamics and spectroscopic characteristics of dissolved organic matter in paddy soil](https://www.tandfonline.com/doi/abs/10.1080/00380768.2019.1689794?journalCode=tssp20). Soil Science and Plant Nutrition, 65 (6), 557-565.  
 * **Minamino, Y.**, **Fujitake, N.**, **Suzuki, T.**, Yoshitake, S., Koizumi, H., Tomotsune, M. (2019) [Effect of biochar addition on leaf-litter decomposition at soil surface during three years in a warm-temperate secondary deciduous forest, Japan](https://www.nature.com/articles/s41598-019-53615-2). Scientific Reports, 9, 16961.  
 * **Kida, M.**, **Kojima, T.**, Tanabe, Y., Hayashi, K., Kudoh, S., Maie, N., **Fujitake, N.** (2019) [Origin, distributions, and environmental significance of ubiquitous humic-like fluorophores in Antarctic lakes and stream](https://www.sciencedirect.com/science/article/pii/S004313541930675X). Water Research, 163, 114901.  
 * **Kida, M.**, **Tanabe, M.**, **Tomotsune, M.**, Yoshitake, S., Kinjyo, K., Ohtsuka, T., **Fujitake, N.** (2019) [Changes in dissolved organic matter composition and dynamics in a subtropical mangrove river driven by rainfall](https://www.sciencedirect.com/science/article/pii/S0272771418309119). Estuarine, Coastal and Shelf Science, 223, 6-17.  
