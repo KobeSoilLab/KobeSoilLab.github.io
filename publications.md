@@ -76,12 +76,6 @@ Science of The Total Environment, 149682.
 * 鈴木麻里子, **鈴木武志**, 河端俊典 (2014) [環境に配慮した生分解性樹脂コンクリートの力学的アプローチによる一考察](https://www.jstage.jst.go.jp/article/crt/25/0/25_119/_article/-char/ja/). コンクリート工学論文集 Vol.25 119-124.
 * Kanechi, M., Fujiwara, S., Shintani, N., **Suzuki, T.**, Uno, Y. (2014) [Performance of herbaceous *Evolvulus pilosus* on urban green roof in relation to substrate and irrigation](https://www.sciencedirect.com/science/article/pii/S1618866713000903). Urban Forestry & Urban Greening, 13(1), 184-191.
 
-### 2013
-* Kawahigashi, M., Ono, K., Iimura, Y., **Fujitake, N.**, (2013) [Investigations of environmental changes based on chemical analyses of humic substances](http://www.research.kobe-u.ac.jp/ans-soil/jhss/_userdata/hsr10_rev1.pdf). Humic Subst. Res., 10, 1-9.
-* 川東 正幸, 高橋 正, 藤井 一至, 高橋 正通, 三浦 覚, 石塚 成宏, 金子 真司, 白戸 康人, 矢ヶ崎 泰海, 高田 裕介, 和頴 朗太, 岸本 文紅, 米村 正一郎, 平舘 俊太郎, 渡邊 眞紀子, 泉 岳樹, **藤嶽 暢英**, 飯村 康夫 (2013) [日本の土壌炭素賦存量を量・質の両面から考える](https://www.jstage.jst.go.jp/article/dojo/84/3/84_KJ00009157137/_article/-char/ja/). 土肥誌. 84, 224-229.
-* **Iimura, Y.**, Fujimoto, M., Tamura, K., Higashi, T., Kondo, M., Uchida, M., Yonebayashi, K., **Fujitake, N.** (2013) [Black humic acid dynamics during natural reforestation of Japanese pampas grass (*Miscanthus sinensis*)](https://www.sciencedirect.com/science/article/pii/S0038071712002866?via%3Dihub). Soil Biol. Biochem., 57, 60-67.
-* Nagao, S., Aramaki, T., **Fujitake, N.**, Kodama, H., Tanaka, T., Ochiai, S., Uchida, M., Shibata, Y., Yamamoto, M. (2013) [Variation of Δ14C and δ13C Values of Dissolved Humic and Fulvic Acids in the Tokachi River System in Northern Japan](https://www.cambridge.org/core/journals/radiocarbon/article/variation-of-14c-and-13c-values-of-dissolved-humic-and-fulvic-acids-in-the-tokachi-river-system-in-northern-japan/C777D4011D75C3CA9396412032FF84DF). Radiocarbon, 55, 1007-1016.
-
 ## 著書  
 * (2019)「腐植物質分析ハンドブック 第2版: 標準試料を例にして」日本腐植物質学会 監修，渡邉 彰・**藤嶽 暢英**・長尾 誠也 編，農山漁村文化協会，(全pp.196)
 * **鈴木 武志** (2018) 第5章 土壌の地域固有性と人との関わり，第9章 地域伝統農法による持続可能な土作りの可能性，「地域固有性の発現による農業・農村の創造」中塚 雅也 編，筑波書房，pp.57-67，pp107-118(全pp. 208)． ISBN: 978-4-8119-0532-7
