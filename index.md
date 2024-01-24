@@ -6,6 +6,7 @@ cover-img: /assets/img/soulofsoil.png
 _24 Jan 2024_
 ### 論文アクセプト
 M2 濵田君筆頭の論文が[*Soil Science and Plant Nutrition*](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)に公開されました！オープンアクセスなので誰でも読めます。ブルーカーボン生態系の１つであるマングローブ林の土壌有機物の安定化メカニズムについて，比重分画手法を導入して分析した初の研究です。木田助教の着任後1本目の仕事です。  
+２週間前には木田助教のドイツのラボとの共著論文も[*Limnology & Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12473)に公開されています。こちらはアマゾンのマングローブ林における溶存有機物の動態についてです。
 
 ***
 _22 December 2023_  
