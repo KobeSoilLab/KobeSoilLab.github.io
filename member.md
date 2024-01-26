@@ -43,7 +43,7 @@ subtitle: 2023年度
 趣味：スポーツ  
 一言：You’ll see more with your eyes closed.
 
-**李さん (D1) Li**  
+**李 苓珊 (D1) Li**  
 テーマ：  
 出身地：中国遼寧省  
 出身大学：南京農業大学  
