@@ -1,4 +1,4 @@
-![image](https://github.com/KobeSoilLab/KobeSoilLab.github.io/assets/85348576/4a6971b4-55bb-469b-a4e2-fea50c23aef5)---
+---
 layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
