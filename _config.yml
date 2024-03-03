@@ -18,6 +18,7 @@ navbar-links:
   #Home: "home"
   メンバー: "member"
   論文: "publications" 
+  卒論・修論: "thesis" 
   調査地: "sites"
   調査ログ: "sitelog"
   担当講義: "kougi"
