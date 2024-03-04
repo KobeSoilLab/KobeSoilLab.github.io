@@ -2,7 +2,7 @@
 layout: page
 title: TEACHING
 subtitle: 本研究室の担当講義
-cover-img: 
+cover-img: /assets/img/kobe_univ_bg17.jpg
 ---
 ### 学部
 #### 2年次
