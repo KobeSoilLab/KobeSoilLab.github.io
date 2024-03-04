@@ -44,7 +44,7 @@ subtitle: 2023年度
 一言：You’ll see more with your eyes closed.
 
 **李 苓珊 (D1) Linshang Li**  
-テーマ：  
+テーマ：Chemical properties of humic substances and sorption characteristics for pharmaceuticals  
 出身地：中国遼寧省  
 出身大学：南京農業大学  
 趣味：旅行、ぬいぐるみを買うこと  
