@@ -2,7 +2,7 @@
 layout: page
 title: THESIS
 subtitle: 2021年度以降の研究室の卒論・修論
-cover-img: /assets/img/kobe_univ_bg05.png
+cover-img: /assets/img/kobe_univ_bg05.jpg
 ---
 ## 2023年度
 ### 修論
