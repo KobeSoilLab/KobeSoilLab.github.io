@@ -50,5 +50,6 @@ cover-img: /assets/img/kobe_univ_bg05.jpg
 * 「鉱物結合型の土壌有機物量を決定する要因の解析」大平麻有里
 * 「低温焼成バイオチャーの農業利用に関する研究」山本佳奈
 * 「自然観察施設での里山保全と環境教育の現状ー施設職員へのアンケート調査からー」杉山翔
-* 「石垣島吹通川マングローブ林の比重画分別土壌有機物特性ー安定化機序の解明に向けてー」濵田航太
+* 「石垣島吹通川マングローブ林の比重画分別土壌有機物特性ー安定化機序の解明に向けてー」濵田航太  
+  「[Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761)」として論文化
 * 「溶存有機物のFT-ICR-MS分析に向けた測定条件の最適化」大下田真帆
