@@ -5,8 +5,8 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2024
-* **Hamada, K.**; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2024) [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761). Soil Science and Plant Nutrition.
-* Knoke, M.; Dittmar, T.; Zielinski, O.; **Kida, M.**; Asp, N.; Eduardo de Rezende, C.; Schnetger, B.; Seidel, M. (2024) [Outwelling of reduced porewater drives the biogeochemistry of dissolved organic matter and trace metals in a major mangrove-fringed estuary in Amazonia](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12473). Limnology & Oceanography. 9999, 1-17.
+* **Hamada, K.**; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2024) [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761). Soil Science and Plant Nutrition., 70, 2, 88-99.
+* Knoke, M.; Dittmar, T.; Zielinski, O.; **Kida, M.**; Asp, N.; Eduardo de Rezende, C.; Schnetger, B.; Seidel, M. (2024) [Outwelling of reduced porewater drives the biogeochemistry of dissolved organic matter and trace metals in a major mangrove-fringed estuary in Amazonia](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12473). Limnology & Oceanography., 9999, 1-17.
 
 ### 2023
 * Kishimoto, A.; Kinoshita, R.; **Fujitake, N.**; Osaki, M.; Clayton, M.; Tani, M. (2023) [Spatial variation of soil characteristics affected by biochar materials from traditional slash and burn agriculture in Sabah, Malaysia](https://www.tandfonline.com/doi/full/10.1080/00380768.2023.2211984). Soil Science and Plant Nutrition., 70, 11-20.
