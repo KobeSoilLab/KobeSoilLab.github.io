@@ -2,10 +2,8 @@
 layout: page
 title: MEMBER
 subtitle: 2023年度
-#cover-img: /assets/.jpg
 ---
 <img src="/assets/img/IMG_9054.jpg" alt="image">  
-test  
 ***  
 ## 教授  
 **藤嶽　暢英　Prof. Nobuhide Fujitake**  
