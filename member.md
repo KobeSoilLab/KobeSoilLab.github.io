@@ -5,7 +5,7 @@ subtitle: 2023年度
 #cover-img: /assets/.jpg
 ---
 <img src="/assets/img/IMG_9054.jpg" alt="image">  
-
+test  
 ***  
 ## 教授  
 **藤嶽　暢英　Prof. Nobuhide Fujitake**  
@@ -161,4 +161,3 @@ subtitle: 2023年度
 出身高校:泉陽高校  
 趣味：野球観戦  
 一言：早起きは苦手です。  
-
