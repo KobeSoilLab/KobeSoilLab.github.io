@@ -5,7 +5,8 @@ subtitle: 2023年度
 cover-img: 
 ---
 <img src="/assets/img/IMG_9054.jpg" alt="image">  
-***  
+***
+
 ## 教授  
 **藤嶽　暢英　Prof. Nobuhide Fujitake**  
 <img src="/assets/img/fujitake.jpeg" alt="image" width="200" height="200">  
