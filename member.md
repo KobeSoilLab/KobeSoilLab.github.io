@@ -64,7 +64,7 @@ cover-img:
 趣味：Drawing and listening to music. Enjoy any type of animation.  
 一言：“No adventure is fun if it’s too easy!”  
 
-**水本 沙也香 Sayaka Mizumoto**  
+**水本 彩也香 Sayaka Mizumoto**  
 テーマ：ピート土壌がピーティングプロセスに与える影響の評価（仮）  
 出身地：兵庫県  
 出身高校：雲雀丘学園高校  
