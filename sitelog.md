@@ -5,6 +5,11 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_10-11 May 2024_  
+  
+藤嶽教授，M2Lorena，M1内田：本庄調査（バイオチャープロジェクト） 
+
+***
 _28 November-1 December 2023_  
   
 藤嶽教授，M2藤崎，B4内田：本庄調査（バイオチャープロジェクト）  
