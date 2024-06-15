@@ -5,6 +5,11 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_12-15 June 2024_  
+  
+藤嶽教授，M2仙波，M2Lorena，M1内田，M1吉田，研究生ロウ：菅平高原
+
+***
 _10-11 May 2024_  
   
 藤嶽教授，M2Lorena，M1内田：本庄調査（バイオチャープロジェクト） 
