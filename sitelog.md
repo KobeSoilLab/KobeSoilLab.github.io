@@ -5,9 +5,16 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_30 July-3 August 2024_  
+  
+木田助教，M1渡辺，B4西川：西表島
+<img src="/assets/img/.jpg" alt="image"> 
+
+***
 _12-15 June 2024_  
   
 藤嶽教授，M2仙波，M2Lorena，M1内田，M1吉田，研究生ロウ：菅平高原
+<img src="/assets/img/.jpg" alt="image"> 
 
 ***
 _10-11 May 2024_  
