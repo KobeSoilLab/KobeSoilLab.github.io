@@ -7,7 +7,7 @@ cover-img: /assets/img/horida.png
 ***
 _30 July-3 August 2024_  
   
-木田助教，M1渡辺，B4西川：西表島
+木田助教，M1渡辺，B4西川：西表島  
 <img src="/assets/img/IMG20240802112246.jpg" alt="image"> 
 
 ***
