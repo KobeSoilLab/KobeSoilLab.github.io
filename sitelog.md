@@ -14,7 +14,7 @@ _30 July-3 August 2024_
 _12-15 June 2024_  
   
 藤嶽教授，M2仙波，M2Lorena，M1内田，M1吉田，研究生ロウ：菅平高原
-<img src="/assets/img/.jpg" alt="image"> 
+<img src="/assets/img/S__190750810_0.jpg" alt="image"> 
 
 ***
 _10-11 May 2024_  
