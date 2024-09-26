@@ -8,7 +8,7 @@ cover-img: /assets/img/horida.png
 _23-25 September 2024_  
   
 木田助教：長野県・青木湖（DOM複雑多様性プロジェクト）  
-<img src="/assets/img/" alt="image"> 
+<img src="/assets/img/1727321582063.jpg" alt="image"> 
 
 ***
 _30 July-3 August 2024_  
@@ -20,7 +20,7 @@ _30 July-3 August 2024_
 _23 July 2024_  
   
 木田助教，M1住岡，B4橋：琵琶湖（DOM複雑多様性プロジェクト）  
-<img src="/assets/img/" alt="image"> 
+<img src="/assets/img/IMG20240723103245.jpg" alt="image"> 
 
 ***
 _12-15 June 2024_  
