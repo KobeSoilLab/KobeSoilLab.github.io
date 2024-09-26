@@ -5,10 +5,22 @@ subtitle: 2022年度以降の野外調査の記録
 cover-img: /assets/img/horida.png
 ---
 ***
+_23-25 September 2024_  
+  
+木田助教：長野県・青木湖（DOM複雑多様性プロジェクト）  
+<img src="/assets/img/" alt="image"> 
+
+***
 _30 July-3 August 2024_  
   
 木田助教，M1渡辺，B4西川：西表島  
 <img src="/assets/img/IMG20240802112246.jpg" alt="image"> 
+
+***
+_23 July 2024_  
+  
+木田助教，M1住岡，B4橋：琵琶湖（DOM複雑多様性プロジェクト）  
+<img src="/assets/img/" alt="image"> 
 
 ***
 _12-15 June 2024_  
