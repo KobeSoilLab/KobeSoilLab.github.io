@@ -3,6 +3,33 @@ layout: page
 cover-img: /assets/img/soulofsoil.png
 ---
 ***
+_18-20 October 2024_  
+### 学会発表
+[日本陸水学会第88回熊本大会](https://sites.google.com/view/jslim88)に参加し，2名が発表を行いました。木田助教の発表は，課題講演「湖沼深水層生態学（Hypolimnion ecology）の進撃」の一課題でした。
+  
+* 「琵琶湖北湖における溶存有機物と微生物の共変動」木田助教
+* 「タイ王国Bang Pu のマングローブ植林クロノシーケンスにおける孔隙水溶存有機物の濃度・組成の解明」M1 住岡
+  
+***
+_15-18 October 2024_  
+### 学会発表
+[9th International Symposium of Interactions of Soil Minerals with Organic Components and Microorganisms (ISMOM2024)](https://ismom2024.org/)に木田助教参加し，発表を行いました。  
+* 「Factors controlling carbon concentrations in global Andisols: a meta-analysis」
+
+***
+_3-5 September 2024_  
+### 学会発表
+[日本土壌肥料学会2024年度福岡大会](https://www.jssspn.org/2024)に参加し，8名が発表を行いました。  
+* 「篠山城跡南堀のハスはなぜ消滅したか（第4 報）」鈴木助教
+* 「石垣島ガブルマタ川マングローブ林における土壌有機物の蓄積特性：比重分画，炭素安定同位体，炭素年代，可溶性金属」木田助教
+* 「チベット高原およびモンゴル高原の草地土壌における腐植酸の化学構造特性」D1 雪利
+* 「Characterization of various humic acids using a humic substances inventory: Contribution of Black Carbon」M2 Lorena
+* 「林地に施用されたバイオ炭の動態解析」M1 内田
+* 「水抽出有機物の分析による家畜ふん堆肥の特徴付け：EEM-PARAFAC 解析と¹H NMR 分析を用いて」M1 伊藤
+* 「タイ王国Bang Pu のマングローブ植林クロノシーケンスにおける比重画分別土壌有機物特性の解明」M1 渡辺
+* 「マイクロプラスチックがシマミミズ（Eisenia fetida）の生育に与える影響」M1 枝松
+
+***
 _25 June 2024_  
 ### 競争的資金
 木田助教がJSTの[創発的研究支援事業](https://www.jst.go.jp/souhatsu/)に採択されました！「既存の枠組みにとらわれない自由で挑戦的・融合的な多様な研究を、研究者が研究に専念できる環境を確保しつつ原則7年間（途中ステージゲート審査を挟む、最大10年間）にわたり長期的に支援」する，革新的なプログラムです。この本学農学研究科としては初めての採択事例において，2022年採択の科研費基盤研究（B）の発展課題として，琵琶湖をメインとして水圏生態系における溶存有機物と微生物の相互作用について研究を深めていきます。  
