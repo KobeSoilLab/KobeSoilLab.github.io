@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/soulofsoil.png
+cover-image: /assets/img/soulofsoil.png
 ---
 ***
 _18-20 October 2024_  
@@ -13,7 +13,7 @@ _18-20 October 2024_
 ***
 _15-18 October 2024_  
 ### 学会発表
-[9th International Symposium of Interactions of Soil Minerals with Organic Components and Microorganisms (ISMOM2024)](https://ismom2024.org/)に木田助教参加し，発表を行いました。  
+[9th International Symposium of Interactions of Soil Minerals with Organic Components and Microorganisms (ISMOM2024)](https://ismom2024.org/)に木田助教が参加し，発表を行いました。  
 * 「Factors controlling carbon concentrations in global Andisols: a meta-analysis」
 
 ***
