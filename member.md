@@ -139,7 +139,7 @@ cover-img:
 一言：フィールドワークが好きです。沢山脱線もします…  
 
 **莊 若昀 Chuang Joyun**  
-テーマ：  
+テーマ：Study on organic-mineral complexes in mangrove forest soils: using sequential extraction with sodium pyrophosphate solutions at different pH  
 出身地：台湾台中  
 出身高校：国立中興大学  
 趣味：ドラマ、アニメ、フェス  
