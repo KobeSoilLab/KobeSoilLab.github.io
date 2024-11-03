@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_posted on 2-3 November 2024_  
+### 研究室行事
+「第3回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました。学生はお互いにいい刺激を受けていたようです！開催は初年度とおなじ「あうる京北」でした。  
+<img src="/assets/img/IMG20221218091500.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
+
+***
 _18-20 October 2024_  
 ### 学会発表
 [日本陸水学会第88回熊本大会](https://sites.google.com/view/jslim88)に参加し，2名が発表を行いました。木田助教の発表は，課題講演「湖沼深水層生態学（Hypolimnion ecology）の進撃」の一課題でした。
@@ -15,6 +21,11 @@ _15-18 October 2024_
 ### 学会発表
 [9th International Symposium of Interactions of Soil Minerals with Organic Components and Microorganisms (ISMOM2024)](https://ismom2024.org/)に木田助教が参加し，発表を行いました。  
 * 「Factors controlling carbon concentrations in global Andisols: a meta-analysis」
+
+***
+_1 October 2024_  
+### 新メンバー
+新3回生が5名配属されました！
 
 ***
 _3-5 September 2024_  
