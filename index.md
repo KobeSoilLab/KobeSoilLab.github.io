@@ -5,8 +5,8 @@ cover-image: /assets/img/soulofsoil.png
 ***
 _posted on 2-3 November 2024_  
 ### 研究室行事
-「第3回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました。学生はお互いにいい刺激を受けていたようです！開催は初年度とおなじ「あうる京北」でした。  
-<img src="/assets/img/IMG20221218091500.jpg" alt="image"><img src="/assets/img/IMG_3847.jpg" alt="image">
+「第3回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました（総勢23名）。学生はお互いにいい刺激を受けていたようです！開催は初年度とおなじ「あうる京北」でした。  
+<img src="/assets/img/IMG20241103125532.jpg" alt="image"><img src="/assets/img/IMG20241103125532.jpg" alt="image">
 
 ***
 _18-20 October 2024_  
