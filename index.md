@@ -4,7 +4,7 @@ cover-image: /assets/img/soulofsoil.png
 ---
 
 ***
-_6 November 2023_  
+_6 November 2024_  
 ### 研究室行事
 圃場の草刈りと調整室周りの除草シートをはがしてコンクリートの整地用に整えました。  
 <img src="/assets/img/IMG20241106112320.jpg" alt="image">
