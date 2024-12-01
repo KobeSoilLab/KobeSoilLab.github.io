@@ -36,7 +36,7 @@ _23 July 2024_
 ***
 _12-15 June 2024_  
   
-藤嶽教授，M2仙波，M2Lorena，M1内田，M1吉田，研究生ロウ：菅平高原
+藤嶽教授，M2仙波，M2Lorena，M1内田，M1吉田，研究生ロウ：菅平高原  
 <img src="/assets/img/S__190750810_0.jpg" alt="image"> 
 
 ***
