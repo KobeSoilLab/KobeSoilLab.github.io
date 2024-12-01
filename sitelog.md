@@ -24,7 +24,7 @@ _23-25 September 2024_
 ***
 _30 July-3 August 2024_  
   
-木田助教，M1渡辺，B4西川：西表島  
+木田助教，M1渡辺，B4西川：西表島（マングローブプロジェクト）  
 <img src="/assets/img/IMG20240802112246.jpg" alt="image"> 
 
 ***
