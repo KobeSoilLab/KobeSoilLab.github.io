@@ -2,6 +2,15 @@
 layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
+***
+_30 November-1 December 2024_  
+### 学会発表
+[日本腐植物質学会第40回講演会](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)に参加し，4名が発表を行いました。
+  
+* 「琵琶湖北湖の深水層における溶存有機物と微生物の共変動解析」木田助教
+* 「Differences in sorption characteristics of various Humic Substances and PPCPs」D2 Li
+* 「EEM PARAFAC 解析と ¹H NMR 分析を用いた家畜ふん堆 肥における水抽出有機物の特徴付け」M1 伊藤
+* 「異なるグルコース濃度の培養実験における微生物と代謝物の経時変化」M1 住岡
 
 ***
 _6 November 2024_  
