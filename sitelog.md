@@ -8,7 +8,7 @@ cover-img: /assets/img/horida.png
 _24-27 November 2024_  
   
 木田助教：鹿児島県・池田湖（DOM複雑多様性プロジェクト）  
-<img src="/assets/img/1727321582063.jpg" alt="image"> 
+<img src="/assets/img/1733022242711.jpg" alt="image"><img src="/assets/img/1733022274761.jpg" alt="image">  
 
 ***
 _13-16 November 2024_  
