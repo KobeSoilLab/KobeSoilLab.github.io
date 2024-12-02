@@ -14,6 +14,7 @@ _24-27 November 2024_
 _13-16 November 2024_  
   
 藤嶽教授，D1雪，M2Lorena，M1内田，M1ロウ：本庄（バイオチャープロジェクト）  
+<img src="/assets/img/IMG_8408.jpg" alt="image"> 
 
 ***
 _23-25 September 2024_  
