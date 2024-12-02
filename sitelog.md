@@ -44,6 +44,7 @@ _12-15 June 2024_
 _10-11 May 2024_  
   
 藤嶽教授，M2Lorena，M1内田：本庄（バイオチャープロジェクト） 
+<img src="/assets/img/S__189497403_0.jpg" alt="image"> 
 
 ***
 _28 November-1 December 2023_  
