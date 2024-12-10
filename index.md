@@ -3,6 +3,13 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_5-6 December 2024_  
+### 学会発表
+2024年度日本土壌肥料学会関西支部講演会に参加し，1名が発表を行いました。水本さんが優秀発表賞を受賞しました。
+  
+* 「スコットランドピートにおける各種元素の含量分布の特徴について」M2 水本　**優秀発表賞**
+
+***
 _30 November-1 December 2024_  
 ### 学会発表
 [日本腐植物質学会第40回講演会](https://www.research.kobe-u.ac.jp/ans-soil/jhss/meetings_info.html)に参加し，4名が発表を行いました。
