@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_23 December 2024_  
+### 研究室行事
+今日は研究室の年末大掃除でした。去年に引き続きポリッシャーとワックスもかけてビカビカです。  
+<img src="/assets/img/IMG20241223110936.jpg" alt="image">
+
+***
 _11 December 2024_  
 ### 研究室行事
 #### コースでの大幅な通行止め工事などにより今年度も農学部六甲山20キロマラソン大会は中止です。  
