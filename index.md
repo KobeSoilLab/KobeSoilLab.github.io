@@ -81,6 +81,12 @@ _25 June 2024_
 課題名「**溶存有機物の複雑多様性から水圏生態系の動態を理解する**」
 
 ***
+_19 June 2024_
+### 受賞
+木田助教が敬愛まちづくり財団の「[前之園記念若手優秀論文賞](https://www.kobe-u.ac.jp/ja/announcement/20240716-65819/)」を受賞しました。  
+論文 「[Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249)」
+
+***
 _4 June 2024_  
 ### 研究室行事
 圃場と土壌調整室・網室・ガラス室周りの草刈りをしました。網室・ガラス室周りは防草シートも張りました。
@@ -95,6 +101,12 @@ _23 May 2024_
 _3 April 2024_
 ### メンバー更新
 5名が修士に，1名が博士課程に進学しました。また，台湾から莊若昀さんが研究生で，滋賀県立大から吉田君が修士で参加しました。これで4年生4名，研究生1名，修士1年6名，修士2年5名，博士3名となりました。この1年も研究を頑張りつつ，外との交流の機会を増やしていきましょう！
+
+***
+_18 March 2024_
+### 受賞
+木田助教が神戸大学農学部同窓会「[六篠会](https://www.rikusoukai.org/index.html)」の六篠論文賞を受賞しました。  
+論文 「[Determinants of Microbial-Derived Dissolved Organic Matter Diversity in Antarctic Lakes](https://pubs.acs.org/doi/10.1021/acs.est.3c00249)」
 
 ***
 _1 March 2024_  
