@@ -3,7 +3,7 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
-_1 March 2024_  
+_1 March 2025_  
 ### 競争的資金
 木田助教代表の科研費基盤研究（B）が採択されました！「マングローブ土壌有機炭素の安定化機構を深堀りする」というテーマで，石垣島，タイ，フィリピンなどのマングローブ土壌有機炭素の安定化メカニズムを横断的に比較研究します。東京大学大気海洋研究所[宮島さん](https://researchmap.jp/miyajima)・[横山さん](https://researchmap.jp/read0123371)と京都工芸繊維大学[初雪さん](https://researchmap.jp/chuxue_501)との共同研究です。今年度募集から始まった「国際性」の評価でも高い評価を得ました。
 
