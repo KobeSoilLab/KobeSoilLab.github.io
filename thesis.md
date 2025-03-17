@@ -4,6 +4,20 @@ title: THESIS
 subtitle: 2021年度以降の研究室の卒論・修論
 cover-img: /assets/img/kobe_univ_bg05.jpg
 ---
+## 2024年度
+### 修論
+* 「土壌及びリターへのバイオ炭添加によるpH緩衝能への影響」仙波成都
+* 「固体炭素素材の土壌施用がシマミミズへ与える影響」山本皇新
+* 「固体炭素の土壌施用が作物生育及び土壌理化学性に及ぼす影響」古川拓真
+* 「各種元素含量を用いたスコットランドピートの特性解析」水本彩也香
+* 「Characterization of various soil humic acids by NMR spectroscopy and black carbon analysis」Lorena
+
+### 卒論
+* 「琵琶湖における溶存有機物と微生物叢の共変動の解明:長期モニタリング観測を通して」橋　美里
+* 「神戸市内の下水処理場から回収したリン酸を含む新規肥料の施用試験」井上　岳
+* 「南極大陸の土壌における有機化合物の特徴について」下谷将大
+* 「フィリピンPanay島マングローブ土壌における深度別有機物分子組成およびその影響要因の解析」西川綾香
+
 ## 2023年度
 ### 修論
 * 「Organic carbon preservation mechanisms in mangrove soils, Ishigaki Island, Japan」濵田航太
