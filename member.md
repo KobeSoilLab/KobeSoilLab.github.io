@@ -4,7 +4,7 @@ title: MEMBER
 subtitle: 2024年度
 cover-img: 
 ---
-<img src="/assets/img/IMG_9054.jpg" alt="image">  
+<img src="/assets/img/IMG_7483.jpg" alt="image">  
 
 ***
 
