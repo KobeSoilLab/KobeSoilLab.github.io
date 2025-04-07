@@ -32,69 +32,37 @@ cover-img:
 ***
 ## 博士後期課程（ドクターコース）
 
-**閻 浩 (D2) Hao Yan**  
+**閻 浩 (D3) Hao Yan**  
 テーマ：森林における炭素賦存量算出法の評価（SUTプロジェクト）  
 出身地：中国北京市  
 出身大学：瀋陽農業大学  
 趣味：スポーツ  
 一言：You’ll see more with your eyes closed.
 
-**李 苓珊 (D2) Linshang Li**  
+**李 苓珊 (D3) Linshang Li**  
 テーマ：Chemical properties of humic substances and sorption characteristics for pharmaceuticals  
 出身地：中国遼寧省  
 出身大学：南京農業大学  
 趣味：旅行、ぬいぐるみを買うこと  
 一言：星のカービィは一番かわいい生き物です。  
 
-**雪俐 (D1) Li Xue**  
+**雪俐 (D2) Li Xue**  
 テーマ：チベット高原およびモンゴル高原の草地土壌における腐植酸の化学構造特性  
 出身地：中国 内モンゴル  
 出身大学：内モンゴル農業大学  
 趣味：料理を作ること  
 一言：東方神起が大好きです！  
 
-***
-
-## 博士前期課程（マスターコース）2年
-
-**Lorena Goretti**  
+**Lorena Goretti (D1)**  
 テーマ：Soil carbon sequestration (Provisional)  
 出身地：La Paz, Bolivia  
 出身大学：Universidad Mayor de San Andres (UMSA)  
 趣味：Drawing and listening to music. Enjoy any type of animation.  
 一言：“No adventure is fun if it’s too easy!”  
 
-**水本 彩也香 Sayaka Mizumoto**  
-テーマ：ピート土壌がピーティングプロセスに与える影響の評価（仮）  
-出身地：兵庫県  
-出身高校：雲雀丘学園高校  
-趣味：美味しいものを食べながら美味しいお酒を飲むこと、お給料日に通帳を見ること  
-一言：お金にお酒、欲に素直に生きてます。  
-
-**古川 拓真 Takuma Furukawa**  
-テーマ：固体炭素の土壌施用が作物生育、土壌理化学生に及ぼす影響  
-出身地：京都府  
-出身高校：山城高校  
-趣味：筋トレ  
-一言：自分を追い込むのが大好きです。筋肉痛ウェルカム！  
-
-**山本 皇新 Koki Yamamoto**  
-テーマ：土壌に施用された固体炭素とシマミミズの相互作用  
-出身地：兵庫県  
-出身高校：北摂三田高校  
-趣味：バスケ  
-一言：ヒモになりたい
-
-**仙波 成都 Natsu Semba**  
-テーマ：バイオ炭添加による森林土壌のpH緩衝能力への影響評価（バイオチャープロジェクト）  
-出身地：京都府  
-出身高校：京都教育大学附属高等学校  
-趣味：運動、ゲーム、漫画  
-一言：おすすめPCゲーム教えてください  
-
 ***
 
-## 博士前期課程（マスターコース）1年
+## 博士前期課程（マスターコース）2年
 
 **内田 理沙 Risa Uchida**  
 テーマ：林地に施用されたバイオ炭の鉛直方向における動態解析（バイオチャープロジェクト）  
@@ -138,30 +106,16 @@ cover-img:
 趣味：卓球（最近は見る専）、ラジオ  
 一言：フィールドワークが好きです。沢山脱線もします…  
 
+***
+
+## 博士前期課程（マスターコース）1年
+
 **莊 若昀 Chuang Joyun**  
 テーマ：Study on organic-mineral complexes in mangrove forest soils: using sequential extraction with sodium pyrophosphate solutions at different pH  
 出身地：台湾台中  
 出身高校：国立中興大学  
 趣味：ドラマ、アニメ、フェス  
 一言：一番好きな飲み物はウーロンミルクティープラスお茶ゼリー！  
-
-***
-
-## 学部4年
-
-**橋 美里 Misato Hashi**  
-テーマ：琵琶湖における溶存有機物と微生物叢の共変動の解明：長期モニタリング観測を通して  
-出身地：滋賀県  
-出身高校：京都大谷高校  
-趣味：ドラマ鑑賞と甘い物を食べる事  
-一言：インドアです。早起きは得意です。  
-
-**西川 綾香 Ayaka Nishikawa**  
-テーマ：フィリピンPanay島マングローブ林における深度別土壌有機物分子組成解析  
-出身地:大阪府  
-出身高校:天王寺高校  
-趣味:ドラマ鑑賞  
-一言:国内旅行も好きです  
 
 **下谷 将大 Masahiro Shimotani**  
 テーマ：南極大陸の初期形成段階土壌における比重画分別土壌有機物の特徴について  
@@ -179,7 +133,7 @@ cover-img:
 
 ***
 
-## 学部3年
+## 学部4年
 
 **嶌田 真音 Mao Shimada**  
 テーマ：  
@@ -208,3 +162,7 @@ cover-img:
 出身高校：仙台第三高校  
 趣味：漫画を読むことと音楽を聴くこと  
 一言：冬派です。夏はきらいです。  
+
+***
+
+## 学部3年
