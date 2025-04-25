@@ -5,6 +5,7 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2024
+* **Hamada, K.**; Yimatsa, N.; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2025) [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0341816225003777). CATENA, 256, 109075.
 * Ohtsuka, T.; Umnouysin, S.; Suchewaboripont, V.; Yimatsa, N.; Rodtassana, C.; **Kida, M.**; Iimura, Y.; Yoshitake, S.; **Fujitake, N.**; Poungparn, P. (2024) [Biomass recovery of coastal young mangrove plantations in Central Thailand](https://www.nature.com/articles/s41598-024-61979-3). Scientific Reports, 14, 11359.
 * **Hamada, K.**; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2024) [Functional organic matter components in mangrove soils revealed by density fractionation](https://www.tandfonline.com/doi/full/10.1080/00380768.2024.2304761). Soil Science and Plant Nutrition, 70, 2, 88-99.
 * Knoke, M.; Dittmar, T.; Zielinski, O.; **Kida, M.**; Asp, N.; Eduardo de Rezende, C.; Schnetger, B.; Seidel, M. (2024) [Outwelling of reduced porewater drives the biogeochemistry of dissolved organic matter and trace metals in a major mangrove-fringed estuary in Amazonia](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.12473). Limnology & Oceanography, 9999, 1-17.
