@@ -75,10 +75,6 @@ Science of The Total Environment, 149682.
 * 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, **藤嶽 暢英**, 田中 仁志 (2015) [琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価](https://www.jstage.jst.go.jp/article/jswtb/51/4/51_105/_article/-char/ja/). 日本水処理生物学会誌, 51, 105-114.  
 * Suzuki, M, Kubo, K, **Suzuki, T.**, Sawada, Y, Kawabata, T. (2015) [Effect of Different Exposure Conditions on Mechanical Properties of Biodegradable Resin Concrete](https://www.jstage.jst.go.jp/article/jsidre/83/2/83_I_19/_article/-char/ja/). IDRE Journal, I_19-I_24.  
 
-### 2014
-* 鈴木麻里子, **鈴木武志**, 河端俊典 (2014) [環境に配慮した生分解性樹脂コンクリートの力学的アプローチによる一考察](https://www.jstage.jst.go.jp/article/crt/25/0/25_119/_article/-char/ja/). コンクリート工学論文集 Vol.25 119-124.
-* Kanechi, M., Fujiwara, S., Shintani, N., **Suzuki, T.**, Uno, Y. (2014) [Performance of herbaceous *Evolvulus pilosus* on urban green roof in relation to substrate and irrigation](https://www.sciencedirect.com/science/article/pii/S1618866713000903). Urban Forestry & Urban Greening, 13(1), 184-191.
-
 ## 著書  
 * (2019)「腐植物質分析ハンドブック 第2版: 標準試料を例にして」日本腐植物質学会 監修，渡邉 彰・**藤嶽 暢英**・長尾 誠也 編，農山漁村文化協会，(全pp.196)
 * **鈴木 武志** (2018) 第5章 土壌の地域固有性と人との関わり，第9章 地域伝統農法による持続可能な土作りの可能性，「地域固有性の発現による農業・農村の創造」中塚 雅也 編，筑波書房，pp.57-67，pp107-118(全pp. 208)． ISBN: 978-4-8119-0532-7
