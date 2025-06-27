@@ -5,7 +5,7 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2025
-* Chu, X., Takeda, N., **Fujitake, N.**, Yanaka, S., Fuse, Y. (2025) [Chemical characterization of Scottish peat using evolved gas analysis-mass spectrometry](https://www.sciencedirect.com/science/article/pii/S0021967325004881). Journal of Chromatography A, 1757, 466142.
+* Chu, X., Takeda, N., **Fujitake, N.**, **Yanaka, S.**, Fuse, Y. (2025) [Chemical characterization of Scottish peat using evolved gas analysis-mass spectrometry](https://www.sciencedirect.com/science/article/pii/S0021967325004881). Journal of Chromatography A, 1757, 466142.
 * **Hamada, K.**; Yimatsa, N.; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2025) [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0341816225003777). CATENA, 256, 109075.
 
 ### 2024
