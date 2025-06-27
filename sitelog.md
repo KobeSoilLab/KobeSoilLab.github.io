@@ -8,6 +8,7 @@ cover-img: /assets/img/horida.png
 _26-30 May 2025_  
   
 藤嶽教授，M2吉田，M1ロー，M1下谷：石垣島（マングローブプロジェクト）  
+<img src="/assets/img/1748606200386.jpg" alt="image">
 
 ***
 _24-27 November 2024_  
