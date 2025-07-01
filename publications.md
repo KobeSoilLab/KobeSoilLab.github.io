@@ -5,6 +5,7 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2025
+* Nakaya, Y., Hirose, T., Tamori, R., **Fujitake, N.**, Nakashima, S., Yamamura, H., Satoh, H. (2025) [Solid-phase fluorescence excitation-emission matrix spectroscopy of soil, fulvic acid fractions, and clay mineral complexes: Evidence from red shift of fluorescence maxima associated with aggregation](https://www.sciencedirect.com/science/article/pii/S001393512501151X?via%3Dihub#cebib0010). Environmental Research, 279, 121900.
 * Chu, X., Takeda, N., **Fujitake, N.**, **Yanaka, S.**, Fuse, Y. (2025) [Chemical characterization of Scottish peat using evolved gas analysis-mass spectrometry](https://www.sciencedirect.com/science/article/pii/S0021967325004881). Journal of Chromatography A, 1757, 466142.
 * **Hamada, K.**; Yimatsa, N.; Ohtsuka, T.; **Fujitake, N.**; Miyajima, T.; Yokoyama, Y.; Miyairi, Y.; **Kida, M.** (2025) [Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0341816225003777). CATENA, 256, 109075.
 
