@@ -3,6 +3,18 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_20-27 July 2025_
+### 学会発表
+[20th World Lake Conference](https://www.wlc20.org/sponsorship)に初参加して発表を行いました。住岡君は初の国際学会参加で，陸水学会の国際交流奨励賞と農学研究科の黒田基金の補助を受けての参加でした。
+* 「Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake」木田助教
+* 「Tracking changes in the composition of the microbiome and metabolites in long-term incubation experiments with different glucose concentrations」M2住岡
+
+***
+_5-21 July 2025_
+### イベント参加
+木田助教，D2雪，M2吉田が中国・西安で開かれた[Summer School on Increased Terrestrial Ecosystem Carbon Sequestration and Reduced Carbon Emissions towards Sustainable Development](http://english.ieexa.cas.cn/news/upcoming/202505/t20250506_1042565.html)に参加しました。中国の先端で頑張っている人たちに会えていい刺激でした。
+
+***
 _24 April 2025_
 ### 論文アクセプト
 2023年度修了の濵田君筆頭の2本目の論文が[*CATENA*](https://www.sciencedirect.com/science/article/pii/S0341816225003777)に公開されました！オープンアクセスなので誰でも読めます。1本目の論文の発展形として，比重分画，活性金属測定，安定同位体測定，放射性炭素年代測定をフル活用してマングローブ林の土壌有機物の安定化メカニズムと形成過程に迫った研究です。木田助教の着任後2本目の仕事です。
