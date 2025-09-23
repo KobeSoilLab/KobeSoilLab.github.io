@@ -3,7 +3,7 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
-_3-5 September 2024_  
+_3-5 September 2025_  
 ### 学会発表
 [日本土壌肥料学会2025年度新潟大会](https://www.jssspn.org/2025)に参加し，5名が発表を行いました。  
 * 「神戸市東灘処理場から回収されたMAPを用いた新規配合肥料の圃場試験」鈴木助教
