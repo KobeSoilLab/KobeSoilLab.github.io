@@ -5,7 +5,7 @@ cover-image: /assets/img/soulofsoil.png
 ***
 _3-5 September 2025_  
 ### 学会発表
-[日本土壌肥料学会2025年度新潟大会](https://www.jssspn.org/2025)に参加し，5名が発表を行いました。  
+[日本土壌肥料学会2025年度新潟大会](https://www.jssspn.org/2025)に参加し，6名が発表を行いました。  
 * 「神戸市東灘処理場から回収されたMAPを用いた新規配合肥料の圃場試験」鈴木助教
 * 「フィリピンPanay 島マングローブ土壌における深度別有機物分子組成およびその影響要因の解析」木田助教
 * 「Estimation of Black Carbon content in humic acids: Comparison between HPLC and TOC analysis」D1 Lorena
