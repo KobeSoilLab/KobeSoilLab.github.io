@@ -11,6 +11,7 @@ _3-5 September 2025_
 * 「Estimation of Black Carbon content in humic acids: Comparison between HPLC and TOC analysis」D1 Lorena
 * 「タイ王国Bang Puのマングローブ植林クロノシーケンスにおける土壌有機物安定化機構の解明」M2 渡辺
 * 「被覆肥料の被膜殻がシマミミズ（Eisenia fetida）の生育に与える影響」M2 枝松
+* 「抽出パターン分析による土壌有機物の特性解析～異なるpHのピロリン酸抽出剤を用いて～」M2 吉田
 
 ***
 _20-27 July 2025_
