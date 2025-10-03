@@ -36,6 +36,11 @@ _5-21 July 2025_
 木田助教，D2雪，M2吉田が中国・西安で開かれた[Summer School on Increased Terrestrial Ecosystem Carbon Sequestration and Reduced Carbon Emissions towards Sustainable Development](http://english.ieexa.cas.cn/news/upcoming/202505/t20250506_1042565.html)に参加しました。中国の先端で頑張っている人たちに会えていい刺激でした。
 
 ***
+_28 June 2025_
+### イベント報告
+[第3回・関西（京神）三大学土壌研合同セミナーの開催報告](https://www.jstage.jst.go.jp/article/dojo/96/3/96_960325/_article/-char/ja)が土肥誌に載りました。京都，京都府立，神戸の3大学の学生有志で書いてくれました。[第1回の報告](https://www.jstage.jst.go.jp/article/dojo/94/2/94_940210/_article/-char/ja/)も土肥誌に掲載されているの語照覧ください。
+
+***
 _24 April 2025_
 ### 論文アクセプト
 2023年度修了の濵田君筆頭の2本目の論文が[*CATENA*](https://www.sciencedirect.com/science/article/pii/S0341816225003777)に公開されました！オープンアクセスなので誰でも読めます。1本目の論文の発展形として，比重分画，活性金属測定，安定同位体測定，放射性炭素年代測定をフル活用してマングローブ林の土壌有機物の安定化メカニズムと形成過程に迫った研究です。木田助教の着任後2本目の仕事です。
