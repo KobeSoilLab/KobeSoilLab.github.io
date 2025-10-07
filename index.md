@@ -6,7 +6,6 @@ cover-image: /assets/img/soulofsoil.png
 _7 October 2025_  
 ### 研究室行事
 ホームカミングデイに向けて圃場と調整室周りの草刈りをしました。  
-<img src="/assets/img/IMG20241106112320.jpg" alt="image">
 
 ***
 _1 October 2025_  
