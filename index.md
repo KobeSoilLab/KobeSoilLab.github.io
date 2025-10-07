@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_7 October 2025_  
+### 研究室行事
+ホームカミングデイに向けて圃場と調整室周りの草刈りをしました。  
+<img src="/assets/img/IMG20241106112320.jpg" alt="image">
+
+***
 _1 October 2025_  
 ### 新メンバー
 新3回生が8名配属されました！また，タイからKhwan君が修士・博士5年一貫制でラボに参加しました（MEXT国費留学）。さらにスペインからAlvaro君が国際腐植物質学会のStudent Training Awardで4か月間ラボに滞在します。学生26名の大所帯となりました。
