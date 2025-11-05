@@ -6,7 +6,7 @@ cover-image: /assets/img/soulofsoil.png
 _2 November 2025_  
 ### 研究室行事
 「第4回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました（総勢26名）。今年は神戸大学にて1日で開催しました。今年も実り多きイベントとなりました。  
-<img src="/assets/img/" alt="image"><img src="/assets/img/" alt="image">
+<img src="/assets/img/IMG20251102132707" alt="image"><img src="/assets/img/IMG20251102164645" alt="image">
 
 ***
 _25-26 October 2025_  
