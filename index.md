@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_2 November 2025_  
+### 研究室行事
+「第4回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました（総勢26名）。今年は神戸大学にて1日で開催しました。今年も実り多きイベントとなりました。  
+<img src="/assets/img/" alt="image"><img src="/assets/img/" alt="image">
+
+***
 _25-26 October 2025_  
 ### 学会発表
 [日本腐植物質学会 第41回講演会](https://www.humic-substances.jp/meeting/20250417-774/)に参加し，3名が発表を行いました。木田助教の発表は企画講演「若手腐植物質研究者が今、聞きたい：質量分析への学際的アプローチ」の一演題でした。  
