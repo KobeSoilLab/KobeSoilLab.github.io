@@ -3,6 +3,14 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_17 November 2025_
+## プレプリント
+木田助教のプレプリントが3本同時に出ています（それぞれ土・水・データ解析の仕事です）。
+* [Testing reactive metal control on soil carbon storage using global Andisol dataset: the role of organo-aluminum complexation and pedogenic implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5518303)
+* [Couples in the deep: dissolved organic and microbial communities in the oxygenated hypolimnion of a deep freshwater lake](https://www.biorxiv.org/content/10.1101/2025.09.23.678040v1.abstract)
+* [Reframing natural organic matter research through compositional data analysis](https://doi.org/10.31223/X51X7P )
+
+***
 _2 November 2025_  
 ### 研究室行事
 「第4回京神3大学土壌研合同ゼミ」を京都大学・京都府立大学の土壌研と共に開催しました（総勢26名）。今年は神戸大学にて1日で開催しました。今年も実り多きイベントとなりました。  
