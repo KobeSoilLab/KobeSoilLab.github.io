@@ -11,18 +11,27 @@ _17-21 November 2025_
 ***
 _6-9 November 2025_  
 藤嶽教授，M2吉田，M2枝松，M1ロー：石垣島（マングローブプロジェクト）
+<img src="/assets/img/" alt="image">
+
+***
+_8-10 October 2025_  
+木田助教，M2住岡，B4西田：神奈川・芦ノ湖（DOM複雑多様性プロジェクト）  
+<img src="/assets/img/" alt="image">
 
 ***
 _26-29 August 2025_  
 藤嶽教授，M2伊藤，M2吉田，M1ロウ，B4嶌田：浅間山
+<img src="/assets/img/" alt="image">
 
 ***
 _25-28 August 2025_  
 木田助教，B4西田：北海道・摩周湖（DOM複雑多様性プロジェクト）  
+<img src="/assets/img/" alt="image">
 
 ***
 _23-25 June 2025_  
 藤嶽教授，D3閻，D2雪，D1ロレ，M1ロー，B4嶌田：位山（SUTプロジェクト）  
+<img src="/assets/img/" alt="image">
 
 ***
 _26-30 May 2025_  
