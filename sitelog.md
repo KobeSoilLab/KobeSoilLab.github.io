@@ -20,7 +20,7 @@ _8-10 October 2025_
 
 ***
 _26-29 August 2025_  
-藤嶽教授，M2伊藤，M2吉田，M1ロウ，B4嶌田：浅間山
+藤嶽教授，M2伊藤，M2吉田，M1ロウ，B4嶌田：浅間山  
 <img src="/assets/img/NF_RX606061.jpg" alt="image">  
 
 ***
