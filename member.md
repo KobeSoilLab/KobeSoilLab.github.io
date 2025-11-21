@@ -109,7 +109,7 @@ cover-img:
 **莊 若昀 Chuang Joyun**  
 テーマ：Study on organic-mineral complexes in mangrove forest soils: using sequential extraction with sodium pyrophosphate solutions at different pH  
 出身地：台湾台中  
-出身高校：国立中興大学  
+出身大学：国立中興大学  
 趣味：ドラマ、アニメ、フェス  
 一言：一番好きな飲み物はウーロンミルクティープラスお茶ゼリー！  
 
@@ -132,11 +132,11 @@ cover-img:
 一言：早起きは苦手です。 
 
 **Raekkhwan Polthanya**  
-テーマ：  
-出身地：  
-出身高校:  
-趣味：  
-一言： 
+テーマ：Comparison of soil organic carbon stabilization mechanisms in different mangrove stands  
+出身地：Thailand  
+出身大学：Chulalongkorn University  
+趣味：Singing & Cooking  
+一言：コーヒーを飲まないと、魂が抜けてゾンビみたいに働いています。 
 
 ***
 
@@ -175,49 +175,49 @@ cover-img:
 ## 学部3年
 **瀬戸田 恵李 Meguri Setoda**  
 テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
-
-**長田 伶音 Rene Osada**  
-テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
-
-**橋本 曉尚 Akihisa Hashimoto**  
-テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
-
-**杉町 健悟 Kengo Sugimachi**  
-テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
-
-**境文 音 Ayane Sakai**  
-テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
+出身地：兵庫県  
+出身高校：淡路三原高校  
+趣味：スキューバーダイビング  
+一言：晴れ女の自信ありです！  
 
 **赤澤 麻帆 Maho Akazawa**  
 テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
+出身地：岡山県    
+出身高校：岡山大安寺中等教育学校  
+趣味：料理  
+一言：よく食べます。クレープも焼けます。  
+
+**長田 伶音 Rene Osada**  
+テーマ：  
+出身地：兵庫県  
+出身高校：高槻高校  
+趣味：ダンス  
+一言：私もクレープ焼けます！  
+
+**杉町 健悟 Kengo Sugimachi**  
+テーマ：  
+出身地：兵庫県  
+出身高校：神戸高校  
+趣味：スポーツ観戦  
+一言：野球が大好きです。クレープは焼けません  
+
+**橋本 曉尚 Akihisa Hashimoto**  
+テーマ：  
+出身地：兵庫県  
+出身高校：淳心学院高等学校  
+趣味：少林寺拳法  
+一言：ビールが大好きです。ウイスキーも大好きです。  
+
+**境文 音 Ayane Sakai**  
+テーマ：  
+出身地：三重  
+出身高校：四日市高校  
+趣味：ラクロス  
+一言：ラーメン屋巡りを趣味にしたいです。  
 
 **坂下 亮太 Ryota Sakashita**  
 テーマ：  
-出身地：  
-出身高校：  
-趣味：  
-一言：  
+出身地：大阪  
+出身高校：天王寺高校  
+趣味：合気道、筋トレ  
+一言：おすすめの太り方教えてください  
