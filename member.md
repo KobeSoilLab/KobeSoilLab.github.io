@@ -20,11 +20,11 @@ cover-img:
 ## 助教  
 **鈴木　武志　Assit. Prof. Takeshi Suzuki**  
 <img src="/assets/img/suzuki.jpeg" alt="image" width="200" height="200">  
-主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。
+主に廃棄物の循環型利用や農産物に関わる研究をしています。ファイト・エクストラクションを用いた重金属汚染の浄化研究も行っています。最近はミミズへのマイクロプラスチックの影響評価の研究もしています。
 
 **木田　森丸　Assit. Prof. Morimaru Kida**  
 <img src="/assets/img/kida.jpg" alt="image" width="200" height="200">  
-2021年に着任したばかりです。活力があり面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成の規定要因を研究しています。  
+2021年に着任したばかりです。活力があり面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成を研究しています。  
 研究の詳細は[グループHP](https://morimarukida.github.io/)をご覧ください。  
 **所属学会**  
 [日本土壌肥料学会](http://jssspn.jp/)，[日本腐植物質学会](http://www.research.kobe-u.ac.jp/ans-soil/jhss/)，[日本陸水学会](http://www.jslim.jp/)，[生物地球化学研究会](https://sites.google.com/site/biogeochemnet/%E6%A6%82%E8%A6%81)，[日本有機地球化学会](http://ogeochem.jp/)，[国際腐植物質学会](https://humic-substances.org/)，[欧州地球科学連合](https://www.egu.eu/)，[CoDa-Association](https://www.coda-association.org/en/)
