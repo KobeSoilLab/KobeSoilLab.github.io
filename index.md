@@ -2,6 +2,12 @@
 layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
+
+***
+_2 December 2025_  
+### 研究室行事
+今年度も農学部六甲山20キロマラソン大会は中止です。 
+
 ***
 _17 November 2025_
 ## プレプリント
