@@ -2,6 +2,11 @@
 layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
+_25-26 October 2025_  
+### 学会発表
+[2025年度日本土壌肥料学会　関西支部講演会](https://jssspn.jp/info/branch/20250725_02.html)に参加し，2名が発表を行いました。下谷君は初参加で優秀発表賞を受賞しました！  
+* 「アルカリ抽出有機物の分析による家畜ふん堆肥の特徴付け： EEM-PARAFAC解析を用いて」M2伊藤
+* 「p南極大陸のコケ植生下土壌における土壌有機物の特徴について」M1下谷　**優秀発表賞**
 
 ***
 _2 December 2025_  
