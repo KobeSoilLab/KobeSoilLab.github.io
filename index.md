@@ -2,6 +2,11 @@
 layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
+_17 December 2025_
+### 論文アクセプト
+世界の黒ボク土の土壌有機炭素ストックを見積もった論文が[*Soil Science and Plant Nutrition*]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931)に公開されました！NAROの和穎さんたちとの共同研究です。東北大学黒ボク土データベース（TUWAD）に追加してデータベースを拡充し，世界最大・最新の黒ボク土データベースを構築しました。木田助教の着任後3本目の仕事です。
+
+***
 _25-26 October 2025_  
 ### 学会発表
 [2025年度日本土壌肥料学会　関西支部講演会](https://jssspn.jp/info/branch/20250725_02.html)に参加し，2名が発表を行いました。下谷君は初参加で優秀発表賞を受賞しました！  
