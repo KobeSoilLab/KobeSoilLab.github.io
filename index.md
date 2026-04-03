@@ -2,6 +2,28 @@
 layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
+***
+_3 April 2026_
+### メンバー更新
+4名が修士に，１名が博士に上がりました。これで4年生7名，修士1年3名，修士2年3名，博士5名となりました。この1年も研究を頑張っていきましょう！
+
+***
+_1 April 2026_
+### 人事
+木田助教が准教授になりました。神戸大学高等学術研究院の卓越准教授と兼任です。
+
+***
+_1 April 2026_
+### 論文アクセプト
+世界の土壌有機物の気温上昇への脆弱性を，有機物の形態別に解析した論文が[*Nature Communications*](https://www.nature.com/articles/s41467-026-71321-2)に公開されました！西安の中国科学院地球環境研究所のJi Chen博士主導の国際プロジェクトの成果です。
+
+***
+_25 March 2026_
+### 論文アクセプト
+論文が２本出版されました。  
+世界の黒ボク土の土壌有機炭素含量の規定要因を解析した論文が[*Geoderma*](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115)に，組成データ解析についての総説（兼Perspective）が[*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full)に公開されました！Geoderma論文はNAROの和穎さんたちとの共同研究で，Andisol DB論文の２本目です。Frontiers論文は木田助教のドイツのポスドク時代の同僚らとの共同研究です。木田助教の着任後4, 5本目の仕事です。
+
+***
 _17 December 2025_
 ### 論文アクセプト
 世界の黒ボク土の土壌有機炭素ストックを見積もった論文が[*Soil Science and Plant Nutrition*]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931)に公開されました！NAROの和穎さんたちとの共同研究です。東北大学黒ボク土データベース（TUWAD）に追加してデータベースを拡充し，世界最大・最新の黒ボク土データベースを構築しました。木田助教の着任後3本目の仕事です。
