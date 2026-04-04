@@ -9,6 +9,7 @@ cover-img:
 * Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; **Kida, M.** et al. [Global hotspots of particulate organic carbon losses under climate change](https://www.nature.com/articles/s41467-026-71321-2). Nature Communications 2026
 * **Kida, M.**; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. [Reframing natural organic matter research through compositional data analysis](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). Front. Environ. Sci. 2026, 14
 * **Kida, M.**; Nagano, H.; Shimada, H.; Fukumasu, J.; Wagai, R. [Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). Geoderma 2026, 467, 117740
+
 ### 2025
 * **Kida, M.**; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R. (2025) [Refined estimates of organic carbon stocks in global Andisols]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931). Soil Science and Plant Nutrition.
 * 石田 早侑梨, 大道 樹, ロス・スミス 絵梨花, **渡辺 悠太** (2025) [第3回・関西三大学土壌研合同セミナー開催報告](https://www.jstage.jst.go.jp/article/dojo/96/3/96_960325/_article/-char/ja)．日本土壌肥料学雑誌，96，342-343．
