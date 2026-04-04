@@ -4,7 +4,7 @@ title: PUBLICATIONS
 subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
-### 20266
+### 2026
 * **Sumioka, R.**; Rodtassana, C.; Poungparn, S.; Nishimura, H.; Shinozuka, K.;  Ohtsuka, T.; **Fujitake, N.**; **Kida, M.** (2026) [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835). Organic Geochemistry, 105208
 * Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; **Kida, M.** et al. [Global hotspots of particulate organic carbon losses under climate change](https://www.nature.com/articles/s41467-026-71321-2). Nature Communications 2026
 * **Kida, M.**; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. [Reframing natural organic matter research through compositional data analysis](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). Front. Environ. Sci. 2026, 14
