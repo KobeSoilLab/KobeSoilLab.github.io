@@ -3,6 +3,11 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_4 April 2026_
+### 論文アクセプト
+３月までM2だった住岡君の筆頭１本目の論文が[*Organic Geochemistry*](https://www.sciencedirect.com/science/article/pii/S0146638026000835)に公開されました！タイのBang Pu（チャオプラヤ川河口）のマングローブ植林クロノシーケンスにおける，土壌孔隙水中の溶存有機物の濃度・組成変化をFT-ICR MS等により追跡した結果です。木田助教としての着任後6本目の仕事でした。
+
+***
 _3 April 2026_
 ### メンバー更新
 4名が修士に，１名が博士に上がりました。これで4年生7名，修士1年3名，修士2年3名，博士5名となりました。この1年も研究を頑張っていきましょう！
