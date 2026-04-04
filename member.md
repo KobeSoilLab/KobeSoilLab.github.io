@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MEMBER
-subtitle: 2025年度
+subtitle: 2026年度
 cover-img: 
 ---
 <img src="/assets/img/IMG_2683.jpg" alt="image">  
