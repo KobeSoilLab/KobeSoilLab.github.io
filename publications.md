@@ -4,8 +4,13 @@ title: PUBLICATIONS
 subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
+### 20266
+* **Sumioka, R.**; Rodtassana, C.; Poungparn, S.; Nishimura, H.; Shinozuka, K.;  Ohtsuka, T.; **Fujitake, N.**; **Kida, M.** (2026) [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835). Organic Geochemistry, 105208
+* Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; **Kida, M.** et al. [Global hotspots of particulate organic carbon losses under climate change](https://www.nature.com/articles/s41467-026-71321-2). Nature Communications 2026
+* **Kida, M.**; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. [Reframing natural organic matter research through compositional data analysis](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). Front. Environ. Sci. 2026, 14
+* **Kida, M.**; Nagano, H.; Shimada, H.; Fukumasu, J.; Wagai, R. [Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). Geoderma 2026, 467, 117740
 ### 2025
-* **Kida, M.**; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R. (2025)[Refined estimates of organic carbon stocks in global Andisols]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931). Soil Science and Plant Nutrition.
+* **Kida, M.**; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R. (2025) [Refined estimates of organic carbon stocks in global Andisols]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931). Soil Science and Plant Nutrition.
 * 石田 早侑梨, 大道 樹, ロス・スミス 絵梨花, **渡辺 悠太** (2025) [第3回・関西三大学土壌研合同セミナー開催報告](https://www.jstage.jst.go.jp/article/dojo/96/3/96_960325/_article/-char/ja)．日本土壌肥料学雑誌，96，342-343．
 * Nakaya, Y., Hirose, T., Tamori, R., **Fujitake, N.**, Nakashima, S., Yamamura, H., Satoh, H. (2025) [Solid-phase fluorescence excitation-emission matrix spectroscopy of soil, fulvic acid fractions, and clay mineral complexes: Evidence from red shift of fluorescence maxima associated with aggregation](https://www.sciencedirect.com/science/article/pii/S001393512501151X?via%3Dihub#cebib0010). Environmental Research, 279, 121900.
 * Chu, X., Takeda, N., **Fujitake, N.**, **Yanaka, S.**, Fuse, Y. (2025) [Chemical characterization of Scottish peat using evolved gas analysis-mass spectrometry](https://www.sciencedirect.com/science/article/pii/S0021967325004881). Journal of Chromatography A, 1757, 466142.
@@ -67,19 +72,6 @@ Science of The Total Environment, 149682.
 * Yanagi, Y., Kitayama, K., **Fujitake, N.** (2017) [Transformation of soil fulvic acid by Immobilized laccase from Trametes villosa](http://www.research.kobe-u.ac.jp/ans-soil/jhss/_userdata/hsr13_pp1.pdf). Humic Subst. Res., 13, 5-12.
 * **木田 森丸**, 金城 和俊, 大塚 俊之, **藤嶽 暢英** (2017) [石垣島吹通川マングローブ林流域における溶存有機物の動態](https://www.jstage.jst.go.jp/article/seitai/67/2/67_85/_article/-char/ja/). 日本生態学会誌, 67, 85-93.
 * Lin, P., Xu, C., Zhang, S., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Sugiyama, Y., Schwehr, K.A., Santschi, P.H. (2017) [Plutonium partitioning behavior to humic acids from widely varying soils is related to carboxyl-containing organic compounds](https://pubs.acs.org/doi/10.1021/acs.est.7b03409). Environ. Sci. Technol., 51, 11742-11751.
-
-### 2016
-* **Tsuda, K.**, **Kida, M.**, **Aso, S.**, **Kato, T.**, **Fujitake, N.**, Maruo, M., Hayakawa, K., Hirota, M. (2016) [Determination of aquatic humic substances in Japanese lakes and wetlands by the carbon concentration-based resin isolation technique](https://link.springer.com/article/10.1007/s10201-015-0455-6). Limnology, 17, 1-6.
-* **Kida, M.**, Ohtsuka, T., **Suzuki, T.**, **Fujitake, N.** (2016) [Evaluation of salinity effect on quantitative analysis of aquatic humic substances using nonionic DAX-8 resin](https://www.sciencedirect.com/science/article/pii/S0045653515304859). Chemosphere, 146, 129-132.
-* **藤嶽 暢英** (2016) [土・水環境に遍在するフミン物質の構造化学的特徴とその多様性](https://www.jstage.jst.go.jp/article/tits/21/2/21_2_49/_article/-char/ja/). 学術の動向, 21, 49-53.
-* Xu, C., Zhang, S., Sugiyama, Y., Ohte, N., Yi-Fan, H., **Fujitake, N.**, Kaplan, D.I., Yeager, C.M., Schwehr, K.A., Santschi, P.H. (2016) [Role of natural organic matter on iodine and 239, 240Pu distribution and mobility in environmental samples from the northwestern Fukushima Prefecture, Japan](https://www.sciencedirect.com/science/article/pii/S0265931X1530182X). J. Environ. Radioactiv., 153, 156-166.
-
-### 2015
-* Katsumi, N., Yonebayashi, K., **Fujitake, N.**, Okazaki, M. (2015) [Relationship between stable carbon and nitrogen isotope ratios of humic acids extracted from Andisols and non-Andisols](https://www.sciencedirect.com/science/article/pii/S0341816215000107). Catena, 127, 241-221.
-* **Kida, M.**, **Maki, K.**, **Takata, A.**, **Tsuda, K.**, Hayakawa, K., Sugiyama, Y., **Fujitake, N.** (2015) [Quantitative monitoring of aquatic humic substances in Lake Biwa, Japan, using the DAX-8 batch method based on carbon concentrations](https://www.sciencedirect.com/science/article/pii/S0146638015000819). Org. Geochem.,  153-157.
-* Saito, T., Terashima, M., Aoyagi, N., Nagao, S., **Fujitake, N.**, Ohnuki, T. (2015) [Physicochemical and ion-binding properties of highly aliphatic humic substances extracted from deep sedimentary groundwater](https://pubs.rsc.org/en/content/articlehtml/2015/em/c5em00176e). Environ. Sci. Process. Impacts, 17, 1386-1395.
-* 早川 和秀, 廣瀬 佳則, 一瀬 諭, 岡本 高弘, 古田 世子, **藤嶽 暢英**, 田中 仁志 (2015) [琵琶湖水中のフルボ酸のOECD試験法による水生生物への急性毒性評価](https://www.jstage.jst.go.jp/article/jswtb/51/4/51_105/_article/-char/ja/). 日本水処理生物学会誌, 51, 105-114.  
-* Suzuki, M, Kubo, K, **Suzuki, T.**, Sawada, Y, Kawabata, T. (2015) [Effect of Different Exposure Conditions on Mechanical Properties of Biodegradable Resin Concrete](https://www.jstage.jst.go.jp/article/jsidre/83/2/83_I_19/_article/-char/ja/). IDRE Journal, I_19-I_24.  
 
 ## 著書  
 * (2019)「腐植物質分析ハンドブック 第2版: 標準試料を例にして」日本腐植物質学会 監修，渡邉 彰・**藤嶽 暢英**・長尾 誠也 編，農山漁村文化協会，(全pp.196)
