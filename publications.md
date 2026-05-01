@@ -5,10 +5,11 @@ subtitle: 直近10年の学術論文と書籍
 cover-img: 
 ---
 ### 2026
-* **Sumioka, R.**; Rodtassana, C.; Poungparn, S.; Nishimura, H.; Shinozuka, K.;  Ohtsuka, T.; **Fujitake, N.**; **Kida, M.** (2026) [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835). Organic Geochemistry, 105208
-* Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; **Kida, M.** et al. [Global hotspots of particulate organic carbon losses under climate change](https://www.nature.com/articles/s41467-026-71321-2). Nature Communications 2026
-* **Kida, M.**; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. [Reframing natural organic matter research through compositional data analysis](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). Front. Environ. Sci. 2026, 14
-* **Kida, M.**; Nagano, H.; Shimada, H.; Fukumasu, J.; Wagai, R. [Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). Geoderma 2026, 467, 117740
+* **Kida, M.**; **Ohira, A.**; Okazaki, Y.; Yamaguchi, Y. T.; Goto, A. S.; Hayakawa, K.; Nishimura, H. [Couples in the Deep: Dissolved Organic Matter–Microbial Linkages in the Oxygenated Hypolimnion of a Deep Freshwater Lake](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70374). Limnology and Oceanography, 2026, 71.
+* **Sumioka, R.**; Rodtassana, C.; Poungparn, S.; Nishimura, H.; Shinozuka, K.;  Ohtsuka, T.; **Fujitake, N.**; **Kida, M.** (2026) [Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835). Organic Geochemistry, 105208.
+* Sun, S.; Cotrufo, MF.; . Viscarra Rossel, RA.; Mueller, CW; **Kida, M.** et al. [Global hotspots of particulate organic carbon losses under climate change](https://www.nature.com/articles/s41467-026-71321-2). Nature Communications 2026.
+* **Kida, M.**; Merder, J.; Dittmar, T.; Pawlowsky-Glahn, V.; Egozcue, JJ. [Reframing natural organic matter research through compositional data analysis](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full). Front. Environ. Sci. 2026, 14.
+* **Kida, M.**; Nagano, H.; Shimada, H.; Fukumasu, J.; Wagai, R. [Organo-aluminum complexation as a dominant metal control on soil carbon storage in Andisols: Global evidence across pedogenic and pH gradients](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115). Geoderma 2026, 467, 117740.
 
 ### 2025
 * **Kida, M.**; Shimada, H.; Nagano, H.; Fukumasu, J.; Wagai, R. (2025) [Refined estimates of organic carbon stocks in global Andisols]( https://www.tandfonline.com/eprint/I6SKYEDMKCQFAYIB3XBR/full?target=10.1080/00380768.2025.2603931). Soil Science and Plant Nutrition.
