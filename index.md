@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_27 April 2026_
+### 論文アクセプト
+琵琶湖の溶存有機物と細菌類の成層期における共変動を表層と深層で比較した論文が[*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70374)に公開されました！「溶存有機物複雑多様性プロジェクト」の1本目の論文をやっと世に出すことができました。木田助教としての着任後7本目の仕事でした。プレスリリースも出ているのでぜひご覧ください。  
+[冷たく暗い琵琶湖の深層に、有機分子と微生物の緊密なネットワークを発見～時系列観測により生態系機能の基盤となる関係を解明～](https://www.kobe-u.ac.jp/ja/news/article/20260427-67776/)
+
+***
 _4 April 2026_
 ### 論文アクセプト
 ３月までM2だった住岡君の筆頭１本目の論文が[*Organic Geochemistry*](https://www.sciencedirect.com/science/article/pii/S0146638026000835)に公開されました！タイのBang Pu（チャオプラヤ川河口）のマングローブ植林クロノシーケンスにおける，土壌孔隙水中の溶存有機物の濃度・組成変化をFT-ICR MS等により追跡した結果です。木田助教としての着任後6本目の仕事でした。
@@ -26,7 +32,8 @@ _1 April 2026_
 _25 March 2026_
 ### 論文アクセプト
 論文が２本出版されました。  
-世界の黒ボク土の土壌有機炭素含量の規定要因を解析した論文が[*Geoderma*](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115)に，組成データ解析についての総説（兼Perspective）が[*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full)に公開されました！Geoderma論文はNAROの和穎さんたちとの共同研究で，Andisol DB論文の２本目です。Frontiers論文は木田助教のドイツのポスドク時代の同僚らとの共同研究です。木田助教の着任後4, 5本目の仕事です。
+世界の黒ボク土の土壌有機炭素含量の規定要因を解析した論文が[*Geoderma*](https://www.sciencedirect.com/science/article/pii/S0016706126000686#s0115)に，組成データ解析についての総説（兼Perspective）が[*Frontiers in Environmental Science*](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1724142/full)に公開されました！Geoderma論文はNAROの和穎さんたちとの共同研究で，Andisol DB論文の２本目です。Frontiers論文は木田助教のドイツのポスドク時代の同僚らとの共同研究です。木田助教の着任後4, 5本目の仕事です。黒ボク土論文は初めてプレスリリースを出しましたのでぜひご覧ください！  
+[土壌pHで切り替わる土壌炭素貯留メカニズム～有機複合体アルミニウムが主要因であることを実証～](https://www.kobe-u.ac.jp/ja/news/article/20260415-67748/)
 
 ***
 _17 December 2025_
