@@ -3,6 +3,12 @@ layout: page
 cover-image: /assets/img/soulofsoil.png
 ---
 ***
+_22 May 2026_  
+### 研究室行事
+圃場の草刈りをしました。草刈り機の導入で超時短でした。ガラス室と網室は今年度に取り壊されて新しく立つ予定なので，不要なものだけ残して物を回収しました。  
+<img src="/assets/img/IMG20260522101156.jpg" alt="image"><img src="/assets/img/IMG20260522103335.jpg" alt="image">
+
+***
 _27 April 2026_
 ### 論文アクセプト
 琵琶湖の溶存有機物と細菌類の成層期における共変動を表層と深層で比較した論文が[*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.70374)に公開されました！「溶存有機物複雑多様性プロジェクト」の1本目の論文をやっと世に出すことができました。木田助教としての着任後7本目の仕事でした。プレスリリースも出ているのでぜひご覧ください。  
