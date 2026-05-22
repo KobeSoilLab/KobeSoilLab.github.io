@@ -7,10 +7,12 @@ cover-img: /assets/img/horida.png
 ***
 _10-14 May 2026_  
 木田准教授，M2下谷，M1クワン，B4橋本：石垣島（マングローブプロジェクト）
+<img src="/assets/img/IMG20260511092437.jpg" alt="image">
 
 ***
 _28 February-7 March 2026_  
 藤嶽教授，木田助教，M1荘，M1下谷，M1クワン：台湾（マングローブプロジェクト）
+<img src="/assets/img/DSC01241.jpg" alt="image">
 
 ***
 _17-21 November 2025_  
