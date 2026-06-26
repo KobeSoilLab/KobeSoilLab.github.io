@@ -19,7 +19,7 @@ cover-img:
 
 ## 准教授
 **木田　森丸　Assoc. Prof. Morimaru Kida**  
-<img src="/assets/img/kida.jpg" alt="image" width="200" height="200">  
+<img src="/assets/img/77788sq350pixel.jpg" alt="image" width="200" height="200">  
 2021年に着任しました。活力があり面白い研究をする研究室を創っていきましょう！土壌中の土壌有機物や水中の溶存有機物など，環境中の天然有機物の動態や組成を研究しています。  
 研究の詳細は[グループHP](https://morimarukida.github.io/)をご覧ください。  
 **所属学会**  
