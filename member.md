@@ -57,14 +57,14 @@ cover-img:
 一言：東方神起が大好きです！  
 
 **Lorena Goretti (D2)**  
-テーマ：Soil carbon sequestration (Provisional)  
+テーマ：Influence of Vegetation Succession on Black Carbon Content in Montane Andosols  
 出身地：La Paz, Bolivia  
 出身大学：Universidad Mayor de San Andres (UMSA)  
 趣味：Drawing and listening to music. Enjoy any type of animation.  
 一言：“No adventure is fun if it’s too easy!”  
 
 **吉田 創 (D1) Hajime Yoshida**  
-テーマ：TBD  
+テーマ：pH別ピロリン酸抽出法を用いた土壌有機物の特徴付け  
 出身地：兵庫県  
 出身高校：県立伊丹高校→滋賀県立大学  
 趣味：卓球（最近は見る専）、ラジオ  
@@ -82,14 +82,14 @@ cover-img:
 一言：一番好きな飲み物はウーロンミルクティープラスお茶ゼリー！  
 
 **下谷 将大 Masahiro Shimotani**  
-テーマ：南極大陸の初期形成段階土壌における比重画分別土壌有機物の特徴について  
+テーマ：デルタ型マングローブ土壌における形態別有機物の分子組成について  
 出身地：石川県  
 出身高校：金沢泉丘高校  
 趣味：運動、温泉巡り  
 一言：天然パーマですがパーマをあてています。  
 
 **井上 岳 Gaku Inoue**  
-テーマ：下水より回収したリン酸アンモニウムマグネシウム(MAP)を含む新規肥料の肥効と土壌への影響評価  
+テーマ：固体炭素の分散特性および汚染土壌中の重金属類挙動への影響  
 出身地：大阪府  
 出身高校:泉陽高校  
 趣味：野球観戦  
@@ -100,35 +100,35 @@ cover-img:
 ## 博士前期課程（マスターコース）1年
 
 **Raekkhwan Polthanya**  
-テーマ：Comparison of soil organic carbon stabilization mechanisms in different mangrove stands  
+テーマ：Microhabitat Controls on Blue Carbon: How Hydrological Gradient and Plant Zonation Shape Organic Carbon Stabilization in Mineral-Dominated Mangrove Soil  
 出身地：Thailand  
 出身大学：Chulalongkorn University  
 趣味：Singing & Cooking  
 一言：コーヒーを飲まないと、魂が抜けてゾンビみたいに働いています。  
 
 **西田 怜香 Reika Nishida**  
-テーマ：TBD  
+テーマ：琵琶湖底泥由来溶存有機物の季節変動と分解に伴う分子組成変化の解明  
 出身地：広島県  
 出身高校：基町高校  
 趣味：自然巡り  
 一言：よく多忙と言われますが本当はスローライフに憧れています。  
 
 **平山 央晃 Hiroki Hirayama**  
-テーマ：TBD  
+テーマ：有機リン系難燃剤（OPFRs）とバイオチャーの複合曝露がシマミミズに及ぼす影響  
 出身地：兵庫県  
 出身高校：大教大池田高校  
 趣味：ゴルフ、野球観戦  
 一言：央晃を初見で読める人に出会いたいです。  
 
 **高橋 優生 Yuki Takahashi**  
-テーマ：TBD  
+テーマ：森林土壌における火葬骨埋設が土壌理化学性および焼骨の変質に及ぼす影響  
 出身地：宮城県  
 出身高校：仙台第三高校  
 趣味：漫画を読むことと音楽を聴くこと  
 一言：冬派です。夏はきらいです。  
 
 **嶌田 真音 Mao Shimada**  
-テーマ：TBD  
+テーマ：植生遷移段階の異なる黒ボク土における土壌有機物の蓄積機構の解析  
 出身地：山口県  
 出身高校：広島女学院高校  
 趣味：キャンプ  
@@ -139,21 +139,21 @@ cover-img:
 ## 学部4年
 
 **瀬戸田 恵李 Meguri Setoda**  
-テーマ：  
+テーマ：FT-ICR MSと二次元NMRを用いた琵琶湖溶存有機物組成の相補的解析  
 出身地：兵庫県  
 出身高校：淡路三原高校  
 趣味：スキューバーダイビング  
 一言：晴れ女の自信ありです！  
 
 **赤澤 麻帆 Maho Akazawa**  
-テーマ：  
+テーマ：EEM-PARAFAC解析を用いた各種腐植資材の特徴付け  
 出身地：岡山県    
 出身高校：岡山大安寺中等教育学校  
 趣味：料理  
 一言：よく食べます。クレープも焼けます。  
 
 **長田 伶音 Rene Osada**  
-テーマ：  
+テーマ：オゾン水施用による農耕地土壌の肥沃度変化と作物生育への影響  
 出身地：兵庫県  
 出身高校：高槻高校  
 趣味：ダンス  
@@ -167,21 +167,21 @@ cover-img:
 一言：野球が大好きです。クレープは焼けません  
 
 **橋本 曉尚 Akihisa Hashimoto**  
-テーマ：  
+テーマ：東南極宗谷海岸露岩域における湖沼堆積物中の有機物特性の把握  
 出身地：兵庫県  
 出身高校：淳心学院高等学校  
 趣味：少林寺拳法  
 一言：ビールが大好きです。ウイスキーも大好きです。  
 
 **境 文音 Ayane Sakai**  
-テーマ：  
+テーマ：本庄の土壌を用いた土壌中のBCの鉛直分布分析  
 出身地：三重  
 出身高校：四日市高校  
 趣味：ラクロス  
 一言：ラーメン屋巡りを趣味にしたいです。  
 
 **坂下 亮太 Ryota Sakashita**  
-テーマ：ミミズ  
+テーマ：被覆肥料の被膜殻のサイズ及び農薬との複合影響がシマミミズ(*Eisenia fetida*)の生育に与える影響  
 出身地：大阪  
 出身高校：天王寺高校  
 趣味：合気道、筋トレ  
