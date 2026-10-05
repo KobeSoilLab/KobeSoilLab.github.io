@@ -35,8 +35,10 @@ cover-img: /assets/img/kobe_univ_bg05.jpg
 
 ## 2023年度
 ### 修論
-* 「Organic carbon preservation mechanisms in mangrove soils, Ishigaki Island, Japan」濵田航太
-* 「溶存有機物の化学的多様性と細菌叢との共変動：溶存有機物の長期残存性の規定要因の解明に向けて」大平麻有里
+* 「Organic carbon preservation mechanisms in mangrove soils, Ishigaki Island, Japan」濵田航太  
+  「[Organo-metal coprecipitation contributes to stable organic carbon fraction in mangrove soil](https://www.sciencedirect.com/science/article/pii/S0341816225003777)」として論文化
+* 「溶存有機物の化学的多様性と細菌叢との共変動：溶存有機物の長期残存性の規定要因の解明に向けて」大平麻有里  
+  「[Couples in the deep: Dissolved organic matter–microbial linkages in the oxygenated hypolimnion of a deep freshwater lake](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.70374)」として論文化
 * 「温帯森林土壌におけるバイオチャー散布後の動態解析」大下田真帆
 * 「暖温帯コナラ林におけるバイオ炭施用7年経過後の土壌への影響評価」藤崎綾音
 * 「チベット高原およびモンゴル高原の草地土壌における腐植酸の化学構造特性」雪俐
@@ -44,11 +46,13 @@ cover-img: /assets/img/kobe_univ_bg05.jpg
 ### 卒論
 * 「暖温帯コナラ林におけるバイオ炭施用に伴う土壌一般理化学性の経年変化」内田理沙
 * 「農耕地に排出されるマイクロプラスチックがシマミミズ（Eisenia fetida）に与える影響」枝松伶真
-* 「タイ王国Bang Puのマングローブ植林クロノシーケンスにおける比重画分別土壌有機物特性の解明」渡辺悠太
+* 「タイ王国Bang Puのマングローブ植林クロノシーケンスにおける比重画分別土壌有機物特性の解明」渡辺悠太  
+  一部が「[Ecosystem carbon storage including soil to 3 m depth and carbon increment along a young mangrove restoration in Central Thailand](https://www.sciencedirect.com/science/article/pii/S0272771426004580)」として論文化
 * 「各種フルボ酸資材の定量分析」木曽栞里
 * 「家畜ふん堆肥における水抽出有機物の特徴付け：EEM-PARAFAC解析と¹H-NMR分析を用いて」伊藤希歩
 * 「腐植酸の芳香族性へのブラックカーボンの寄与の定量：抽出pHおよび分子量に着目して」山下実穂
-* 「タイ王国Bang Puのマングローブ植林クロノシーケンスにおける孔隙水溶存有機物の濃度・組成変化の解明」住岡龍
+* 「タイ王国Bang Puのマングローブ植林クロノシーケンスにおける孔隙水溶存有機物の濃度・組成変化の解明」住岡龍  
+  「[Tracking spatiotemporal variations in porewater dissolved organic matter in a planted mangrove chronosequence using FT-ICR MS](https://www.sciencedirect.com/science/article/pii/S0146638026000835)」として論文化
 
 ---
 ## 2022年度
