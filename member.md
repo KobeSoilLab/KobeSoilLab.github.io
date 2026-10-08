@@ -71,7 +71,7 @@ cover-img:
 一言：フィールドワークが好きです。沢山脱線もします…  
 
 **莊 若昀 (D1) Chuang Joyun**  
-テーマ：Study on organic-mineral complexes in mangrove forest soils: using sequential extraction with sodium pyrophosphate solutions at different pH  
+テーマ：Redox fluctuation controls on dissolved organic matter-mineral interactions in mangrove soil  
 出身地：台湾台中  
 出身大学：国立中興大学  
 趣味：ドラマ、アニメ、フェス  
