@@ -70,16 +70,16 @@ cover-img:
 趣味：卓球（最近は見る専）、ラジオ  
 一言：フィールドワークが好きです。沢山脱線もします…  
 
-***
-
-## 博士前期課程（マスターコース）2年
-
-**莊 若昀 Chuang Joyun**  
+**莊 若昀 (D1) Chuang Joyun**  
 テーマ：Study on organic-mineral complexes in mangrove forest soils: using sequential extraction with sodium pyrophosphate solutions at different pH  
 出身地：台湾台中  
 出身大学：国立中興大学  
 趣味：ドラマ、アニメ、フェス  
 一言：一番好きな飲み物はウーロンミルクティープラスお茶ゼリー！  
+
+***
+
+## 博士前期課程（マスターコース）2年
 
 **下谷 将大 Masahiro Shimotani**  
 テーマ：デルタ型マングローブ土壌における形態別有機物の分子組成について  
@@ -95,16 +95,16 @@ cover-img:
 趣味：野球観戦  
 一言：早起きは苦手です。 
 
-***
-
-## 博士前期課程（マスターコース）1年
-
 **Raekkhwan Polthanya**  
 テーマ：Microhabitat Controls on Blue Carbon: How Hydrological Gradient and Plant Zonation Shape Organic Carbon Stabilization in Mineral-Dominated Mangrove Soil  
 出身地：Thailand  
 出身大学：Chulalongkorn University  
 趣味：Singing & Cooking  
 一言：コーヒーを飲まないと、魂が抜けてゾンビみたいに働いています。  
+
+***
+
+## 博士前期課程（マスターコース）1年
 
 **西田 怜香 Reika Nishida**  
 テーマ：琵琶湖底泥由来溶存有機物の季節変動と分解に伴う分子組成変化の解明  
@@ -186,3 +186,28 @@ cover-img:
 出身高校：天王寺高校  
 趣味：合気道、筋トレ  
 一言：おすすめの太り方教えてください  
+
+***
+
+## 学部3年
+
+**大月 美空 Miku Otsuki**  
+テーマ：TBD  
+出身地：  
+出身高校：  
+趣味：  
+一言：  
+
+**佐藤 奏汰 Sota Satoh**  
+テーマ：TBD  
+出身地：  
+出身高校：  
+趣味：  
+一言：  
+
+**山田夢結 Yumeyu Yamada**  
+テーマ：TBD  
+出身地：  
+出身高校：  
+趣味：  
+一言：  
